@@ -1,0 +1,31 @@
+viii 
+ ABSTRAK  
+Amirudin, 2024.  Analisis Manajemen Risiko Terhadap Kinerja Keuangan 
+Dimoderasi Self Assessment Good Corporate Governace  (GCG) Pada 
+Perusahaan Perbankan Yang Terdaftar Di Bursa Efek Indonesia (BEI), dimbing 
+oleh Bapak Dr. Rustan, SE., M.Si., Ak., CA., CPA., ASEAN CPA  sebagai 
+pembimbing I dan Ibu Dr. Muchriana Muchran, SE.,  M.Si;Ak,CA  sebagai 
+pembimbing II  
+Penelitian ini bertujuan untuk mengetahui apakah manajemen risiko yang 
+diproyeksikan NPL (Net Performing Loan) , LDR ( Loan To Deposit Ratio ), BOPO 
+(Biaya Operasional  Terhadap Pendapatan Operasional)  dapat mempengaruhi 
+kinerja keuangan yang di proyeksikan oleh Return on Asset  (ROA) . Selain itu 
+penelitian ini bertujuan untuk mengetahui apakah Self Assessment Good 
+Corpurate Governance  (GCG ) mampu memoderasi hubungan manajemen  risiko 
+dan ROA.  Data yang digunakan dalam penelitian ini bersifat kuantitatif, data yang 
+digunakan merupakan data sekunder.  Adapun teknik analisis data yang digunakan 
+dalam penelitian ini adalah menggunakan Uji asumsi klasik, analisis regresi 
+moderasi, uji t, uji F menggunakan sofwere SPSS Moderated Regression Analysis 
+(MRA).   
+Hasil penelitian ini menunjukkan bahwa LDR tidak berpengaruh, dan 
+berhubungan negatif terhadap ROA. BOPO tidak berpengaruh, dan berhubungan 
+negatif terhadap ROA. NPL tidak berpengaruh, dan berhubungan positif terhadap 
+ROA. Self Assessment GCG  tidak memoderasi NPL terhadap ROA, dengan 
+hubungan negatif . Self Assessment GCG  tidak memoderasi LDR terhadap ROA, 
+dan berhubungan positif. Self Assessment GCG  tidak memoderasi BOPO 
+terhadap ROA, dengan hubungan yang negatif  
+ 
+Kata Kunci: Manajemen Risiko, NPL (Net Performing Loan) , LDR ( Loan To Deposit 
+Ratio ), BOPO (Biaya Operasional  Terhadap Pendapatan Operasional)  Return on 
+Asset  (ROA ). Self Assessment Good Corpurate Governance  (GCG )
+

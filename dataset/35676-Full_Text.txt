@@ -1,0 +1,1058 @@
+https://journal.unismuh.ac.id/index.php/kimap/index  
+ 
+ Volume 3, Nomor 4, Agustus 2022  PEMANFAATAN ELECTRONIC GOVERNMENT DI DINAS 
+KOMUNIKASI INFORMATIKA STATISTIK DAN PERSANDIAN 
+KABUPATEN LUWU  
+ 
+ 
+Sulis Tia Sari1, Hafiz Elfiansya Parawu2, Ahmad Harakan3 
+ 
+1. Ilmu Administrasi Negara, Universitas Muhammadiyah Makassar, Indonesia  
+2. Ilmu Administrasi Negara, Universitas Muhammadiyah Makassar, Indonesia  
+3.  Ilmu Administrasi Negara, Universitas Muhammadiyah Makassar, Indonesia  
+ 
+Abstra ct 
+ 
+This study purposed to find out the utilization of electronic government in the Department of 
+Communication, Information, Statistics and Encoding, Luwu Regency. This study used 
+qualitative research with descriptive type. There were eight informants in this  study. The 
+research data were collected through observation, interviews, and documentation. Validation 
+of data was done through triangulation of sources, techniques, and past time was analyzed 
+through data collection techniques, data reduction, data prese ntation and conclusion making. 
+The results showed that the use of Electronic Government at the Communication and 
+Information Office of Luwu Regency from the aspect of the eight elements of a successful e -
+government project, namely the Political Environment  of the Top Down Project (TDP) type, 
+Leadership was quite good. Plan had been realized well. Stakeholders had a high commitment 
+to establish good communication and cooperation. Transparency/visibility could be realized in 
+the form of information contained in the portal managed by the Luwu Regency Diskominfo. 
+Budgets came from the APBD. Technology developed using computerized devices. Innovation 
+by creating an information service system and an integrated service database adapted to an 
+integrated service work flow and integrated with Regional Apparatus Organizations (OPD) . 
+ 
+Keywords: utilization, electronic government  
+ 
+Abstrak  
+ 
+Kajian penelitian ini bertujuan untuk mengetahui pemanfaatan electronic government  di Dinas 
+Komunikasi Informatika Statistik dan Persandian Kabupaten Luwu . Penelitian ini menggunakan 
+jenis penelitian kualitatif dengan tipe deskriptif. Informan dalam penelitian ini berjumlah 
+delapan  orang. Data penelitian ini dikumpul melalui observasi, wawancara, dan dokumentasi. 
+Pengabsahan data dilakukan melalui triangulasi sumber, teknik, dan waktu lalu dianalisis 
+mela lui teknik pengumpulan data, reduksi data, penyajian data dan penarikan kesimpulan. Hasil 
+penelitian menunjukkan pemanfaatan   Electronic Government  di  Diskominfo Kabupaten Luwu  
+dari aspek  Delapan elemen sukses proyek e-government  yaitu Political Environment  bertipe 
+Top Down Project  (TDP), Leadership  sudah cukup baik. Planning  sudah terealisasi dengan 
+baik. Stakeholders  memiliki komitmen yang tinggi untuk menjalin komunikasi dan kerjasama 
+yang baik. Transparancy/visibility  mampu diwujudkan dalam bentuk informasi yang termuat 
+dalam portal yang dikelola oleh Diskominfo Kabupaten Luwu. Budgets  berasal dari APBD. 
+Technology  yang dikembangkan menggunakan perangkat komputerisasi. Innovation  dengan 
+membuat sistem layanan informasi dan database pelayanan terpadu disesuaikan dengan alur 
+kerja pelayanan terpadu dan terintegrasi dengan Organisasi Perangkat Daerah (OPD) . 
+ 
+Kata kunci:  pemanfaatan , electronic government  
+ 
+ sulistiasari@gmail.com  
+https://journal.unismuh.ac.id/index.php/kimap/index  
+ 
+1152  Volume 3, Nomor 4, Agustus 2022  PENDAHULUAN  
+ 
+Penggunaan informasi teknologi 
+(IT) di negara -negara berkembang 
+sudah semakin pesat dan memasuki 
+berbagai kebutuhan. Pemakaian 
+perangkat canggih berteknologi 
+komputer jejaring itu dirancang sejak 
+memasuki tahun 2000, ketika 
+pemanfaatan komputer semakin 
+merata. Pemerintah semakin 
+menunjukkan kebutuhan yang terus 
+meningkat terhadap pemakaian IT agar 
+bisa menjadikan kerja kerja birokrasi 
+lebih efektif dan efisien dalam 
+melayani kebutuhan masyarakat. 
+Teknologi informasi meliputi segala 
+hal yang berkaitan dengan  proses, 
+penggunaan sebagai alat bantu, 
+manipulasi, dan pengelolaan informasi. 
+Sedangkan teknologi komunikasi 
+adalah segala sesuatu yang berkaitan 
+dengan penggunaan alat bantu untuk 
+memproses dan mentransfer data dari 
+perangkat yang satu ke lainnya 
+(Nugroho, 2016) . 
+Perkembangan teknologi 
+informasi dan komunikasi telah 
+menawarkan solusi untuk 
+meningkatkan kinerja pelayanan publik 
+yang lebih berbasis pada good 
+governance . Salah satu tujuan 
+implementasi e-government adalah 
+agar lembaga pemerintah mampu menyediakan pelay anan publik yang 
+lebih baik. Pemanfaatan e-government 
+bagi birokrasi diharapkan dapat 
+menjadi alternatif bagi reformasi 
+birokrasi menuju pelayanan yang lebih 
+baik (Nugraha, 2018) . 
+Hartono dalam Nugraha (2018)  
+menjelask an e-government merupakan 
+suatu proses sistem pemerintahan 
+dengan memanfaatkan ICT 
+(Information, Communication and 
+Technology ) sebagai alat untuk 
+memberikan kemudahan proses 
+komunikasi dan transaksi kepada 
+warga masyarakat, organisasi bisnis 
+dan lembaga pe merintah serta stafnya. 
+Sehingga dapat dicapai efisiensi, 
+efektivitas, transparansi dan 
+pertanggungjawaban pemerintah 
+kepada warganya. Dengan konsep 
+pengembangan menyangkut hubungan 
+Government to Government (G2G), 
+Government to Business (G2B) dan 
+Governmen t to Citizens (G2C).  
+Penyelenggaraan e-government 
+di Indonesia telah dimulai saat sebelum 
+adanya Inpres No. 3 Tahun 2003, 
+sejalan dengan perkembangan 
+teknologi informasi dan jaringan 
+telepon. Pemerintah menyadari akan 
+manfaat penyelenggaraan e-
+government yang mendukung 
+penyelenggaraan Good Governance . Di 
+Indonesia, inisiatif menerapkan e-
+https://journal.unismuh.ac.id/index.php/kimap/index  
+ 
+1153  Volume 3, Nomor 4, Agustus 2022  government telah diperkenalkan sejak 
+tahun 2001 melalui Instruksi Presiden 
+No.6 Tahun 2001 tentang Telematika 
+(Telekomunikasi, Media, dan 
+Informatika). Kemudian keluarnya 
+Instruksi Presiden RI No.3 Tahun 2003 
+Tentang Kebij akan dan Strategi 
+Nasional Pengembangan e-government 
+yang diinstruksikan kepada Kepala 
+Lembaga Pemerintah Non Departemen, 
+Pimpinan Kesekretariatan Lembaga 
+Tertinggi Dan Tinggi Negara, 
+Panglima Tentara Nasional Indonesia, 
+Kepala Kepolisian Negara Republik 
+Indonesia, Jaksa Agung Republik 
+Indonesia, Gubernur, Bupati/Waliota 
+untuk mengambil langkah -langkah 
+yang diperlukan sesuai tugas, fungsi 
+dan kewenangan masing -masing guna 
+terlaksananya pengembangan e-
+government secara nasional dengan 
+berpedoman pada Kebijak an dan 
+Strategi Nasional Pengembangan e-
+government sebagaimana tercantum 
+dalam Lampiran Instruksi Presiden 
+(Muammar dkk, 2019) . 
+Berdasarkan definisi e-
+government tersebut dapat dilihat 
+bahwa e-government identik dengan 
+penggunaan teknologi informasi dan 
+komunikasi. Dapat dikatakan juga 
+bahwa e-government adalah 
+penggunaan teknologi informasi dan 
+komunikasi dalam penyelenggaraan pemerintah oleh lembaga pemerintah 
+untuk meningkatkan kinerja dan 
+hubungan antara pemerintah dan pihak 
+lain.  
+Pener apan e-government , akan 
+dapat membantu meniadakan hambatan 
+pertukaran informasi antar masyarakat 
+dan antar wilayah negara, dan dengan 
+demikian berbagai bentuk kesenjangan 
+yang bersumber dari 
+ketidakseimbangan kesempatan 
+memperoleh informasi dapat diatasi 
+secara bertahap; meningkatkan 
+ketersediaan informasi dan pelayanan 
+publik serta memperluas dan 
+memperdalam jangkauannya; 
+meningkatkan produktivitas, efisiensi, 
+dan kemampuan inovasi dalam sektor 
+produksi, serta memperlancar rantai 
+distribusi; meningkatkan t ransparansi 
+dan memperbaiki efisiensi pelayanan 
+publik; memperlancar interaksi antar 
+lembaga -lembaga pemerintah, baik 
+pada tingkat pusat maupun daerah, dan 
+dengan masyarakat.  
+Dalam mewujudkan birokrasi 
+yang efektiv, efisien, transparan dan 
+akuntabel berdas arkan Peraturan 
+Daerah Nomor 1 Tahun 2017 dan 
+Peraturan Bupati Nomor 76 Tahun 
+2017 pemerintah Kabupaten Luwu 
+telah mengintegrasikan birokrasi 
+berbasis elektronik yaitu Layanan 
+Informasi e-government Kabupaten 
+https://journal.unismuh.ac.id/index.php/kimap/index  
+ 
+1154  Volume 3, Nomor 4, Agustus 2022  Luwu.  
+Adapun layanan berbasis e-
+government yang dikelola oleh Dinas 
+Komunikasi Informatika Statistik dan 
+Persandian Kabupaten Luwu adalah E-
+Planning, Sikopral, E -Konfirmasi, 
+Kepegawaian, E -Kinerja, E -
+Musrenbang, E -Budgeting, E -Monev, 
+OAM, Simaya, Simap, Geoportal,  dan 
+e-mail. 
+Berdasarkan uraian yang t elah 
+dijelasakan sebelumnya, peneliti 
+mengangkat sebuah judul yaitu 
+Pemanfaatan Electronic Government di 
+Kabupaten Luwu khususnya pada 
+Dinas Komunikasi Informatika 
+Statistik dan Persandian Kabupaten 
+Luwu yang mengelola bidang e-
+government.  
+Anggara (2016)  Pengertian 
+kepemerintahan ( governance ) adalah 
+suatu kegiatan (proses), bahwa 
+governance  lebih merupakan 
+“serangkaian proses interaksi s osial 
+politik antara pemerintahan dan 
+masyarakat dalam berbagai kegiatan 
+yang berkaitan dengan kepentingan 
+masyarakat dan intervensi pemerintah 
+atas kepentingankepentingan tersebut.” 
+Pengertian tentang kepemerintahan 
+(governence ) lebih lanjut adalah 
+sebaga i a) Pemerintah atau 
+governmen t, The governing body of a 
+nation, state, city, etc, Istilah kepemerintahan atau dalam bahasa 
+Inggris governance berarti “the act, 
+fact, manner, of governing”.  
+Lebih lanjut Anggara (2016)  
+menjelaskan dalam bukunya 
+Governance adalah suatu proses 
+tentang pengurusan, pengelolaan, 
+pengarahan, pembinaan, 
+penyelenggaraan dan bisa juga 
+diartikan pemerintahan. Apabila dalam 
+proses keperintahan, unsur -unsur 
+tersebut dapat dilaksanakan dengan 
+baik, itu merupakan istilah 
+kepemerintahan yang baik ( good 
+governance ). Secara konseptual, 
+pengertian kata baik ( good ) dalam 
+istilah kepemerintahan yang baik ( good 
+governance ) mengandung du a 
+pemahaman, yaitu: a) Nilai yang 
+menjunjung tinggi keinginan/  kehendak 
+rakyat, dan nilai -nilai yang dapat 
+meningkatkan kemampuan rakyat 
+dalam pencapaian tujuan (nasional) 
+kemandirian, pembangunan 
+berkelanjutan dan keadilan sosial; b) 
+Aspek fungsional dari  pemerintah yang 
+efektif dan efisien dalam pelaksanaan 
+tugasnya untuk mencapai tujuan 
+tersebut.  
+World Bank menyatakan bahwa 
+e-governance  mengacu pada 
+penggunaan teknologi informasi oleh 
+instansi pemerintah yang memiliki 
+kemampuan untuk mengubah 
+https://journal.unismuh.ac.id/index.php/kimap/index  
+ 
+1155  Volume 3, Nomor 4, Agustus 2022  hubungan dengan masyarakat, bisnis, 
+dan badan lain dari pemerintah. 
+Teknologi ini dapat melayani berbagai 
+tujuan yang berbeda seperti pemberian 
+pelayanan yang lebih baik oleh 
+pemerintah kepada masyarakat, 
+meningkatkan interaksi dengan bisnis 
+dan industri, pemberdayaan warga 
+melalui akses informasi, dan 
+manajemen pemerintahan yang lebih 
+efisien. Manfaat yang dihasilkan dapat 
+mengurangi korupsi, pening katan 
+transparansi, kenyamanan yang lebih 
+besar, pertumbuhan pendapatan, 
+dan/pengurangan biaya (Kurniasih & 
+Wismaningtyas, 2020) . 
+Salah satu definisi e-government 
+dalam khazanah internasional yang 
+cukup banyak dirujuk adalah yang 
+berasal dari publikasi Bank Dunia, 
+yang mendefinisikan e-gove rnment 
+yaitu e-government referes to the use 
+bygovernment agencies of information 
+technologies (such as Wide Area 
+Network, the Internet, and mobile 
+computing)that have the ability to 
+transform relations with citizens, 
+businesses and other arms of 
+governmen t (Mariono, 2019) . 
+Sementara itu dalam artian lain 
+Shailen dra dalam Mariono (2019)  
+definisi sangat umum ini pada dasarnya 
+merujuk penggunaan teknologi informasi pada lembaga pemerintah 
+atau lembaga publik.  
+Indrajit dalam Parawu (2020)  
+menjelaskan  definisi dari e-
+government menurut World Bank “ E-
+government refers to the use by 
+government agencies of information 
+technologies (such as Wide Area 
+Networks, the Internet, and mobile 
+computing) that have the ability to 
+transform relations with citizens, 
+businesses, and other arms of 
+government”.  Nugroho (2016)  
+Implementasi e-government memiliki 
+beberapa tujuan dan sasaran yang 
+sesuai dengan prinsip -prinsip antara 
+lain: a) Peningkatan pemberian layanan 
+pemerintah , b) Pemberdayaan 
+masyarakat melalui  akses yang lebih 
+besar untuk mendapatkan informasi 
+dari pemerintah dan kemampuan untuk 
+dapat berinteraksi dan berpartisipasi , c) 
+Keberhasilan dalam transparansi dan 
+akuntabilitas yang lebih tinggi dari 
+pemerintah , d) Peningkatan hubungan 
+internal antara pemerintah dan 
+pengiriman elektronik warga.  
+ Indrajit, (2016)  mendefinisian 
+manfaat e-government yaitu: a) 
+Memperbaiki kualitas pelayanan 
+pemerintah kepada para stakeholder -
+nya (masyarakat, kalangan bi snis, dan 
+industri) terutama dalam hal kinerja 
+efektivitas dan esiensi di berbagai 
+https://journal.unismuh.ac.id/index.php/kimap/index  
+ 
+1156  Volume 3, Nomor 4, Agustus 2022  bidang kehidupan bernegara; b) 
+Meningkatkan transparansi, kontrol, 
+dan akuntabilitas penyelenggaraan 
+pemerintahan dalam rangka penerapan 
+konsep Good Corporate Governance ; 
+c) Mengurangi secara signikan total 
+biaya administrasi, relasi, dan interaksi 
+yang dikeluarkan pemerintah maupun 
+stakeholdernya untuk keperluan 
+aktivitas sehari -hari; d) Memberikan 
+peluang bagi pemerintah untuk 
+mendapatkan sumber -sumber 
+pendapatan baru melal ui interaksinya 
+dengan pihak -pihak yang 
+berkepentingan; e) Menciptakan suatu 
+lingkungan masyarakat baru yang 
+dapat secara epat dan tepat menjawab 
+berbagai permasalahan yang dihadapi 
+sejalan dengan berbagai perubahan 
+global dan trend yang ada; serta f) 
+Memb erdayakan masyarakat dan 
+pihak -pihak lain sebagai mitra 
+pemerintah dalam proses pengambilan 
+berbagai kebijakan publik secara 
+merata dan demokratis.  
+Menurut hasil kajian dan riset 
+dari Harvard JFK School of 
+Government  dalam (Indrajit, 2016) , 
+untuk menerapkan konsep -konsep 
+digitalisasi pada sektor publik, ada tiga 
+elemen sukses yang harus dimiliki dan 
+diperhatikan sungguh -sungguh. 
+Masing -masing elemen sukses tersebut 
+adalah: Support, Capacity , dan Value. Seperti halnya di dalam dunia aplikasi  
+e-Commerce  yang kerap diklasikasikan 
+menjadi dua jenis, yaitu tipe B -to-B 
+dan B -to-C, di dalam konsep E-
+government dikenal pula empat jenis 
+klasifikasi menurut (Indrajit, 2016) , 
+yaitu: G -to-C, G -to-B, G -to-G, dan G -
+to-E. Selanjutnya dirumuskan ada 8 
+(delapan) elemen sukses didal am 
+melakukan manajemen proyek e-
+Governmen (Indrajit, 2016)  yaitu: a) 
+Political Environment,  b) Leadership, 
+c) Planning, d) Stakeholders,  e) 
+Transparency/ Visibility, f) Budgets, g) 
+Technology,  h) Innovation.  
+ 
+METODE PENELITIAN  
+ 
+Penelitian ini menggunakan jenis 
+penelitian ku alitatif k arena sesuai 
+dengan tujuan penelitian yaitu untuk 
+mem berikan gambaran faktual 
+mengenai pemanfaatan  Electronic 
+Government  pada lingkungan kerja 
+pemerintahan di Diskominfo Kabupaten 
+Luwu.   
+Adapun informan dalam 
+penelitian ini adalah orang yang 
+didasarkan pada k emam puan d an 
+pengalama nnya untuk mem berikan 
+informasi terkait pemanfaatan 
+Electronic Government . Informan 
+tersebut berjumlah delapan orang dari 
+pihak kepala bagian dan staff yang ada 
+di Diskominfo Kabupaten Luwu.  
+https://journal.unismuh.ac.id/index.php/kimap/index  
+ 
+1157  Volume 3, Nomor 4, Agustus 2022  Data penelitian ini didapatkan 
+melalui observasi, wawancara, dan 
+dokumentasi. Pengabsahan data 
+dilakukan dengan tringulasi sumber, 
+teknik, dan waktu kemudian dianalisis 
+melalui reduksi data, penyajian data, 
+dan penarikan kesimpulan.  
+ 
+HASIL DAN PEMBAHASAN  
+ 
+Electronic Governmen t adalah 
+Suatu upaya untuk mengembangkan 
+penyalenggaraan kepemerintahan yang 
+berbasis elektronik. Suatu penataan 
+system manajemen dan proses kerja di 
+lingkungan pemerintah dengan 
+mengoptimalkan pemanfaatan 
+teknologi informasi dan komunikasi. 
+Selanjutnya e-Goverment  adalah 
+penggunaan teknologi informasi oleh 
+pemerintah untuk memberikan 
+informasi dan pelayanan bagi 
+warganya, urusan bisnis, serta hal -hal 
+lain yang berkenaan dengan 
+pemerintahan. E-government  dapat 
+diaplikasikan pada legislatif, yudikatif, 
+atau administrasi publik, untuk 
+meningkatkan efisiensi internal, 
+menyampaikan pelayanan publik, atau 
+proses kepemerintahan yang 
+demokratis.  
+Electronic Government  adalah 
+penggunaan teknologi informasi dan 
+komunikasi untuk mendukung good 
+governance . E-government  terdiri dari dua elemen penting yaitu 
+“governance ” sebagai konsep utama 
+dan “electronic”  atau ICTs 
+(information and communication 
+technologies ) sebagai alat untuk 
+meningkatkan proses government . 
+Word Bank menyatakan bahwa e-
+government mengacu pada penggunaan 
+teknologi informasi oleh instansi 
+pemerintah yang memiliki kemampuan 
+untuk mengubah hubungan dengan 
+masyarakat, bisnis, dan badan lain dari 
+pemerintah (Kurniasih & 
+Wismaningtyas, 2020).  
+Hasil penelitian menunjukkan 
+bahwa penerapan electronic 
+government  pada Dinas Komunikasi 
+Informatika Statistik dan Persandian 
+Kabupaten Luwu telah menerapkan 
+konsep tersebut. Hal itu dibuktikan 
+dengan adanya Peraturan Daerah 
+Nomor 1 Tahun 2017 dan Peraturan 
+Bupati Nomor 76 Tahun 2017 Bab VII 
+pemanfaatan teknologi informasi pasal 
+53. 
+Berdasarkan teori yang telah 
+dikemukakan diatas kemudian 
+dikaitkan dengan hasil penelitian 
+menunjukkan bahwa penerapan 
+pemerintahan berbasis elektronik di 
+Diskominfo Luwu telah direalisasikan 
+dengan adanya peraturan daerah 
+maupun peratu ran bupati. Hal lainnya 
+adalah dengan adanya sistem yang 
+https://journal.unismuh.ac.id/index.php/kimap/index  
+ 
+1158  Volume 3, Nomor 4, Agustus 2022  dibuat oleh Diskominfo Luwu dalam 
+pelayanan berbasis elektronik. Seperti 
+website pemerintah yang didalamnya 
+terdapat berbagai jenis layanan.  
+Berikut pembahasan penelitian 
+terkait dengan indikator ele men sukses 
+penerapan e-government  menurut 
+(Indrajit, 2016) yang terdiri delapan 
+elemen yaitu sebagai berikut.  
+ 
+Political Environment  
+ 
+Political Environment , adalah 
+keadaan atau situasi dimana proyek 
+tersebut di implementasikan. Ada dua 
+tipe proyek pengembangan e-
+government  yaitu: a) Top Down 
+Project (TDP) , proyek ini dikreasikan 
+melalui inisiatif dari pihak eksekutif 
+ataupun legislatif. b) Bottom Up 
+Project (BUP), proyek ini 
+dilaksanakan karena adanya ide dari 
+pegawai (birokrat) yang ada di dalam 
+suatu embaga pemerintah. Dua aspek 
+penting Political Environment , supaya 
+TDP berjalan dengan baik yaitu 
+dengan mengadakan sosialisasi 
+terhadap masyarakat dan meletak kan 
+implementasi proyek sebagai prioritas 
+tertinggi dalam pembangunan negara. 
+Sedangkan dalam BUP terdapat tiga 
+aspek penting dalam Political 
+Environment yaitu skala proyek harus 
+kecil sehingga memudahkan 
+implementasi, adanya kejelasan mengenai produk yang  dihasilkan, dan 
+manfaat yang diperoleh oleh pengguna 
+(Indrajit,  2016).  
+Hasil penelitian bahwa  e-
+government merupakan program 
+langsung dari Bupati yang selanjutnya 
+di buatkan Peraturan Daerah sebagai 
+payung hukum. Dalam hal ini berguna 
+memberikan pelayanan  kepada 
+masyarakat maupun Organisasi 
+Perangkat Daerah (OPD) dapat 
+terintegrasi. Dengan e-government  
+dapat meningkatkan efisiensi, 
+efektifitas, transparansi, dan 
+akuntabilitas penyelenggaraan 
+pemerintahan di Diskominfo 
+Kabupaten Luwu dengan maksud agar 
+tumb uh peningkatan kepercayaan 
+masyarakat terhadap citra 
+pelayananpemerintah khususnya 
+birokrasi sepenuhnya dapat di 
+realisasikan. Selanjutnya telah 
+terujudnya reformasi birokrasi.  
+Berdasarkan teori dan jika 
+dikaitkan dengan hasil penelitian 
+menunjukkan bahwa Political 
+Environment  dalam penerapan e -
+governent bertipe Top Down Project 
+(TDP) . Maksudnya yaitu kebijakan 
+berasal dari pimpinan atau pemerintah 
+yang dalam hal ini adalah Bupati 
+Kabupaten Luwu. Kebijakan tersebut 
+kemudian diimplementasikan oleh 
+Dinas Komu nikasi dan Informasi 
+https://journal.unismuh.ac.id/index.php/kimap/index  
+ 
+1159  Volume 3, Nomor 4, Agustus 2022  Statistik dan Persandian Kabupaten 
+Luwu dalam menerapkan e -
+government  yang melibatkan kerja 
+sama berbagai Organisasi Perangkat 
+Daerah (OPD) terkait.  
+ 
+Leadership  
+ 
+Faktor kepemimpinan biasanya 
+menempel pada mereka yang bertugas 
+sebagai pemimpin dari 
+penyelenggaraan proyek, yaitu para 
+manajer proyek (project manager). 
+Adalah merupakan tanggung jawab 
+dari manajer proyek untuk 
+melaksanakan sebuah proyek dari awal 
+hingga  akhir sesuai dengan siklus 
+proyek ( project life cycle ) yang 
+dijalankan (Indrajit, 2016).  
+Hasil penelitian peranan dari 
+pimpinan yaitu Kepala Dinas 
+Komunikasi Informasi Statistik dan 
+Persandian yang bertanggung jawab 
+terhadap pelaksanaan e-government  
+Hasil  penelitian membuktikan bahwa 
+pimpinan sudah berperan serta 
+mengkoordinir langsung dalam 
+kebijakan penerapan e-government  
+yang telah dilaksanakan oleh 
+Diskominfo serta memberikan 
+pengarahan kepada Staff/Pegawai 
+untuk memberikan pelayanan yang 
+prima kepada masyarakat dan OPD 
+terkait. Selanjutnya Bupati juga 
+memiliki peran dan tanggung jawab dalam penerapan e -government, hal ini 
+terlihat dalam konsistensinya mulai 
+darimengkoordinir dari perencanaan 
+hingga pelaksanaan e-government.  
+Kepala Dinas Komunikasi Info rmasi 
+Statistik dan Persandian juga memilki 
+peran sebagai project leader yang 
+mengatur atau mengendalikan 
+pelaksanaan proyek dan bertugas 
+memberikan arahan kepada tim IT. 
+Melalui pembagian peran ini, 
+kepemimpinan untuk proyek e-
+government  berjalan dengan b aik dan 
+mendapat dukungan dari segala pihak 
+baik pihak Diskominfo itu, Pemerintah 
+Daerah, Legislatif, Organisasi 
+Perangkat Daerah dan Masyarakat.  
+Berdasarkan penjelasan teori dan 
+hasil penelitan yang diperoleh, maka 
+dapat disimpulkan bahwa indikator 
+leders hip dalam penerapan e-
+government  pada Dinas Komunikasi 
+Informasi Statistik dan Persandian 
+Kabupaten Luwu sudah sesuai dengan 
+penerapannya. Hal ini dibuktikan 
+dengan kemampuan pimpinan tiap 
+Organisasi Perangkat Daerah (OPD) 
+terkait yang saling berkoordinasi , 
+demikian juga dengan staf -staf OPD. 
+Semuanya terjadi komunikasi dan 
+koordinasi yang baik antara pimpinan 
+dan staf maupun antar OPD terkait 
+dalam proyek e-government . 
+ 
+https://journal.unismuh.ac.id/index.php/kimap/index  
+ 
+1160  Volume 3, Nomor 4, Agustus 2022  Planning  
+ 
+Sesuai dengan siklus manajemen 
+proyek yang ada, perencanaan 
+merupakan sebuah tahap yang sangat 
+penting, karena pada tahap awal inilah 
+gambaran menyeluruh dan detail dari 
+rencana keberadaan sebuah inisiatif e-
+government  diproyeksikan. Pada 
+dasarnya, sebuah perencanaan yang 
+baik akan memiliki kontribusi yang 
+sangat besar terhadap pen yelenggaraan 
+proyek secara keseluruhan karena apa 
+yang dilaksanakan pada siklus 
+berikutnya sebenarnya adalah 
+pengejawantahan dari rencana dasar 
+yang telah disepakati (baseline 
+planning).  Karena kebanyakan dari 
+proyek e-government  harus melibatkan 
+lebih dar i satu departemen (lintas 
+sektoral), maka seluruh stakeholder 
+yang terlibat harus menyetujui rencana 
+yang disusun oleh manajer proyek 
+bersama dengan pihak lain yang 
+berkepentingan (Indrajit, 2016).  
+Hasil penelitian menunjukkan 
+adanya dukungan dalam bentuk 
+penerapan e- government,  dan 
+kecakapan dari seluruh pegawai dalam 
+melayani masyarakat. Semua OPD 
+yang terkait bersama -sama 
+merencanakan proyek dengan jalan 
+melakukan rapat koordinasi setiap 
+minggu bahkan setiap dibutuhkan.  Dari pembahasan teori dan hasil 
+penelitian dapat disimpulkan bahwa 
+dari rencana dasar yang telah 
+disepakati ( baseline planning ), telah 
+melibatkan lebih dari satu departemen 
+(lintas sektoral). Ini dibuktikan dengan 
+Semua OPD yang terkait bersama -
+sama merencanakan proyek dengan 
+melakukan k oordinasi serta 
+pembahasan mengenai proyek e-
+government.  
+ 
+Stakeholder  
+ 
+Merupakan tugas pemimpin 
+proyek atau manajer proyek untuk 
+dapat memahami kepentingan dari 
+masing -masing stakeholder  yang ada 
+dan mencoba menyatukannya agar 
+seluruh perbedaan kepentingan yang 
+dimaksud dapat menuju kepada satu 
+arah pencapaian visi dan misi e -
+government (konvergensi). Pihak - 
+pihak yang dianggap sebagai 
+stakeholder utama dalam proyek e-
+government  antara la in: pemerintah 
+(lembaga terkait dengan seluruh 
+perangkat manajemen dan 
+karyawannya), sektor swasta, 
+masyarakat, lembaga -lembaga 
+swadaya masyarakat, perusahaan, dan 
+lain sebagainya (Indrajit, 2016).  
+Hasil penelitian Semua 
+stakeholders  telah berperan bai k seusai 
+dengan kepentingan masing -masing 
+https://journal.unismuh.ac.id/index.php/kimap/index  
+ 
+1161  Volume 3, Nomor 4, Agustus 2022  pihak dan juga sangat mendukung 
+penerapan e- government.  
+Stakeholders  di sini meliputi semua 
+pihak baik pimpinan maupun staf di 
+semua OPD yang terlibat yang 
+setidaknya terdiri dari 17 OPD. 
+Demikian juga kerja sama antara OPD 
+dan masyarakat dalam pelaksanaan e-
+government . 
+Berdasarkan teori dan hasil 
+penelitian, maka dapat disimpulkan 
+telah sesuai dengan teori yang 
+menyatakan bahwa pihak -pihak yang 
+terlibat sebagai stakeholder utama 
+dalam proyek e-government  adalah 
+Organisasi Perangkat Daerah (OPD) 
+yang saling bekerjasama. Mulai dari 
+pimpinan dan staf serta keterlibatan 
+masyarakat. Hal ini juga telah 
+terlaksana pada keterlibatan 
+stakeholder pada proyek e-government  
+Diskminfo Kabupaten Luwu . 
+ 
+Transparancy/Visibility  
+ 
+Transparansi sebuah proyek e -
+government sangat erat kaitannya 
+dengan keberadaan stakeholder , dalam 
+arti kata adalah bahwa harus selalu 
+tersedia seluruh data dan informasi 
+mengenai seluk beluk dan status 
+proyek yang sedang berlangsung untuk 
+dapat secara beb as diakses oleh 
+stakeholder  yang beragam tersebut. 
+Tersedianya akses terhadap informasi semacam status proyek, alokasi 
+sumber daya, evaluasi per tahap 
+proyek, dan lain sebagainya bertujuan 
+untuk menciptakan kredibilitas dan 
+legitimasi yang baik bagi para 
+penyelenggara proyek maupun 
+stakeholder  sebagai pihak yang 
+melakukan monitoring (Indrajit, 2016).  
+Hasil penelitian terkait dengan 
+transparansi adalah keterbukaan 
+informasi terkait penerapan e-
+government  maupun keterbukaan 
+informasi dan layanan pemerintahan 
+sepenuhnya dapat diakses oleh 
+stakeholder . Ini membuktikan bahwa 
+transparansi penerapan e-government  
+di Disk ominfo Luwu sudah baik dan 
+sesuai dengan aturan yang berlaku. 
+Namun masih memiliki kendala yaitu 
+adanya beberapa akses yang sering 
+error dan masih a danya OPD yang 
+tidak terbuka persoalan data dan 
+informasi.  
+Berdasarkan teori dan hasil 
+penelitian, maka disimpulkan bahwa 
+ketersediaan akses informasi sudah 
+baik. Namun karena masih adanya 
+OPD yang tidak terbuka persoalan data 
+dan informasi menyebabkan adanya 
+hambatan pada sistem e-government.  
+Hal ini menyebabkan sistem yang 
+sudah ada untuk memuat data dan 
+informasi dari OPD terkait tidak 
+terealisasi sebagaimana mestinya.  
+https://journal.unismuh.ac.id/index.php/kimap/index  
+ 
+1162  Volume 3, Nomor 4, Agustus 2022  Budget  
+ 
+Sumber daya finansial yang 
+dianggarkan pada sebuah proyek e-
+government merupakan salah satu 
+elemen strategis dan sangat 
+menentukan berha sil tidaknya 
+pelaksanaan sebuah proyek. 
+Berdasarkan kenyataan yang ada, 
+besarnya anggaran yang disediakan 
+pemerintah (dan kalangan lain 
+semacam swasta atau bantuan dari luar 
+negeri) sangat bergantung pada tingkat 
+prioritas yang diberikan oleh 
+pemerintah te rhadap status proyek 
+terkait (Indrajit, 2016).  
+Hasil penelitian menunjukkan 
+bahwa terdapat kekurangan anggaran 
+dalam penerapan e-government . Hal 
+ini dipicu karena anggaran sepebuhnya 
+berasal dari APBD dan tidak ada 
+bantuan dari pihak lain. Anggaran 
+yang kh ususkan untuk e- government  
+dikatakan belum memenuhi kebutuhan 
+yang diperlukan dalam penerapan 
+tersebut karena masih membutuhkan 
+peralatan yang canggih.  
+Berdasarkan kajian teori dan 
+hasil penelitian, dapat disimpulkan 
+bahwa besarnya anggaran yang 
+disediaka n pemerintah masih dirasa 
+belum memadai. Dikarenakan 
+kebutuhan untuk biaya peralatan dan 
+biaya lainnya membutuhkan biaya yang besar. Sementara anggaran yang 
+disediakan dalam hal ini APBD 
+terbatas. Hal ini juga dipengaruhi tidak 
+adanya pihak lain yang memba ntu 
+pendanaan proyek e-government  di 
+pemerintahan Kabupaten Luwu 
+khususnya Dinas Komunikasi 
+Informasi statistik dan persandian 
+Kabupaten Luwu.  
+ 
+Technology  
+ 
+Spektrum teknologi informasi 
+yang dipergunakan di dalam e-
+government  sangatlah lebar, dari yang 
+paling sederhana dan murah sampai 
+dengan yang paling canggih (state -of-
+the-art). Adalah merupakan suatu 
+kenyataan bahwa pilihan teknologi 
+yang akan diimplementasikan di dalam 
+sebuah proyek e-government  sangat 
+tergantung dengan anggaran yang 
+tersedia. Semakin b esar anggaran yang 
+ada, semakin canggih teknologi yang 
+dapat dipilih dan dipergunakan, yang 
+cenderung akan meningkatkan 
+probabilitas berhasilnya suatu proyek 
+(Indrajit, 2016).  
+Hasil penelitian menunjukkan 
+bahwa penggunaan teknologi dalam 
+proyek e-governmen t pada Diskominfo 
+Kabupaten Luwu didukung dengan 
+peralatan seperti perangkat komputer, 
+jaringan internet, dan ruangan server. 
+Namun masih terkendala dengan 
+https://journal.unismuh.ac.id/index.php/kimap/index  
+ 
+1163  Volume 3, Nomor 4, Agustus 2022  pengadaan peralatan yang lebih 
+canggih. Hal ini dikarenakan biaya 
+peralatan relatif mahal dan anggar an 
+pengadaannya minim.  
+Berdasarkan hasil penelitian dan 
+jika dikaitkan dengan teori maka dapat 
+disimpulkan bahwa sarana dan 
+prasarana teknologi penunjang 
+penerapan e-government  sudah 
+terpenuhi namun masih perlu 
+peningkatan. Seperti pengadaan 
+peralatan yang  lebih canggih dan 
+pendanaan yang lebih besar.  
+ 
+Inovation  
+ 
+kemampuan anggota proyek 
+untuk melakukan inovasi -inovasi 
+tertentu sangatlah diperlukan. Yang 
+dimaksud dengan invovasi di sini 
+tidaklah terbatas pada kemampuan 
+menciptakan produk -produk baru 
+tertent u, tetapi mereka yang terlibat di 
+dalam proyek harus memiliki sejumlah 
+tingkat kreativitas yang cukup, 
+terutama dalam melakukan 
+pengelolaan terhadap proyek e-
+government  yang ada, sehingga 
+berbagai hambatan yang kerap ditemui 
+dalam sebuah proyek dapat denga n 
+mudah dihilangkan (Indrajit, 2016).  
+Hasil penelitian menunjukkan 
+bahwa bahwa inovasi yang ada di 
+Diskominfo masih memiliki beberapa 
+kendala dalam penerapannya. Yaitu masih minimnya staff yang memiliki 
+kreativitas. Kendala lainnya adalah 
+kurangnya antusia s OPD terkait 
+penerapan sistem yang disediakan. 
+Sehingga ada beberapa layanan yang 
+tidak dapat dimanfaatkan. Namun 
+Diskominfo telah mengunakan 
+beberapa portal dan sistem database 
+yang terintegrasi dengan OPD terkait.  
+Berdasarkan penjelasan teori dan 
+hasil penelitian, maka dapat 
+disimpulkan bahwa tingkat kreativitas 
+yang belum memadai oleh beberapa 
+staff pengelola e- government  pada 
+Diskominfo Kabupaten Luwu. 
+Kendala lainnya adalah kurangnya 
+antusias OPD terkait penerapan sistem 
+yang disediakan. Sehingga ada  
+beberapa layanan yang tidak dapat 
+dimanfaatkan.  
+ 
+KESIMPULAN  
+ 
+Berdasarkan data yang diperoleh 
+oleh peneliti maka dapat disimpulkan 
+bahwa penerapan e-government  pada 
+Dinas Komunikasi Informatika 
+Statistik dan Persandian Kabupaten 
+Luwu sudah berjalan dengan baik. Hal 
+tersebut didasarkan pada delapan 
+elemen sukses dalam management 
+proyek e-government  yang telah 
+dilaksanakan.  
+ 
+ 
+https://journal.unismuh.ac.id/index.php/kimap/index  
+ 
+1164  Volume 3, Nomor 4, Agustus 2022  Hasil penelitian menunjukkan 
+bahwa pener apan e-government  di 
+Diskominfo Kabupaten Luwu sudah 
+baik namun masih ada beberapa 
+permasalahan yang didapat. Hal 
+tersebut didasarkan pada: Delapan 
+elemen sukses proyek e-government  
+yaitu:  1) Political Environment  bertipe 
+Top Down Project  (TDP). Yaitu 
+kebijakan yang berasal dari pimpinan 
+atau pemerintah Maksudnya yaitu 
+kebijakan berasal dari pimpinan atau 
+pemerintah yang dalam hal ini adalah 
+Bupati Kabupaten Luwu. Kebijakan 
+tersebut kemudian diimplementasikan 
+oleh Dinas Komunikasi dan Informasi 
+Statistik da n Persandian Kabupaten 
+Luwu dalam menerapkan e-
+government  yang melibatkan kerja 
+sama berbagai Organisasi Perangkat 
+Daerah (OPD) terkait. 2) Leadership  
+sudah cukup baik. Hasil penelitian 
+membuktikan bahwa pimpinan sudah 
+berperan serta mengkoordinir langsung  
+dalam kebijakan penerapan e-
+government  yang telah dilaksanakan 
+oleh Diskominfo serta memberikan 
+pengarahan kepada Staff/Pegawai 
+untuk memberikan pelayanan yang 
+prima kepada masyarakat dan OPD 
+terkait. Selanjutnya Bupati juga 
+memiliki peran dan tanggung ja wab 
+dalam penerapan e-government,  hal ini 
+terlihat dalam konsistensinya mulai darimengkoordinir dari perencanaan 
+hingga pelaksanaan e-government . 3) 
+Planning  sudah terealisasi dengan 
+baik. dan hasil penelitian dapat 
+disimpulkan bahwa dari rencana dasar 
+yang telah disepakati (baseline 
+planning), telah melibatkan lebih dari 
+satu departemen (lintas sektoral). Ini 
+dibuktikan dengan Semua OPD yang 
+terkait bersama -sama merencanakan 
+proyek dengan melakukan koordinasi 
+serta pembahasan mengenai proyek e-
+government.  4) Stakeholders memiliki 
+komitmen yang tinggi untuk menjalin 
+komunikasi dan kerjasama yang baik. 
+dapat disimpulkan telah sesuai dengan 
+teori yang menyatakan bahwa pihak -
+pihak yang terlibat sebagai stakeholder  
+utama dalam proyek e-government  
+adalah Organisa si Perangkat Daerah 
+(OPD) yang saling bekerjasama. Mulai 
+dari pimpinan dan staf serta 
+keterlibatan masyarakat. Hal ini juga 
+telah terlaksana pada keterlibatan 
+stakeholder  pada proyek e-government  
+Diskminfo Kabupaten Luwu. 5) 
+Transparancy/visibility  mampu 
+diwujudkan dalam bentuk informasi 
+yang termuat dalam portal 
+http://luwukab.go.id dan 
+http://diskominfoluwu.go.id  maka 
+disimpulkan bahwa ketersediaan akses 
+informasi sudah baik. Namun karena 
+masih adanya OPD yang tidak terbuka 
+https://journal.unismuh.ac.id/index.php/kimap/index  
+ 
+1165  Volume 3, Nomor 4, Agustus 2022  persoalan data dan informasi 
+menyebabkan adanya hambatan pada 
+sistem e-government . Hal ini 
+menyebabkan sistem yang sudah ada 
+untuk memuat data  dan informasi dari 
+OPD terkait tidak terealisasi 
+sebagaimana mestinya. 6) Budgets  
+berasal dari APBD, dapat disimpulkan 
+bahwa besarnya anggaran yang 
+disediakan pemerintah masih dirasa 
+belum memadai. Dikarenakan 
+kebutuhan untuk biaya peralatan dan 
+biaya lai nnya membutuhkan biaya 
+yang besar. Sementara anggaran yang 
+disediakan dalam hal ini APBD 
+terbatas. Hal ini juga dipengaruhi tidak 
+adanya pihak lain yang membantu 
+pendanaan proyek e-government  di 
+pemerintahan Kabupaten Luwu 
+khususnya Dinas Komunikasi 
+Inform asi statistik dan persandian 
+Kabupaten Luwu. 7) Technology  yang 
+dikembangkan menggunakan 
+perangkat komputerisasi. dapat 
+disimpulkan bahwa sarana dan 
+prasarana teknologi penunjang 
+penerapan e-government  sudah 
+terpenuhi namun masih perlu 
+peningkatan. Seperti  pengadaan 
+peralatan yang lebih canggih dan 
+pendanaan yang lebih besar. 8) 
+Innovation  dengan membuat sistem 
+layanan informasi dan database 
+pelayanan terpadu disesuaikan dengan alur kerja pelayanan terpadu dan 
+terintegrasi dengan Organisasi 
+Perangkat Daerah  (OPD). maka dapat 
+disimpulkan bahwa tingkat kreativitas 
+yang belum memadai oleh beberapa 
+staff pengelola e- government  pada 
+Diskominfo Kabupaten Luwu. 
+Kendala lainnya adalah kurangnya 
+antusias OPD terkait penerapan sistem 
+yang disediakan. Sehingga ada 
+beberapa layanan yang tidak dapat 
+dimanfaatkan.  
+ 
+DAFTAR PUSTAKA  
+ 
+Anggara, S. (2016). Ilmu Adminsitrasi 
+Negara. Bandung: CV. Pustaka 
+Setia.  
+Indrajit, R. E. (2016). Konsep dan 
+Strategi Electronic Government.  
+Yogyakarta: Andi Yogyakarta.  
+Kurniasih, Y., & Wismaningtyas, T. A. 
+(2020). Smart City  Kota 
+Magelang : Perubahan 
+Manajemen Pemerintahan 
+Daerah dalam Penerapan 
+Electronic Governance.  JIAP 
+(Jurnal Ilmu Administrasi 
+Publik) , 8(2), 356.  
+Mariono, S. (2019). Penerapan E-
+Government  Dalam Pelayanan 
+Publik Di Kabupaten Sidoarjo. 
+Journal of Chemical Information 
+and Modeling , 53(9), 1689 –1699.  
+Muammar, M. A., Parawu, H. E., & 
+Haq, N. (2019). Pengaruh 
+Penerapan E -Government 
+Terhadap Informatika Dan 
+Statistik Kabupaten Wajo. Kajian 
+Ilmiah Mahasiswa Administrasi 
+Publik (KIMAP) , 2(2), 414 -426. 
+Nugraha, J. T. (2018). E-Government  
+Dan Pelayanan Publik (Studi 
+Tentang Elemen Sukses 
+https://journal.unismuh.ac.id/index.php/kimap/index  
+ 
+1166  Volume 3, Nomor 4, Agustus 2022  Pengembangan E-Government Di 
+Pemerintah Kabupaten Sleman). 
+Jurnal Komunikasi Dan Kajian 
+Media , 2(1), 32 –42. 
+Nugroho, T. (2016). Analisis E-
+government Terhadap Pelayanan 
+Publik Di Kementerian Hukum 
+Dan Ham (Analysis of E -
+government to Public Services in 
+the Ministry of Law and Human 
+Rights).  Jurnal Ilmiah Kebijakan 
+Hukum , 10(3), 279 –296. 
+Parawu, H. E. (2020). Efektivitas 
+Pemanfaatan Electronic 
+Government  Guna Meningkatkan 
+Kedisiplinan Pegawai Badan 
+Usaha Milik Negara. Journal 
+Publicuho , 3(3), 311.  

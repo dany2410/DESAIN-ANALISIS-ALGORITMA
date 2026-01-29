@@ -1,0 +1,86 @@
+ 
+ 
+vi 
+ ABSTRAK  
+ 
+        Kemajuan yang cepat dalam teknologi, terutama dalam bidang komputer, telah 
+memainkan peranan yang besar dalam mendukung inovasi sistem pengenalan 
+karakter secara otomatis, termasuk untuk aksara Lontara’. Salah satu tugas utama 
+dalam penelitian ini adalah m erancang penggunaan algoritma deteksi objek 
+YOLOv8 dengan cara yang optimal agar dapat mengenali dan mengklasifikasikan 
+karakter aksara Lontara’ dengan akurasi yang tinggi dan kinerja yang dapat 
+diandalkan. Oleh karena itu, tujuan utama dari penelitian ini  adalah untuk 
+mengevaluasi sejauh mana efektivitas algoritma YOLOv8 dalam menunjang proses 
+pengenalan citra serta klasifikasi otomatis huruf -huruf dalam aksara Lontara’.  
+      Studi ini dilakukan di Universitas Muhammadiyah Makassar dengan 
+menggunakan metode eksperimen yang mengandalkan teknik pembelajaran mesin 
+sebagai dasar utama dalam menciptakan sistem untuk mendeteksi secara visual. 
+Langkah pertama melibatkan pengumpulan da taset yang berisi gambar digital yang 
+menggambarkan berbagai karakter aksara Lontara’. Dataset ini kemudian melalui 
+proses penandaan manual, di mana setiap gambar diberi label berdasarkan huruf 
+yang ditampilkan untuk menyiapkan data pelatihan yang te pat. Selanjutnya, data 
+dibagi menjadi tiga subset secara teratur: 70% digunakan untuk pelatihan model, 
+20% untuk validasi yang berguna untuk memantau stabilitas model selama proses 
+pembelajaran, dan 20% Sisanya dimanfaatkan sebagai data uji untuk secara ob jektif 
+mengevaluasi kinerja akhir model.  
+       Hasil evaluasi kuantitatif terhadap performa model menunjukkan kinerja yang 
+sangat optimal dan sesuai dengan harapan. Model deteksi objek yang dirancang 
+menggunakan algoritma YOLOv8 dalam studi ini berhasil mencatatkan performa 
+tinggi, dengan akurasi menca pai 98,2%, presisi sebesar 98,1%, dan recall sempurna 
+sebesar 100%. Pencapaian metrik tersebut mencerminkan tingkat efisiensi dan 
+reliabilitas sistem dalam mengenali serta mengklasifikasikan karakter aksara 
+Lontara’ pada berbagai kondisi visual, sek aligus memperkuat kredibilitas model 
+untuk diimplementasikan dalam skenario dunia nyata.  
+       Sebagai saran untuk penelitian selanjutnya, disarankan untuk memperluas 
+variasi data dengan melibatkan lebih banyak partisipan dan sumber gambar untuk 
+meningkatkan keberagaman dataset, sehingga model dapat lebih baik dalam 
+menggeneralisasi terhadap data ba ru. Selain itu, mencari algoritma yang lebih 
+modern atau menggunakan metode campuran dengan menggabungkan berbagai 
+teknik pembelajaran mendalam bisa jadi cara yang bagus untuk memperbaiki 
+kinerja dan daya tahan sistem dalam menghadapi situasi operas ional yang lebih 
+kompleks.  
+Kata Kunci: Pengenalan Aksara Lontara’, YOLOv8, Deep Learning, Literasi.  
+
+ 
+ 
+vii 
+ ABSTRACT  
+       The rapid advancement of technology, particularly in the field of computing, 
+has played a significant role in supporting innovations in automatic character 
+recognition systems, including those designed for the Lontara script. One of the 
+primary objectives of this research is to design an optimal implementation of the 
+YOLOv8 object detection algorithm to accurately and reliably recognize and 
+classify Lontara characters. Therefore, the main goal of this study is to evaluate the 
+effectiveness of the YOLOv8 alg orithm in supporting the image recognition and 
+automatic classification process of characters in the Lontara writing system.  
+      This study was conducted at Universitas Muhammadiyah Makassar using an 
+experimental method that relied on machine learning techniques as the foundation 
+for building a visual detection system. The initial phase involved collecting a 
+dataset consisting of di gital images representing various Lontara characters. These 
+images underwent a manual annotation process, where each image was labeled 
+based on the character it depicted, to prepare appropriate training data. The dataset 
+was then systematically divid ed into three subsets: 70% for training the model, 20% 
+for validation to monitor model stability during the learning phase, and the 
+remaining 20% for testing, which served as the basis for objectively evaluating the 
+model’s final performance.  
+        Quantitative evaluation results revealed that the model achieved highly 
+satisfactory and optimal performance. The object detection model developed using 
+the YOLOv8 algorithm demonstrated strong results, recording an accuracy of 
+98.2%, a precision of 98.1%,  and a perfect recall score of 100%. These performance 
+metrics indicate the system's efficiency and reliability in recognizing and 
+classifying Lontara characters under varying visual conditions, thereby 
+strengthening the model's credibility for imp lementation in real -world scenarios.  
+        For future research, it is recommended to increase dataset diversity by 
+involving more participants and image sources to enrich the variability of the 
+training data, thereby enhancing the model’s generalization capabilities. Moreover, 
+exploring more advanc ed algorithms or integrating hybrid approaches through the 
+combination of various deep learning techniques may offer promising strategies to 
+further improve the system’s performance and resilience in handling more complex 
+operational environments.  
+Keywords:  Lontara Script Recognition, YOLOv8, Deep Learning, Literacy.  
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,57 @@
+ 
+v RANCANG BANGUN MODUL PEMBANGKIT HYBRID SOLAR CELL 
+DENGAN GENSET PADA LABORATORIUM UNISMUH MAKASSAR  
+Muhammad Bayu Saputra dan Hasmirandi Gusti  
+Mahasiswa Program Studi Teknik Elektro Unismuh  Makassar  
+ABSTRAK  
+ Sistem hybrid dengan memadukan solar cell dan genset menjadi alternatif yang 
+aktif. Genset berfungsi sebagai sumber cadangan ketika daya dari solar cell tidak 
+mencukupi kebutuhan beban. Agar kedua sumber energi ini dapat digunakan 
+secara bersama – sama dan efisien, dibutuhkan Grid Tie Inverter (GTI) sebagai 
+perangkat sinkronisasi. Dalam perancangan ini memiliki tujuan untuk memahami 
+kinerja pembangkit listrik sistem hybrid solar cell dengan genset dalam keadaan 
+daya kecil dengan menggunakan Grid Tie Inverter untuk sinkronisasi. Hasil 
+pengukuran panel surya mendapatkan rata – rata daya 10,25 Watt, hasil 
+pengukuran genset mendapatkan daya 48,9 Watt pada beban satu lampu dan 81,0 
+pada beban dua lampu, sedangkan hasil pengujian sistem hybrid mendapatkan rata 
+tegangan 20 V pada cuaca terang dan 6 V pada cuaca mendung. Dengan demikian, 
+dapat disimpulkan bahwa modul pembangkit hybrid berhasil dirancang dan dibuat 
+dengan menggabungkan sumber energi dari panel surya dengan genset 
+menggunakan Grid Tie Inverter sehingga dapat berpindah sumber daya secara 
+otomati  
+Kata Kunci : Pembangkit hybrid solar cell, genset, Grid Tie Inverter  
+  
+
+ 
+vi RANCANG BANGUN MODUL PEMBANGKIT HYBRID SOLAR CELL 
+DENGAN GENSET PADA LABORATORIUM UNISMUH MAKASSAR  
+Muhammad Bayu Saputra and Hasmirandi Gusti  
+Student of the electrical engineering study program at Unismuh Makassar  
+Abstract  
+A hybrid system combining solar cells and a generator is an active alternative. The 
+generator serves as a backup source when the solar cell's power is insufficient to 
+meet the load's needs. To ensure efficient use of both energy sources, a Grid Tie 
+Inverter (GTI) is required as a synchronization device. This design aims to 
+understand the performance of a hybrid solar cell and generator power generation 
+system under low power conditions, using a Grid Tie Inverter for synchronization. 
+Measurements of the solar panels yielded an average power of 10.25 watts, while 
+measurements of the generator yielded 48.9 watts for a single lamp load and 81.0 
+watts for a two -lamp load. Tests of the hybrid system yielded an average voltage 
+of 20 V on sunny days and 6 V on cloudy days. Therefore, it can be concluded 
+that the hybrid generator module was successfully designed and manufactured by 
+combining solar panels with a generator using a Grid Tie Inverter, enabling 
+automatic power source switching.  
+Keywords: Hybrid solar cell generator, generator, Grid  Tie Inverter  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,1900 @@
+ 
+ “THE RELATIONSHIP OF DIET AND PHYSICAL ACTIVITY ON THE 
+INCIDENT LEVEL OF OBESITY IN FACULTY OF MEDICAL  
+STUDENTS, MUHAMMADIYAH MAKASSAR UNIVERSITY ” 
+ 
+“HUBUNGAN POLA MAKAN DAN AKTIVITAS FISIK TERHADAP 
+TINGKAT KEJADIAN OBESITAS MAHASISWA FAKULTAS 
+KEDOKTERAN U NIVERSITAS MUHAMMADIYAH  
+MAKASSAR”  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RAFLY ILMYANSYAH  
+105421104321  
+ 
+SKRIPSI  
+Diajukan kepada Fakultas Kedokteran dan Ilmu Kesehatan Universitas 
+Muhammadiyah Makassar untuk memenuhi sebagian persyaratan guna 
+memperoleh gelar sarjana kedokteran  
+ 
+Pembimb ing 
+Dr. dr. Wahyudi, Sp.BS, Subsp.NF(K), FICS, FINPS  
+ 
+FAKULTAS KEDOKTERAN DAN ILMU KESEHATAN  
+UNIVERSITAS MUHAMMADIYAH MAKASSAR  
+2026
+
+i 
+   
+
+ii 
+   
+
+iii 
+   
+
+iv 
+   
+
+v 
+ RIWAYAT HIDUP PENULIS  
+ 
+Nama Lengkap   : Rafly Ilmyansyah  
+Nim     : 105421 104321  
+Tempat, Tanggal Lahir  :  Rasabou, 26 Agustus 2003  
+Agama     : Islam  
+Nama Ayah    : Rifaid  
+Nama Ibu    : Suriyani  
+Alamat    : Komplek anggrek TR 1/17  
+Nomor Telepon/HP   : 085 239164305  
+Email     : Raflyilmy@gmail.com  
+ 
+RIWAYAT PENDIDIKAN  
+ SDN INPRES RATO                   2010 - 2015 
+ SMPN 2 BOLO                                        2015 - 2019 
+ SMAN 1 BOLO                             2019 - 2021  
+ UNIVERSITAS MUHAMMADIYAH MAKASSAR  2021 – 2025  
+  
+
+vi 
+ FAKULTAS KEDOKTERAN DAN ILMU KESEHATAN UNIVERSITAS  
+MUHAMMADIYAH MAKASSAR  
+Skripsi, 5 Februari 2025  
+Rafly  Ilmyansyah1, Wahyudi2, Andi Alamsyah Irwan3, Samhi Muawan Djamal4 
+1Mahasiswa Fakultas Kedokteran dan Ilmu Kesehatan Universitas 
+Muhammadiyah  
+Makassar Angkatan 2021/ email  Raflyilmy@med.unismuh.ac.id , 2Dosen Fakultas 
+Kedokteran dan Ilmu Kesehatan Universitas Muhammadiyah Makassar, 3Dosen 
+Fakultas Kedokteran dan Ilmu Kesehatan Universitas Muhammadiyah Makassar, 
+4Dosen Departemen Al -Islam Kemuhammadiyahan Fakultas Kedokteran dan Ilmu 
+Kesehatan Universitas Mu hammadiyah Makassar.  
+ 
+HUBUNGAN POLA MAKAN DAN AKTIVITAS FISIK TERHADAP TINGKAT 
+KEJADIAN OBESITAS MAHASISWA FAKULTAS KEDOKTERAN 
+UNIVERSITAS MUHAMMADIYAH MAKASSAR  
+ 
+ABSTRAK  
+Latar Belakang : Overweight dan obesitas disebabkan oleh Multifaktorial. Faktor 
+–fakto r yang dapat menimbulkan kejadian obesitas dan overweight diantaranya 
+yaitu asupan makanan, aktivitas fisik, jenis kelamin, usia, tingkat pendidikan dan 
+pekerjaan.   
+Tujuan Penelitian : Untuk mendeskripsikan dan memperoleh informasi tentang 
+Hubungan Pola Mak an dan Aktivitas Fisik terhadap Tingkat Kejadian Obesitas 
+pada Mahasiswa Fakultas Kedokteran Universitas Muhammadiyah Makassar.  
+Metode : Penelitian ini menggunakan metode kuantitatif, dengan menganalisis 
+hubungan antar variabel yang diambil pada satu waktu.  
+Hasil : Hasil penelitian ini menunjukkan bahwa k elompok dengan aktivitas ringan 
+menunjukkan obesitas tingkat 1 sebesar 7,1% dan tingkat 2 sebesar 5,3%, 
+mengindikasikan risiko obesitas meningkat dengan aktivitas rendah. Sedangkan 
+pada aktivitas sedang, mesk ipun obesitas tingkat 1 mencapai 13,3%, obesitas 
+tingkat 2 turun menjadi 3,5%, sehingga aktivitas fisik lebih berat tampak lebih 
+efektif menurunkan risiko obesitas.  Dimana hasil uji dari  pola makan mahasiswa 
+menunjukkan P Value  0,001 (<0,05) . Sedangkan has il aktivitas fisik mahasiswa 
+menunjukkan P Value  0,001 (<0,05) yang sama -sama menunjukkan pengaruh 
+signifikan.  
+Kesimpulan : Dari hasil penelitian yang dilakukan didapatkan bahwa terdapat 
+hubungan yang signifikan antara pola makan dan aktivitas fisik terhada p tingkat 
+kejadian obesitas mahasiswa fakultas kedokteran Universitas Muhammadiyah 
+Makassar . 
+
+vii 
+ Kata Kunci : Pola Makan, Aktivitas Fisik, Obesitas . 
+FACULTY OF MEDICINE AND HEALTH SCIENCES, MUHAMMADIYAH  
+UNIVERSITY OF MAKASSAR  
+ 
+Thesis, February 5, 2025  
+ 
+Rafly I lmyansyah1, Wahyudi2, Andi Alamsyah Irwan3, Samhi Muawan Djamal4 
+1Student of Faculty of Medicine and Health Science Muhammadiyah University 
+of Makassar Class of 2021/ email Raflyilmy@med.unismuh.ac.id , 2Lecturer of 
+Faculty of Medicine and Health Science, University of Muhammadiyah Makassar, 
+3Lecturer of Faculty of Medicine and Health Science, University o f 
+Muhammadiyah Makassar, 4Lecturer of Department of Al -Islam  
+Kemuhammadiyahan, Faculty of Medicine and H ealth Science, University of 
+Muhammadiyah Makassar.  
+The Relationship Of Diet And Physical Activity On The Incident Level Of 
+Obesity In Faculty Of Medical Students, Muhammadiyah Makassar 
+University  
+ABSTRACT  
+Background : Overweight  and obesity are caused by M ultifactorial. Factors that 
+can cause obesity and overweight include food intake, physical activity, gender, 
+age, education level and occupation.  
+Research Objective : To describe and obtain information about the Relationship 
+between Diet and Physical Activi ty to the Level of Obesity in Students of the 
+Faculty of Medicine, Muhammadiyah University of Makassar.  
+Method : This study uses a quantitative method, by analyzing the relationship 
+between variables taken at one time.  
+Results : The results of this study ind icate that the group with light activity 
+showed obesity level 1 of 7.1% and level 2 of 5.3%, indicating that the risk of 
+obesity increases with low activity. While in moderate activity, although obesity 
+level 1 reached 13.3%, obesity level 2 dropped to 3.5 %, so that heavier physical 
+activity seemed more effective in reducing the risk of obesity. Where the test 
+results from the student's diet showed a P Value of 0.001 (<0.05). While the 
+results of the student's physical activity showed a P Value of 0.001 (<0 .05) which 
+both showed a significant effect.  
+Conclusion : From the results of the study, it was found that there is a significant 
+relationship between diet and physical activity on the incidence of obesity in 
+medical faculty students at the University of Mu hammadiyah Makassar.  
+Keywords : Diet, Physical Activity, Obesity.  
+
+viii 
+ KATA PENGANTAR  
+Assalamu’alaikum Wr. Wb.  
+Puji dan syukur penulis panjatkan kehadirat Allah SWT karena atas berkat 
+rahmat dan karunia -Nya sehingga penulis dapat menyelesaikan skripsi dengan 
+judul “HUBUNGAN POLA MAKAN DAN AKTIVITAS FISIK TERHADAP 
+TINGKAT KEJADIAN OBESITAS MAHASISWA FAKULTAS KEDOKTERAN 
+UNIVERSITAS MUHAMMADIYAH MAKASSAR ”. Skripsi ini diajukan sebagai 
+salah satu syarat untuk menyelesaikan pendidikan dan memperoleh gelar Sarjana 
+Kedokteran dari Fakultas Kedokteran dan Ilmu Kesehatan Universitas 
+Muhammadiyah Makassar.  
+Dalam kesempatan kali ini penulis ingin menyampaikan ucapan terima 
+kasih sepenuhnya kepada orang tua penulis, Ayahanda Rifaid, M.Pd dan Ibunda 
+Suryani yang senantiasa me mberikan dukungan baik secara emosional, 
+instrumental dan finansial, motivasi serta doa yang begitu berarti sehingga penulis 
+dapat berproses dengan baik hingga mencapai titik ini.  
+Lalu penulis juga ingin menyampaikan ucapan terima kasih kepada:  
+1. Dekan Fak ultas Kedokteran Universitas Muhammadiyah Makassar ibunda 
+Prof. Dr. dr. suryani As‟ad, M. Sc, Sp.G(K) yang telah memberikan sarana 
+dan prasarana pendidikan sehingga penulis dapat menyelesaikan 
+pendidikan dengan baik dan lancar .  
+2. Dr. dr. Wahyudi, Sp.BS, Sub sp.NF(K), FICS, FINPS selaku dosen 
+pembimbing yang telah meluangkan waktunya dalam membimbing 
+
+ix 
+ penulis, memberi motivasi dan dukungan selama proses penyusunan 
+skripsi hingga selesai.  
+3. dr. Andi Alamsyah Irwan, M.Kes. Sp.An -TI, Subsp.MN(K) selaku penguji 
+yang telah meluangkan waktunya untuk memberikan saran dan kritik, 
+motivasi serta dukungan untuk menyelesaikan skripsi ini.  
+4. Ibunda Juliani Ibrahim, M.Sc,Ph.D selaku Dosen Koordinator penelitian 
+FKIK Unismuh Prodi Pendidikan Dokter yang telah memberikan izin 
+kepa da penulis untuk menyusun skripsi.  
+5. Seluruh dosen dan staf Fakultas Kedokteran dan Ilmu Kesehatan 
+Universitas Muhammadiyah Makassar.  
+6. Teman -teman Angkatan 2021 Kalsiferol yang telah bersama -sama 
+berproses dan saling mendukung sepanjang perjalanan perkuliahan . 
+7. Kepada K3bi dan Krazy Brazy  yang melalui karya musiknya telah 
+memberikan inspirasi dan semangat kepada penulis dalam penyusunan 
+skripsi ini.  
+8. Kepada semua pihak yang terlibat dalam proses penyusunan skripsi ini 
+baik secara langsung maupun tidak langsung.  
+Dalam menyusun skripsi penulis sadar bahwa skripsi ini masih 
+sangat jauh dari kata sempurna, tetapi terlepas dari hal itu penulis berharap 
+semoga dengan tulisan ini dapat membantu dan memberikan manfaat 
+kepada pembaca, masyarakat dan penulis lainnya. Penul is juga 
+mengharapkan kritik dan saran yang membangun dari pembaca tulisan ini 
+agar penulis dapat memperbaikinya dan menjadi lebih baik lagi untuk 
+
+x 
+ kedepan. Akhir kata, penulis berharap semoga Allah Subhanahu Wa Ta'ala 
+membalas segala kebaikan yang telah dib erikan oleh banyak pihak kepada 
+penulis dalam menyelesaikan skripsi ini.  
+ 
+Makassar, 5 Februari 2025  
+ 
+ 
+Rafly Ilmyansyah  
+ 
+ 
+ 
+ 
+ 
+„ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+xi 
+ DAFTAR ISI  
+SAMPUL  ................................ ................................ ................................ ................  i 
+RIWAYAT HIDUP PENULIS  ................................ ................................ ............  v 
+ABSTRAK  ................................ ................................ ................................ ...........  vi 
+DAFTAR ISI  ................................ ................................ ................................ ........  xi 
+DAFTAR TABEL  ................................ ................................ ............................  xiii 
+DAFTAR GAMBAR  ................................ ................................ .........................  xiv 
+BAB I PENDAHULU AN ................................ ................................ .....................  1 
+A. Latar Belakang  ................................ ................................ ...................  1 
+B. Rumusan Masalah  ................................ ................................ ..............  6 
+C. Tujuan Penelitian  ................................ ................................ ...............  6 
+D. Manfaat Penelitian  ................................ ................................ .............  7 
+BAB II TINJAUAN PUSTAKA  ................................ ................................ ..........  9 
+A. Obesitas  ................................ ................................ ...............................  9 
+B. Pola Makan  ................................ ................................ .......................  12 
+C. Aktivitas Fisik  ................................ ................................ ...................  14 
+D. Hubungan Pola Makan dan Aktivitas Fisik dengan Tingkat 
+Kejadian Obesitas  ................................ ................................ ............  16 
+E. Kerangka Teori  ................................ ................................ ................  19 
+BAB III KER ANGKA KONSEP  ................................ ................................ ...... 20 
+A. Kerangka Konsep  ................................ ................................ .............  20 
+B. Definisi Operasional Variabel  ................................ .........................  20 
+C. Hipotesis Penelitian  ................................ ................................ ..........  21 
+
+xii 
+ BAB IV METODE PENELITIAN  ................................ ................................ ... 22 
+A. Objek Penelitian  ................................ ................................ ...............  22 
+B. Tempat dan Waktu Penelitian  ................................ ........................  22 
+C. Rancangan Penelitian  ................................ ................................ ...... 22 
+D. Teknik Pengambilan Sampel  ................................ ..........................  22 
+E. Instrumen Penelitian  ................................ ................................ ........  25 
+F. Teknik P engumpulan Data  ................................ .............................  26 
+G. Teknik Analisis Data  ................................ ................................ ........  26 
+H. Pengolahan Data  ................................ ................................ ..............  27 
+I. Etika Penelitian  ................................ ................................ ................  28 
+BAB V HASIL PENELITIAN  ................................ ................................ ..........  30 
+A. Hasil Penelitian  ................................ ................................ .................  30 
+B. Analisis penelitian  ................................ ................................ ............  30 
+BAB VI PEMBAHASAN PENELITIAN  ................................ .........................  36 
+A. Pembahasan  ................................ ................................ ......................  36 
+B. Integrasi Keislaman  ................................ ................................ .........  41 
+BAB VII KESIMPULAN DAN SARAN  ................................ ..........................  46 
+A. Kesi mpulan  ................................ ................................ .......................  46 
+B. Saran  ................................ ................................ ................................ . 46 
+DAFTAR PUSTAKA  ................................ ................................ .........................  48 
+ 
+ 
+ 
+
+xiii 
+ DAFTAR TABEL  
+Tabel 1. Populasi mahasiswa kedokteran universitas Muhammadiyah  
+              Makassar  ................................ ................................ ...............................  23 
+Tabal 2. Distribusi persentase karakteristik sampel berdasarkan jenis 
+kelamin dan usia  ................................ ................................ ................................ . 30 
+Tabel 3. Distribusi fr ekuensi variabel sampel  ................................ .................  31 
+Tabel 4. Hubungan pola makan terhadap tingkat kejadian obesitas  ...........  33 
+Tabel 5. Hubungan aktivitas fisik terhadap tingkat kejadian obesitas  ........  34  
+
+xiv 
+ DAFTAR GAMBAR  
+Gambar 1 . Kerangka Teori  ................................ ................................ ...............  19 
+Gambar 2 . Kerangka Konsep  ................................ ................................ ...........  20 
+Gambar 3. Alur Pen elitian  ................................ ................................ ................  29 
+ 
+ 
+
+1 
+ BAB I  
+PENDAHULUAN  
+A. Latar Belakang  
+Dalam satu dekade terakhir, prevalensi obesitas di seluruh dunia 
+meningkat dengan drastis sehingga menempatkan masalah gizi ini menjadi 
+salah satu masalah yang perlu mendapatkan perhatian serius. obesitas tidak 
+boleh dianggap hanya sebuah konsekuensi dari gaya hidup tidak sehat 
+sehingga menimbulkan risiko signifikan bagi kesehatan. Obesitas harus 
+dianggap sebagai penyakit dan faktor risiko untuk penyakit lainnya.1 
+Dari data yang diungkapkan oleh WHO pada ta hun 2008 menunjukkan 
+bahwa setidaknya 2,8 juta orang dewasa setiap tahun  mati karena obesitas. 
+Oleh karena itu, kelebihan berat badan dan obesitas menempati urutan ke lima 
+dari risiko penyebab kematian global. Sementara itu,  di Negara -Negara barat 
+, sep erti Amerika Serikat, obesitas telah mencapai angka epidemis yang perlu 
+mendapat perhatian serius.1 
+Di Indonesia, berdasarkan hasil riset kesehatan dasar ( Riskesdas ), 
+menunjukkan peningkatan prevalensi obesitas pada penduduk berusia > 18 
+tahun dari 11,7 % ( 2010 ) menjadi 15,4 % ( 2013 ). Riskesdas tahun 2013 
+juga menunjukkan disparitas prevalensi obesitas dari nilai prevalensi nasional 
+pada beberapa provinsi di Indonesia.2 
+Overweight dan obesitas disebabkan oleh Multifaktorial. Faktor – faktor 
+yang dapat  menimbulkan kejadian obesitas dan overweight diantaranya yaitu 
+asupan makanan, aktivitas fisik, jenis kelamin, usia, tingkat pendidikan dan 
+
+2 
+ pekerjaan. Faktor kepribadian, depresi, efek samping obat –obatan, dan genetik 
+juga berkontribusi terhadap kejadian overweight dan obesitas. Predisposisi 
+genetik mungkin dapat menjadi faktor terjadinya obesitas. Namun, faktor 
+genetik tidak secara langsung menimbulkan obesitas, hal ini karena kebiasaan, 
+pola makan, dan aktivitas fisik merupakan peranan penting terjadinya  
+peningkatan berat badan.3 
+Peningkatan makanan yang tinggi Energ i dan lemak dan pengurangan 
+aktivitas fisik diduga sebagai kontributor utama terjadinya obesitas. Menurut 
+Gorden – Larsen (2001 ), bahwa pemahaman mengenai pengetahuan, sikap, 
+dan perilaku yan g berkaitan dengan makanan dan aktivitas fisik akan 
+membuat pola dan memainkan suatu peran penting di dalam memandu 
+strategis intervensi yang bertujuan memelihara keseimbangan Energ i dan 
+mengurangi prevalensi obesitas.4 
+Terjadinya kejadian obesitas pada re maja dewasa lebih banyak disebabkan 
+oleh pola makan dengan mengonsumsi lemak total relatif tinggi bila 
+dibandingkan dengan kebutuhannya. Karena banyak hasil riset yang 
+menyatakan bahwa, jumlah lemak yang dicerna dan jenis lemak yang 
+dikonsumsi sangat berpe ngaruh terhadap perkembangan kelebihan berat badan 
+atau kejadian obesitas pada kalangan remaja dewasa.5,6 
+Berat badan yang tidak seimbang disebabkan oleh asupan kalori yang 
+tidak diimbangi dengan pengeluaran kalori melalui aktivitas fisik, sehingga 
+terjadi  kelebihan kalori yang disimpan sebagai lemak di dalam tubuh sehingga 
+menimbulkan kejadian obesitas. Aktivitas fisik merupakan salah satu unsur 
+
+3 
+ yang dapat meningkatkan kebutuhan Energ i ( Energy  expenditure  ). Oleh 
+karena itu jika tidak mencukupi maka akan  lebih besar kemungkinannya untuk 
+mengalami kelebihan berat badan atau terjadinya kejadian obesitas.6  
+Aktivitas fisik adalah setiap gerakan tubuh yang meningkatkan 
+pengeluaran tenaga dan Energ i sehingga terjadi pembakaran Energ i. 
+Pengelolaan obesitas dila kukan melalui peningkatan aktivitas yang 
+gerakannya kontinu dengan gerakan intensitas rendah sampai sedang sehingga 
+terjadi peningkatan pengeluaran Energi dan peningkatan massa otot.2 
+Penelitian di Negara maju menunjukkan bahwa terdapat, hubungan antara 
+aktivitas fisik yang rendah dengan  kejadian obesitas. Individu dengan 
+aktivitas fisik yang rendah mempunyai risiko peningkatan berat badan lebih 
+besar daripada orang yang aktif berolahraga secara teratur.7  
+Peran Universitas Muhammadiyah khususnya fakultas kedokteran, sangat 
+mempengaruhi dalam peningkatan kesehatan mahasiswa maupun  masyarakat 
+untuk  mencegah terjadinya obesitas.  
+Overweight dan obesitas yang terjadi pada mahasiswa Fakultas kedokteran 
+Muhammadiyah Makassar disebabkan oleh Multifaktorial. Fakt or – faktor 
+yang dapat menimbulkan kejadian obesitas dan overweight diantaranya yaitu 
+asupan makanan, aktivitas fisik, jenis kelamin, usia dan tingkat pendidikan. 
+Faktor kepribadian, depresi, efek samping obat –obatan, dan genetik juga 
+berkontribusi terhada p kejadian overweight dan obesitas. Predisposisi genetik 
+mungkin dapat menjadi faktor terjadinya obesitas. Namun, faktor genetik tidak 
+secara langsung menimbulkan obesitas, hal ini karena kebiasaan, pola makan, 
+
+4 
+ dan aktivitas fisik merupakan peranan penting  terjadinya peningkatan berat 
+badan.3 
+Salah satu faktor yang berpotensi terhadap peningkatan kejadian obesitas 
+pada mahasiswa Universitas Muhammadiyah Makassar khususnya mahasiswa 
+Fakultas Kedokteran  mungkin lebih disebabkan oleh  pola makan yang tinggi 
+karbohidrat, tinggi lemak, dan rendah serat.  
+Obesitas adalah bukti berlebihnya apa yang dimakan dan diminum, dan 
+Allah SWT telah menyatakan dalam Al Quran pada Surat Al -A‟Raaf ayat 31   
+ ٌٰثٌَِىۡۤۡ اٰدَمَ خُرُوۡا شٌٌَِۡحَكُنۡ عٌِۡدَ كُلِّ هَعۡجِدٍ وَّكُلُىۡا وَاشۡسَتُىۡا وََلَ جُعۡسِفُىۡا   ۚ اًَِّٗ  َلَ ٌُِِة  اۡۡوُعۡسِفٍِۡيَ   
+Terjemah nya : 
+….. Makan dan minumlah, dan janganlah berlebih -lebihan. Sesungguhnya 
+Allah tidak menyukai orang -orang yang berlebihan.  
+Selain dari faktor pola makan, besar kemungkinan kejad ian obesitas pada 
+mahasiswa Fakultas Kedokteran Universitas Muhammadiyah Makassar 
+juga disebabkan oleh faktor aktivitas fisik. Mahasiswa fakultas kedokteran 
+cenderung mempunyai aktivitas fisik yang lebih rendah daripada 
+mahasiswa yang lainnya. Mahasiswa ke dokteran banyak yang tidak 
+mempunyai waktu untuk berolahraga dan melakukan aktivitas lainnya. Hal 
+ini dikarenakan setiap harinya mahasiswa kedokteran mempunyai jadwal 
+yang cukup padat dari pagi sampai sore hari.  
+Kejadian Obesitas yang terjadi pada mahasis wa Fakultas 
+Kedokteran Muhammadiyah Makassar tidak boleh dianggap hanya sebuah 
+konsekuensi dari  gaya hidup  tidak sehat sehingga menimbulkan risiko 
+signifikan bagi kesehatan. Akan tetapi, obesitas harus dianggap sebagai 
+
+5 
+ penyakit dan faktor risiko untuk pe nyakit lainnya seperti penyakit 
+diabetes, hipertensi, penyakit kantung empedu, atau sindrom metabolik 
+yang dapat terjadi pada mahasiswa kedokteran karena obesitas. Dan 
+masalah ini  perlu mendapatkan perhatian serius dari Mahasiswa Fakultas 
+Kedokteran Muham madiyah Makassar  
+Kejadian Obesitas pada Mahasiswa Fakultas kedokteran 
+Universitas Muhammadiyah Makassar menjadi prediktor yang sangat baik 
+untuk mengetahui risiko seseorang dapat terkena obesitas atau penyakit 
+yang merugikan masa depan.  
+Berdasarkan dari d ata primer 2024 menunjukkan bahwa dari 158 
+orang mahasiswa fakultas kedokteran terdapat 13,92 (%) berat badan 
+berlebih (overweight) dan sebanyak 32,28 (%) yang obesitas. Artinya data 
+tersebut memberikan informasi bahwa terdapat mahasiswa yang terpapar 
+obesitas pada Fakultas Kedokteran Universitas Muhammadiyah Makassar. 
+Oleh karena demikian berkaitan dengan adanya  angka kejadian obesitas 
+Fakultas Kedokteran Universitas Muhammadiyah Makassar maka, peran 
+Universitas Muhammadiyah Makassar khususnya fakultas ke dokteran, 
+sangat mempengaruhi dalam peningkatan kesehatan mahasiswa maupun  
+masyarakat untuk  mencegah terjadinya obesitas.  
+Dari uraian tersebut di atas maka perlu pembahasan melalui 
+penelitian yang berjudul “ Hubungan Pola Makan dan Aktivitas Fisik 
+Terhad ap Tingkat Kejadian Obesitas pada Mahasiswa Fakultas 
+Kedokteran Universitas Muhammadiyah Makassar”  
+
+6 
+ B. Rumusan Masalah  
+Berdasarkan latar belakang di atas, maka masalah pokok penelitian ini 
+adalah hubungan antara pola makan dan aktivitas fisik dengan Kejadia n 
+Obesitas pada Mahasiswa Fakultas Kedokteran Universitas Muhammadiyah 
+Makassar yang di bagi menjadi beberapa sub pokok rumusan masalah sebagai 
+berikut:  
+1. Bagaimana gambaran tingkat pola makan pada Mahasiswa Fakultas 
+Kedokteran Universitas Muhammadiyah Makas sar ? 
+2. Bagaimana gambaran tingkat Aktivitas fisik pada mahasiswa fakultas 
+kedokteran universitas Muhammadiyah makassar ?  
+3. Apakah ada hubungan yang signifikan antara pola makan, aktivitas fisik 
+dengan tingkat kejadian obesitas ?  
+C. Tujuan penelitian  
+1. Tujua n Umum  
+Tujuan umum untuk mendeskripsikan dan memperoleh informasi tentang 
+Hubungan Pola Makan dan Aktivitas Fisik terhadap Tingkat Kejadian 
+Obesitas pada Mahasiswa Fakultas Kedokteran Universitas Muhammadiyah 
+Makassar.  
+2. Tujuan Khusus  
+a. Diketahuinya Gambara n tingkat pola makan pada mahasiswa Fakultas 
+Kedokteran Universitas Muhammadiyah Makassar  
+b. Diketahuinya Gambaran tingkat aktivitas fisik pada mahasiswa Fakultas 
+Kedokteran Universitas Muhammadiyah Makassar  
+
+7 
+ c. Diketahuinya Gambaran seberapa besar hubungan yan g signifikan antara 
+pola makan, aktivitas fisik dengan tingkat kejadian obesitas  
+D. Manfaat penelitian  
+1. Manfaat untuk Kampus  
+Hasil penelitian ini dapat digunakan oleh pihak kampus, khususnya 
+Fakultas Kedokteran, untuk merancang kebijakan dan program keseha tan 
+yang lebih terfokus pada pencegahan obesitas di kalangan mahasiswa. 
+Kampus dapat mengimplementasikan program edukasi mengenai pola 
+makan sehat dan meningkatkan fasilitas untuk aktivitas fisik, seperti 
+program olahraga yang lebih terstruktur atau kampan ye hidup sehat. 
+Dengan ini, kampus tidak hanya menjadi tempat pendidikan akademik, 
+tetapi juga mendukung kesehatan fisik dan mental mahasiswanya.  
+2.  Manfaat untuk Masyarakat  
+Penelitian ini dapat memberikan wawasan penting bagi masyarakat 
+umum, terutama orang  tua dan komunitas kampus, tentang pentingnya 
+pola makan yang seimbang dan aktivitas fisik dalam mencegah obesitas. 
+Penelitian ini juga dapat mendorong masyarakat untuk lebih sadar akan 
+dampak obesitas terhadap kesehatan jangka panjang, sehingga mereka bis a 
+mengambil langkah -langkah preventif untuk mengurangi risiko obesitas, 
+baik pada diri sendiri maupun keluarga mereka.  
+3. Manfaat untuk Peneliti Selanjutnya  
+Bagi peneliti selanjutnya, penelitian ini dapat menjadi dasar untuk 
+eksplorasi lebih lanjut mengenai f aktor -faktor lain yang memengaruhi 
+
+8 
+ obesitas pada mahasiswa, seperti stres akademik, pola tidur, atau faktor 
+psikologis lainnya. Selain itu, penelitian ini juga dapat memperluas 
+pemahaman tentang hubungan antara kebiasaan gaya hidup dan status gizi 
+pada pop ulasi mahasiswa, serta bagaimana intervensi yang lebih 
+komprehensif dapat dilakukan untuk mengatasi obesitas di kalangan 
+kelompok usia muda.  
+ 
+  
+
+9 
+ BAB II  
+TINJAUAN PUSTAKA  
+A. Obesitas  
+1. Pengertian Obesitas  
+Obesitas merupakan timbunan triasilgliserol berlebih di jaringan  
+lemak akibat asupan Energi berlebih dibandingkan penggunaannya.8 Obesitas  
+(obesity ) berasal dari bahasa latin yaitu ob yang berarti „akibat dari „ dan esum  
+artinya „makan‟. Oleh karena itu, obesitas dapat didefinisikan sebagai akibat 
+dari po la makan yang berlebihan.9  
+1. Jenis Obesitas  
+ Berdasarkan etiologinya obesitas terbagi menjadi :  
+a. Obesitas primer  
+ Obesitas primer adalah obesitas yang disebabkan oleh  faktor gizi dan  
+berbagai faktor yang mempengaruhi  asupan makanan. Obesitas jenis ini 
+terjadi akibat asupan makanan yang lebih banyak dibandingkan  dengan 
+kebutuhan Energ i yang dibutuhkan oleh tubuh.  
+b. Obesitas sekunder  
+ Obesitas sekunder adalah obesitas yang disebabkan oleh adanya  
+penyakit atau kelainan congenital   (mielodisplasia), endokrin ( syndrom  
+cushing  , syndrom  Freulich , Syndrom  Mauriac , dan 
+pseudoparatiroidisme ), atau kondisi lain ( sindrom  klinefelter , sindrom 
+Turner , sindrom Down , dan lain – lain).  
+Berdasarkan patogenesisnya ,obesitas terbagi menjadi :  
+
+10 
+ 1) Regulatory obesity   
+Gangguan p rimer pada Regulatory obesity  berada pada pusat yang 
+mengatur masuknya makanan.yaitu Hipothalamus  
+2) Metabolic obesity   
+  Metabolic obesity   terjadi akibat adanya  kelainan pada 
+metabolisme lemak dan karbohidrat.  
+Obesitas juga dibagi menjadi dua berdasarkan t empat penumpukan 
+lemaknya, yaitu obesitas tipe pir dan obesitas tipe apel. Obesitas  tipe pir 
+terjadi apabila penumpukan lemak lebih banyak terdapat didaerah pinggul. 
+Sementara itu, obesitas tipe apel terjadi apabila penumpukan lemak lebih 
+banyak terdapat didaerah perut.10 
+Obesitas tipe apel lebih berisiko mengalami gangguan kesehatan 
+terutama yang berhubungan dengan penyakit kardiovaskuler. Hal ini terjadi 
+karena lokasi perut lebih dekat dengan jantung daripada pinggul. Oleh karena 
+itu, banyak yang mengang gap bahwa obesitas tipe pir lebih baik dari pada tipe 
+apel.  
+Obesitas tipe pir lebih banyak dialami oleh wanita. Sementara itu, 
+obesitas tipe apel lebih banyak dialami oleh laki - laki. Akan tetapi, hal ini 
+tidak bersifat mutlak karena banyak wanita yang jug a mengalami obesitas tipe 
+apel, terutama setelah mengalami menopause.1 
+2. Perkembangan  Obesitas  
+Peningkatan obesitas di seluruh dunia khususnya di Indonesia 
+tentunya memiliki dampak serius terhadap kesehatan dan penurunan 
+
+11 
+ kualitas hidup. Menurut World Healt h Organization (WHO), kelebihan 
+berat badan (Overweight) dan obesitas merupakan faktor risiko penyebab 
+kematian ke -5 di dunia. Setidaknya ada 2,8 juta penduduk dunia 
+meninggal akibat komplikasi obesitas. Menurut data American Heart 
+Association (AHA) pada t ahun 2011, sekitar satu pertiga (32,9%) atau 72 
+juta orang dewasa warga negara Amerika Serikat adalah obesitas.5 
+Prevalensi remaja dengan IMT > 2 SD telah meningkat dari 4,2% pada 
+tahun 1990 menjadi 6,7%, dan diperkirakan akan kembali menjadi 9,1% 
+pada tah un 2020. Pada tahun 2014, lebih dari 1,9 miliar orang dibawah 
+usia 18 tahun mengalami kelebihan berat badan, dan lebih dari 600 juta 
+orang mengalami obesitas. Obesitas memiliki kontribusi penting terhadap 
+kejadian penyakit kardiovaskuler, diabetes mellitus  tipe 2, kanker, 
+osteoarthritis, dan sleep apnea di seluruh dunia.11 
+Beberapa faktor yang mempengaruhi peningkatan obesitas pada anak 
+dan remaja antara lain; faktor lingkungan, perilaku dan genetik. Faktor 
+lingkungan meliputi status sosial ekonomi, pekerja an, usia, tingkat 
+pendidikan, dan jenis kelamin. Derajat kesehatan seseorang tercermin dari 
+tingkat status sosial -ekonomi dan pendidikan yang mana memiliki 
+pengaruh kuat terhadap penurunan ataupun peningkatan obesitas pada 
+masyarakat. Faktor perilaku seper ti aktivitas fisik, konsumsi gizi 
+seimbang, tidur yang cukup, perilaku tidak merokok, dan tidak 
+mengkonsumsi alkohol juga mempengaruhi peningkatan obesitas di 
+masyarakat. Kurangnya latihan fisik, kebiasaan makan yang buruk dan 
+
+12 
+ stress dapat menyebabkan timb ulnya obesitas. Faktor genetik juga menjadi 
+faktor pemicu terjadinya obesitas misalnya diabetes melitus.11 
+B. Pola Makan  
+1. Pengertian Pola Makan  
+Pola makan adalah suatu cara atau usaha dalam pengaturan jumlah dan 
+jenis makanan dengan informasi gambaran denga n meliputi 
+mempertahankan kesehatan, status nutrisi, mencegah atau membantu 
+kesembuhan penyakit.12 Pengertian pola makan menurut Handjani adalah 
+tingkah laku manusia atau sekelompok manusia dalam memenuhi 
+makanan yang meliputi sikap, kepercayaan, dan pilih an makanan, 
+sedangkan menurut Suhardjo pola makan diartikan sebagai cara seseorang 
+atau sekelompok orang untuk memilih makanan dan mengonsumsi 
+makanan terhadap pengaruh fisiologis, psikologis, budaya dan sosial. 
+menurut seorang ahli mengatakan bahwa pola m akan  didefinisikan 
+sebagai karakteristik dari kegiatan yang berulang kali makan individu atau 
+setiap orang makan dalam memenuhi kebutuhan makanan.13. 
+2. Komponen Pola Makan  
+Secara umum pola makan memiliki 3 (tiga) komponen yang terdiri 
+dari: jenis, frekuensi , dan jumlah makanan.  
+a.  Jenis makan  
+Jenis makan adalah sejenis makanan pokok yang dimakan setiap hari 
+terdiri dari makanan pokok, lauk hewani, lauk nabati, sayuran, dan buah 
+yang dikonsumsi setiap hari makanan pokok adalah sumber makanan 
+
+13 
+ utama di negara Indonesia yang dikonsumsi setiap orang atau sekelompok 
+masyarakat yang terdiri dari beras, jagung, sagu, umbi -umbian, dan 
+tepung.14 
+b.  Frekuensi makan  
+Frekuensi makan adalah beberapa kali makan dalam sehari meliputi 
+makan pagi, makan siang, makan malam da n makan selingan.15  
+c.  Jumlah makan  
+Jumlah makan adalah banyaknya makanan yang dimakan dalam 
+setiap orang atau setiap individu dalam kelompok .  
+3.  Faktor Yang Mempengaruhi Pola Makan  
+Pola makan yang terbentuk gambaran sama dengan kebiasaan makan 
+seseorang.  Secara umum faktor yang mempengaruhi terbentuknya  pola 
+makan adalah faktor ekonomi, sosial budaya, agama, pendidikan, dan 
+lingkungan.15 
+4.  Perilaku Pola Makan Remaja Dewasa (Mahasiswa)  
+Kualitas bangsa di masa depan ditentukan kualitas generasi saat ini. 
+Upaya peningkatan kualitas sumber daya manusia harus dilakukan secara, 
+sistematis dan berkesinambungan. Tumbuhnya  mahasiswa sebagai 
+generasi emas  yang optimal tergantung pemberian dan pemanfaatan 
+nutrisi dengan kualitas dan kuantitas yang baik serta benar.  Dalam 
+pemanfaatan dan pemberian nutrisi atau asupan makanan pada anak 
+mahasiswa selalu tidak dapat dilaksanakan dengan sempurna. Sering 
+timbul masalah terutama dalam penggunaan makanan yang tidak benar 
+
+14 
+ dan menyimpang. Penyimpangan ini mengakibatkan ganggu an pada 
+banyak organ -organ dan sistem tubuh para mahasiswa. Foodborne diseases 
+atau penyakit bawaan makanan merupakan masalah kesehatan masyarakat 
+yang utama di banyak negara. Penyakit ini dianggap bukan termasuk 
+penyakit yang serius, sehingga seringkali k urang diperhatikan.  
+Perilaku pola makan pada remaja dewasa yang kurang diperhatikan 
+sehingga menimbulkan penyakit yang serius. Seperti contohnya jarang 
+sarapan pagi saat akan berangkat kuliah, lebih banyak mengonsumsi 
+makanan diluar rumah, mengonsumsi maka nan yang asin dan minuman 
+yang bersoda, terlalu banyak mengonsumsi junk food, kebiasaan 
+menonton TV terlalu lama dan bermain video game. Dan lain sebagainya, 
+kebiasaan di atas dapat menimbulkan perubahan pola makan yang buruk 
+terhadap perkembangan dan kese hatan anak remaja dewasa (mahasiswa).  
+C.  Aktivitas Fisik  
+1. Pengertian Aktivitas Fisik  
+Aktivitas fisik adalah semua aktivitas yang menyebabkan peningkatan 
+atau pengeluaran tenaga yang penting bagi pemeliharan fisik dan mental 
+serta dapat mempertahankan kuali tas hidup sehingga dapat sehat dan bugar 
+sepanjang hari. Aktivitas rutin dapat meningkatkan daya tahan tubuh dan 
+dapat mencegah obesitas. Ada dua jenis aktivitas fisik: aktif dan tidak 
+aktif. Individu yang memenuhi persyaratan "aktif" melakukan serangkaian  
+aktivitas fisik berat atau sedang, atau bahkan keduanya, sedangkan mereka 
+
+15 
+ yang memenuhi kriteria "tidak aktif" melakukan aktivitas fisik sedang atau 
+intens hanya kadang -kadang atau tidak sama sekali.16 
+Menjadi aktif sangat penting dalam mencegah dan menga tasi obesitas, 
+selain itu juga sangat penting untuk mencegah penyakit jantung pembuluh 
+darah, stroke, diabetes dan penyakit tidak menular lainnya. Prinsip utama 
+aktivitas fisik pada obesitas adalah untuk meningkatkan pengeluaran 
+Energi dan membakar lemak. Aktivitas fisik dan latihan fisik menjadi 
+bagian terintegrasi sebagai terapi untuk menurunkan berat badan dan 
+menjaga berat badan tetap ideal.  
+2. Jenis Aktivitas Fisik  
+Secara umum, aktivitas fisik dapat dibagi menjadi dua kategori: aktif 
+dan tidak aktif. Ind ividu yang memenuhi persyaratan “aktif” melakukan 
+serangkaian latihan fisik berat atau sedang, atau bahkan keduanya, 
+sedangkan mereka yang memenuhi kriteria “tidak aktif” tidak melakukan 
+aktivitas fisik sedang atau berat.16 Berkaitan dengan pengelompokan 
+aktivitas fisik dibagi menjadi tiga kelompok yang dijelaskan sebagai 
+berikut, yaitu: Kegiatan Ringan, Kegiatan Sedang dan Kegiatan Berat. 
+Selain itu terdapat beberapa faktor -faktor yang mempengaruhi aktivitas 
+fisik, diantaranya adalah faktor biologis, fakto r psikologis, faktor 
+lingkungan sosial dan faktor fisikal.16 
+ 
+ 
+ 
+
+16 
+ D. Hubungan Pola Makan Dan Aktivitas Fisik dengan Tingkat Kejadian 
+Obesitas  
+1. Hubungan Pola Makan dengan Tingkat Kejadian Obesitas  
+Kemajuan di bidang ilmu pengetahuan, teknologi, dan ekonomi tel ah 
+menciptakan suatu lingkungan dengan gaya hidup yang cenderung 
+sedentary atau kurang gerak dan kebiasaan makan dengan makanan yang 
+enak yang tinggi akan kalori dan  lemak.  
+Pola makan yang berlebihan dan tinggi Energ i pada remaja dewasa 
+cenderung berakib at terhadap meningkatnya komposisi berat badan yang 
+berdampak terhadap risiko obesitas.17 Hal ini sejalan dengan hasil riset 
+Mokolensang, dkk (2005) dengan judul Hubungan Pola Makan dan 
+Obesitas pada Remaja di Kota Bitung.18 yang kesimpulannya adalah 
+adany a hubungan antara pola makan dan obesitas dimana pola makan anak 
+remaja dalam penelitiannya cenderung lebih (semua zat gizi makro yaitu 
+protein, lemak dan karbohidrat) jika dilihat dari hasil analisis asupan zat 
+gizi dibandingkan dengan angka kecukupan giz i yang dianjurkan pada 
+anak remaja.  
+Pola makan yang berlebihan menyebabkan penderita sulit untuk keluar 
+dari kondisi berat badan berlebih, hal ini disebabkan karena tidak memiliki 
+pengendalian diri dan motivasi yang kuat untuk mengurangi berat badan.1 
+Dan hasil riset dari Hafid Wahyuni dengan judul Ada hubungan signifikan 
+antara Pola Makan Fast Food dengan kejadian obesitas pada remaja di 
+kabupaten Gorontalo tahun  2019.  
+
+17 
+ 2. Hubungan Aktivitas Fisik dengan Tingkat Kejadian Obesitas  
+Aktivitas fisik adalah setia p gerakan tubuh yang meningkatkan 
+pengeluaran tenaga dan Energ i sehingga terjadi pembakaran Energ i.19 
+Pengelolaan obesitas dilakukan melalui peningkatan aktivitas yang 
+gerakannya kontinu dengan gerakan intensitas rendah sampai sedang 
+sehingga terjadi penin gkatan pengeluaran Energi dan peningkatan massa 
+otot.20  
+Salah satu penyebab terjadinya obesitas adalah aktivitas fisik. Hasil 
+metabolisme dalam tubuh yang berupa Energ i digunakan untuk melakukan 
+aktivitas fisik setiap hari. Orang yang memiliki berat badan   normal, maka 
+Ia akan mengeluarkan Energ i untuk melakukan aktivitas fisik tapi untuk 
+orang yang memiliki berat badan berlebihan maka ia harus melakukan 
+aktivitas fisik yang lebih banyak untuk mengurangi simpanan lemak dalam 
+tubuh.21 
+Gaya hidup yang kurang  aktivitas fisik akan berpengaruh terhadap 
+kondisi tubuh seseorang. Aktivitas fisik diperlukan untuk membakar 
+Energ i dalam tubuh. Bila pemasukan Energ i berlebihan dan tidak 
+diimbangi dengan aktivitas fisik yang seimbang akan memudahkan 
+seseorang menjadi ge muk.22 Salah satu aktivitas fisik yang dapat 
+dilakukan mahasiswa di kampus adalah dengan rutin berolahraga sehingga 
+pengeluaran Energ i seimbang.11  
+Aktivitas fisik dan kejadian kelebihan berat badan telah dikaitkan 
+dalam penelitian Wahyuningsih dan Pratiwi , (2019 ) yang menyatakan 
+
+18 
+ bahwa remaja dewasa yang melakukan aktivitas fisik sangat sedikit 
+memiliki risiko 9,533 kali lipat lebih tinggi mengalami kelebihan berat 
+badan atau kejadian obesitas bila dibandingkan dengan mereka yang  
+melakukan aktivitas fisik  sedang secara teratur. Lebih lanjut Kementerian 
+Kesehatan, (2014) mengatakan bahwa Penelitian di Negara maju 
+menunjukkan bahwa terdapat, hubungan antara aktivitas fisik yang rendah 
+dengan  kejadian obesitas. Individu dengan aktivitas fisik yang rendah 
+mem punyai risiko peningkatan berat badan lebih besar daripada orang 
+yang aktif berolahraga secara teratur. Kurangnya aktivitas fisik 
+kemungkinan merupakan salah satu penyebab utama dari meningkatnya 
+angka kejadian obesitas di tengah – tengah masyarakat yang m akmur.23 
+Berdasarkan hasil riset Wiwing Agustina, (2023) Ada hubungan yang 
+signifikan antara  aktivitas fisik dengan kejadian obesitas pada usia 
+produktif di wilayah kerja puskesmas marina permai kota Palangkaraya.24 
+Selanjutnya terdapat hubungan antara akt ivitas fisik terhadap obesitas 
+remaja di banda Aceh.25 Kemudian penelitian Meiriyani (2014), juga 
+memperoleh hasil yang sejalan dengan hasil penelitian -penelitian yang 
+lain, dimana terdapat hubungan antara aktivitas fisik dengan kejadian 
+obesitas pada wani ta usia subur peserta  jamkesmas di puskesmas 
+wawonasa _kecamatan _singkil _manado.26 
+ 
+ 
+ 
+
+19 
+ E. Kerangka Teori  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bagan  1. Kerangka Teori  
+  
+Pola makan berlebihan dan 
+tinggi energi  
+Meningkatkan komposisi 
+berat badan  
+Obesitas  
+an berlebihan dan tinggi 
+Aktivitas fisik rendah  
+an berlebihan dan tinggi 
+
+20 
+ BAB III  
+KERANGKA KONSEP  
+ 
+A. Kerangka Konsep  
+Berdasarkan Tinjauan Pustaka dan kerangka teori yang telah diuraikan 
+diatas maka dapat digambarkan model kerangka konsep berpikir sebagai 
+berikut :  
+ 
+Bagan  2. Kerangka Konsep  
+ 
+A. Definisi oprasional variabel  
+Variabel  Definisi 
+Operasional  Alat 
+ ukur  Kriteria  
+Objektif  Skala 
+ukur  
+Pola 
+Makan  Kebiasaan 
+mengkonsumsi 
+makan  Kuesioner  Sesuai : minimal 6 
+<70% penilaian 
+kuesioner  
+Tidak Sesuai : < 70% 
+penelitian kuesioner  Ordinal  
+⁠Aktivitas Gerakan yang 
+dilakukan Kuesioner  Ringan : (<50%) Ordinal  
+
+21 
+ Fisik   dalam rutinitas 
+harian  Sedang : (50 -
+68,33%)  
+Berat : ( >70%).  
+⁠Tingkat 
+Obesitas  Ukuran indeks 
+massa tubuh 
+(IMT) 
+seseorang  Timbangan  Underweight : (<18,5  
+kg/m2 ) 
+Normal : (18,5-22,9 
+kg/m2) 
+Overweight : 
+(23-24,9 kg/m2) 
+Obesitas 1 : 
+(>25 -29,9 kg/m2) 
+Obesitas 2:  
+(>30  kg/m2). Ordinal  
+ 
+C. Hipotesis Penelitian  
+H1 = Terdapat hubungan yang signifikan antara pola makan dan aktivitas 
+fisik terhadap tingkat kejadian obesitas  
+H0 = Terdapat hubung an yang signifikan antara pola makan adan aktivitas 
+fisik terhadap tingkat kejadian obesita s. 
+ 
+ 
+ 
+ 
+
+22 
+ BAB IV  
+ METODE PENELITIAN  
+A. Objek Penelitian  
+Mahasiswa Fakultas kedokteran Universitas Muhammadiyah Makassar  
+B. Tempat dan Waktu Penelitian  
+Peneliti melakuka n penelitian di Fakultas Kedokteran Universitas 
+Muhammadiyah Makassar. Penelitian ini dilaksanakan pada bulan Oktober  
+2024 hingga selesai.  
+C. Rancangan Penelitian  
+Sesuai dengan tujuan yang ingin dicapai dalam penelitian ini yaitu 
+menjelaskan pengaruh beber apa variabel yang telah ditetapkan, maka 
+rancangan penelitian ini menggunakan uji SPSS berupa uji Kolmogorov -
+Smirnov  bertujuan untuk mengetahui hubungan antara dua atau lebih variabel 
+yang dapat diukur secara kuantitatif . 
+D. Teknik Pengambilan Sampel  
+1. Popul asi Penelitian  
+Populasi adalah wilayah generalisasi yang terdiri atas obyek -obyek 
+yang mempunyai kuantitas dan karakteristik tertentu yang ditetapkan oleh 
+penelitian untuk dipelajari dan kemudian ditarik kesimpulannya.36 Dalam 
+arikunto (1983) populasi adal ah keseluruhan objek yang akan diamati dan 
+memenuhi persyaratan atau fenomena yang sudah ditentukan terlebih 
+dahulu.36  
+
+23 
+ Adapun sebaran populasi Mahasiswa Fakultas Kedokteran Universitas 
+Muhammadiyah Makassar dapat dilihat pada tabel 1 berikut ini :  
+Tabel 1. Populasi mahasiswa kedokteran universitas Muhammadiyah 
+Makassar  
+No. Mahasiswa Angkatan  Jumlah  
+1. 2021  29 
+2. 2022  45 
+3. 2023  84 
+4. Jumlah Total  158 
+Sumber : Fakultas Kedokteran Universitas Muhammadiyah Makassar,  2024  
+2. Sampel  Penelitian  
+Sampel adalah s ebagian dari jumlah dan karakteristik yang dimiliki 
+oleh populasi.36 Penelitian sampel dilakukan  bila penelitian bermaksud 
+untuk menggeneralisasikan hasil penelitian tersebut.  
+3. Kriteria Inklusi :  
+a. Mahasiswa yang terdaftar sebagai mahasiswa aktif di Fakultas 
+Kedokteran Universitas Muhammadiyah Makassar pada saat penelitian 
+dilakukan.  
+b. Mahasiswa yang tidak memiliki penyakit kronis yang mempengaruhi 
+pola makan dan aktivitas fisik (misalnya diabetes tipe 1, gangguan 
+tiroid).  
+c. Mahasiswa yang bersedia mengikuti penel itian dan menandatangani 
+informed consent.  
+
+24 
+ 4. Kriteria Eksklusi :  
+a. Mahasiswa yang sedang cuti atau tidak aktif mengikuti perkuliahan 
+pada saat penelitian dilakukan.  
+b. Mahasiswa yang memiliki kondisi medis atau sedang menjalani 
+pengobatan yang dapat mempengaruhi pola makan dan aktivitas fisik, 
+seperti penyakit jantung, gangguan pencernaan, atau gangguan mental 
+tertentu.  
+c. Mahasiswa perempuan yang sedang hamil atau menyusui.  
+d. Mahasiswa yang tidak bersedia untuk mengikuti penelitian secara 
+penuh atau menolak untuk mena ndatangani informed consent.  
+5. Teknik Sampling  
+Teknik pengambilan sampel dalam penelitian ini adalah menggunakan 
+teknik sampel acak proporsional ( proportional random sample ). Teknik 
+ini digunakan  karena  populasi mempunyai anggota yang tidak homogen 
+dan berst rata secara proporsional serta pengambilan pada setiap golongan 
+dilakukan  dengan cara acak.37 Dengan demikian, masing -masing sampel 
+untuk tingkat angkatan Mahasiswa harus proporsional sesuai dengan 
+populasi, yaitu mengidentifikasi jumlah mahasiswa fakultas  kedokteran 
+universitas Muhammadiyah Makassar . 
+6. Rumus Besar Sampel  
+menentukan besarnya sampel pada masing -masing status tingkat 
+angkatan dengan menggunakan rumus alokasi sampel proporsional yang 
+dikemukakan  sebagai berikut :  
+
+25 
+      
+     
+Dimana :  
+ ni = jumlah sampel tiap golongan  
+ Ni = jumlah populasi tiap golongan  
+ N = jumlah semua populasi  
+ n = jumlah semua sampel  
+Dengan demikian masing -masing sampel untuk status mahasiswa 
+fakultas kedokteran secara proporsional de ngan populasi sebagai berikut :  
+1. Mahasiswa Fakultas Kedokteran Angkatan 2021 =   
+              
+2. Mahasiswa Fakultas Kedokteran Angkatan 2022 =    
+             
+3. Mahasiswa Fakultas Kedokteran Angkatan 2023 =   
+             
+Dengan mengacu pada teknik  sampel acak proporsional ( proportional 
+random sample)  maka sampel yang digunakan  dalam penelitian ini adalah 
+sebanyak 113 sampel.  
+E. Instrumen Penelitian  
+Instrumen penelitian adalah alat yang digunakan untuk mengumpulkan 
+data, yang bertujuan untuk menguku r fenomena alam atau sosial yang sedang 
+diamati.  
+1. Kuesioner  
+Kuesioner yang digunakan terdiri dari dua jenis: satu untuk mengukur pola 
+makan terhadap Tingkat obesitas  dan satu lag i untuk mengukur aktivitas 
+
+26 
+ fisik terhadap Tingkat obesitas . Peneliti akan mengg unakan kuesioner 
+yang telah divalidasi . 
+2. Angket  
+Angket ini dirancang untuk mengidentifikasi karakteristik responden, 
+seperti jenis kelamin dan usia.  
+3. Informed consent  
+Lembar informed consent adalah dokumen persetujuan untuk 
+berpartisipasi sebagai responden d alam penelitian.  
+F. Teknik Pengumpulan Data  
+Teknik pengumpulan data mentah yang digunakan untuk menjaring data 
+dari variabel -variabel penelitian ini adalah dengan menggunakan kuesioner. 
+Pengumpulan data di mahasiswa fakultas kedokteran Universitas 
+Muhammad iyah Makassar yang menjadi subyek dan sampel penelitian yaitu 
+para mahasiswa Fakultas Kedokteran Universitas Muhammadiyah Makassar. 
+Kuesioner disebarkan oleh peneliti sendiri pada mahasiswa kedokteran dengan 
+total 113 mahasiswa dan diharapkan dapat dikemba likan 100%.  
+G. Teknik Analisis Data  
+Analisis untuk penelitian ini menggunakan analisis univariat dan bivariat  
+1. Analisis univariat  
+Data ini digunakan untuk mengidentifikasi karakteristik dari setiap 
+variabel penelitian. Informasi yang disajikan meliputi pola  makan dan 
+aktivitas fisik terhadap tingkat obesitas, yang ditampilkan dalam bentuk 
+tabel distribusi frekuensi.  
+
+27 
+ 2. Analisis bivariat  
+Tujuan dari penelitian ini adalah untuk mengidentifikasi hubungan antara 
+variabel dependen dan independen. Untuk itu, digunaka n uji Kolmogorov -
+Smirnov  untuk menguji hipotesis penelitian dan mengungkap hubungan 
+antara variabel -variabel yang ada.  
+H. Pengolahan Data  
+Setelah data dikumpulkan, data tersebut kemudian diproses agar sesuai 
+dengan tujuan penelitian. Proses pengolahan data  dilakukan melalui langkah -
+langkah berikut:  
+1. Editing  
+Editing adalah proses pemeriksaan data dari pengisian kuesioner. Peneliti 
+memverifikasi kelengkapan informed consent, angket, dan kuesioner 
+secara fisik, serta memastikan bahwa tidak ada lembar yang koson g atau 
+hilang.  
+2. Coding  
+Peneliti memberikan kode khusus pada setiap pertanyaan untuk 
+mempermudah proses analisis data.  
+3. Entry  data  
+Data yang terkumpul dan sudah diberi kode akan dimasukkan ke dalam 
+computer.  
+ 
+ 
+
+28 
+ 4. Tabulating  data  
+Tabulasi adalah proses mengelompo kkan data berdasarkan variabel -
+variabel yang diteliti, dengan tujuan mempermudah peneliti dalam 
+pendataan dan penyusunan informasi yang akan disajikan.  
+I. Etika Penelitian  
+1. Mengajukan pedoman Ethical Clearance pada Komisi Etik Fakultas 
+Kedokteran dan Ilmu K esehatan Universitas Muhammadiyah Makassar.  
+2. Menjaga kerahasiaan identitas dan informasi yang telah diperoleh dan 
+hasil kuesioner  dan penelitian.  
+3. Memberikan lembar persetujuan dna menjelaskan  tujuan dilakukannya 
+penelitian tersebut dan sebagai tanda persetu juan bahwa responden 
+bersedia menjadi sampel untuk penelitian.  
+  
+
+29 
+ J. Alur Penelitian  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bagan  3. Alur Penelitian  
+  
+Pembuatan proposal  
+penelitian  
+Mengajukan surat permohonan izin penelitian ke Fakultas Kedokteran 
+dan Ilmu Kesehatan Universitas Muhammadiyah Makassar  
+Menentukan populasi dan sampel  sesuai 
+dengan kriteria inklusi dan eksklusi  
+Mengumpulkan, mengolah data dan 
+meng analisis  data 
+Hasil dan Pembahasan  
+Kesimpulan dan saran  
+Melakukan informed consent dan 
+pengisian kuesioner  
+
+30 
+ BAB V  
+HASIL PENELITIAN  
+A. Hasil penelitian  
+Penelitian ini dilakukan pada sampel yang diambil dari populasi 
+maha siswa Fakultas Kedokteran Universitas Muhammadiyah Makassar.  
+pengambilan sampel dalam penelitian ini adalah menggunakan teknik sampel 
+acak proporsional ( proportional random sample ). Teknik ini digunakan karena 
+populasi mempunyai anggota yang tidak homogen dan berstrata secara 
+proporsional serta pengambilan pada setiap golongan dilakukan dengan cara 
+acak. Setelah data terkumpul, analisis dilakukan dan data dikelompokkan 
+berdasarkan karakteristik masing -masing.  
+B. Analisis penelitian  
+1. Analisis univariat  karakteristik responden penelitian  
+Penelitian ini melibatkan 113 responden sebagai sampel yang telah memenuhi 
+kriteria inklusi dan eksklusi. Karakteristik masing -masing sampel kemudian 
+didistribusikan dalam bentuk tabel berikut ini.  
+Tabel 2. Distribusi p ersen tase karakteristik sampel  berdasarkan jenis 
+kelamin dan umur  
+Variable  Frekuensi  
+n                        % 
+Jenis kelamin  
+      Laki – laki 
+      Perempuan  
+      Total   
+   54                   47,8%  
+   59                   52,2%  
+ 113                  100%  
+
+31 
+ Umur  
+       18 tahun  
+       19 tahun  
+       20 tahun  
+       21 tahun  
+     >22 tahun  
+        Total   
+   1                     0,9% 
+   5                     4,4%  
+  23                  20,4% 
+  47                  41,6% 
+  37                  32,7% 
+ 113                  100%  
+ 
+Data menunjukkan bahwa dari 113 responden, mayoritas adalah 
+perempuan (52,2%) dibandingkan laki -laki (47,8%). Dalam hal umur, 
+sebagian besar responden berada di kelompok usia 21 tahun (41,6%) dan 
+diikuti oleh usia di atas 22 tahun (32,7% ). Responden yang berusia 18 
+tahun sangat sedikit, hanya 0,9% , 19 tahun (4,4%), 20 tahun ( 20,4%), dan 
+21 tahun (41,6%).  
+Tabel 3. Distribusi frekuensi variabel sampel  
+Varuabel  Frekuensi  
+n                        % 
+Pola makan  
+      Sesuai  
+      Tidak sesuai  
+      Total   
+    55                     48,7%  
+    58                     51,3%  
+   113                     100%  
+Aktivitas fisik  
+      Ringan  
+      Sedang   
+    23                     20,4%  
+    38                     33,6%  
+
+32 
+       Berat  
+      Total      52                     46,0%  
+   113                     100%  
+Obesitas  
+      Underweight  
+      Normal  
+      Overweight  
+      Obes 1  
+      Obes 2  
+      Total   
+     9                       8,0%  
+    39                    34,5%  
+    18                    15,9%  
+    36                    31,9%  
+    11                      9,7%  
+   113                    100%  
+ 
+Dari 113 responden, sebagian besar tidak mengikuti pola makan 
+yang sesuai (51,3%), sementara 48,7% mengikuti pola makan yang baik. 
+Dalam hal aktivitas fisik, mayori tas melakukan aktivitas dengan intensitas 
+berat (46,0%), diikuti oleh intensitas sedang (33,6%) dan ringan (20,4%). 
+Mengenai status obesitas, sebagian besar responden tergolong normal 
+(34,5%) atau mengalami obesitas tingkat 1 (31,9%), namun ada juga yang 
+termasuk dalam kategori underweight (8,0%). Data ini menunjukkan 
+variasi dalam pola makan, aktivitas fisik, dan status berat badan di antara 
+responden.  
+2. Analisis bivariat  
+a. Hubungan pola makan terhadap tingkat kejadian obesitas  
+Analisis ini dilakukan untuk men getahui apakah ada hubungan 
+antara  pola makan dan aktivitas fisik terhadap tingkat kejadian 
+
+33 
+ obesitas mahasiswa fakultas kedokteran universitas muhammadiyah 
+makassar . Hasil analisis bivariat yang diperoleh menggunakan aplikasi 
+SPSS untuk mengidentifikasi hu bungan antara pola makan terhadap 
+tingkat kejadian obesitas dapat dilihat pada tabel berikut.  
+Tabel 4. Hubungan pola makan terhadap  tingkat kejadian obesitas  
+ 
+Dengan menggunakan uji  Kolmogorov -Smirnov  didapatkan 
+nilai p-value  0,001 (P < 0, 05) dimana ini menunjukkan adanya 
+hubungan yang signifikan antara pola makan terhadap tingakat 
+kejadian obesitas mahasiswa fakultas kedokteran universitas 
+muhammadiyah makassar.  
+Tabel menunjukkan hubungan antara pola makan dan 
+tingkat obesitas pada respond en, di mana pola makan yang sesuai 
+memiliki jumlah underweight (5, 4,4%) dan normal (26, 23,0%) 
+yang lebih tinggi dibandingkan dengan pola makan tidak sesuai, 
+yang menunjukkan jumlah underweight (4, 3,5%) dan normal (13, 
+11,5%) yang lebih rendah. Sebalikny a, pola makan tidak sesuai Pola makan  Obesitas  
+Underweight  
+n        % Normal  
+n        % Overweight  
+n        % Obes 1  
+n        % Obes 2  
+n        % P value  
+Sesuai  5      4,4%  26   23,0%  8      7,1%  14   12,4%  2     1,8%  0,001 
+Tidak sesuai  4      3,5%  13   11,5%  10     8,8%  22   19,5%  9     8,0%  
+
+34 
+ memiliki proporsi yang lebih besar pada kategori overweight (10, 
+8,8%) dan obesitas tingkat 1 (22, 19,5%). Nilai p sebesar 0,002 
+menunjukkan adanya hubungan signifikan antara pola makan dan 
+tingkat obesitas, dengan p < 0,05 mengi ndikasikan bahwa 
+perbedaan ini tidak terjadi secara kebetulan, sehingga menekankan 
+pentingnya pola makan yang baik dalam mencegah obesitas.  
+b. Hubungan aktivitas fisik  terhadap tingkat kejadian obesitas  
+Tabel 5. Hubungan aktivitas fisik  terhadap tingkat kejad ian obesitas  
+Aktivitas 
+fisik Obesitas  
+Underweight  
+n        % Normal  
+n        % Overweight  
+n        % Obes 1  
+n        % Obes 2  
+n        %  
+P value  
+0,001  Ringan     1      0,9%     3      2,7%      5      4,4%     8      7,1%     6      5,3%  
+Sedang     3      2,7%    10     8,8%     6      5,3%    15   13.3%     4      3,5%  
+Berat     5      4,4%    26      23%      7      6,2%    13   11,5%     1      0,9%  
+ 
+Dengan menggunakan uji  Kolmogorov -Smirnov  didapatkan 
+nilai p-value  0,001 (P < 0,0 5) dimana ini menunjukkan  adanya 
+hubungan yang signifikan antara aktivitas fisik terhadap tingakat 
+kejadian obesitas mahasiswa fakultas kedokteran universitas 
+muhammadiyah makassar.  
+Tabel di atas menunjukkan hubungan signifikan antara 
+tingkat aktivitas fisik dan kategori obesitas,  dengan P value sebesar 
+
+35 
+ 0,001. Aktivitas fisik dibagi menjadi tiga kategori: ringan, sedang, 
+dan berat. Pada kategori aktivitas ringan, persentase individu 
+dengan obesitas 1 dan obesitas 2 cukup tinggi, masing -masing 
+7,1% dan 5,3%. Dalam aktivitas sedang, terdapat peningkatan 
+jumlah individu dengan obesitas 1 (13,3%) meskipun ada 
+penurunan pada obesitas 2 (3,5%). Sementara itu, pada aktivitas 
+berat, proporsi individu dengan kategori normal meningkat secara 
+signifikan menjadi 23%, sedangkan individu dengan o besitas 2 
+sangat berkurang menjadi 0,9%. Hal ini menunjukkan bahwa 
+aktivitas fisik yang lebih intens dapat berkontribusi pada 
+pengurangan risiko obesitas.  
+ 
+ 
+  
+
+36 
+ BAB VI  
+PEMBAHASAN  
+A. Pembahasan  
+1. Analisa Univariat  Terhadap Karakteristik Responden  
+Dalam pene litian ini, analisis univariat dilakukan untuk melihat distribusi 
+karakteristik responden  yang terlibat dalam penelitian ini dengan 
+mempertimbangkan variabel jenis kelamin, umur, pola makan, aktivitas dan 
+obesitas.  
+Hasil analisis univariat menunjukkan bahw a mayoritas responden pada 
+penelitian ini adalah perempuan (52,2%) dengan usia terbanyak pada kelompok 
+usia 21 tahun (41,6%), yang mencerminkan bahwa mayoritas mahasiswa 
+Fakultas Kedokteran Universitas Muhammadiyah Makassar berada dalam 
+rentang usia muda y ang cenderung menghadapi transisi gaya hidup, termasuk 
+dalam hal pola makan dan aktivitas fisik. Hal ini penting untuk dicermati, 
+karena pada usia ini, mahasiswa sering kali terpapar pada kebiasaan hidup yang 
+berisiko, seperti pola makan yang tidak sehat a kibat tekanan akademik dan 
+keterbatasan waktu, serta aktivitas fisik yang terbatas. Meski demikian, data ini 
+juga menunjukkan bahwa hampir setengah dari responden (48,7%) masih 
+memiliki pola makan yang baik, meskipun 51,3% lainnya tidak mengikuti pola 
+maka n yang sesuai.  
+2. Analisa Bivariat  
+a. Hubungan Pola Makan dengan Tingkat Kejadian Obesitas  
+Hasil analisis bivariat dengan menggunakan uji  Kolmogorov -Smirnov  
+
+37 
+ menunjukkan adanya hubungan yang signifikan antara pola makan dan 
+status gizi obesitas pada mahasi swa Fakultas Kedokteran Universitas 
+Muhammadiyah Makassar. Nilai p -value sebesar 0,0 01 (p < 0,05) 
+menunjukkan bahwa perbedaan status gizi obesitas antara responden yang 
+mengikuti pola makan yang baik dan yang tidak mengikuti pola makan yang 
+baik tidak terj adi secara kebetulan. Hal ini menunjukkan bahwa pola makan 
+yang buruk berperan penting dalam meningkatkan risiko terjadinya obesitas 
+pada mahasiswa, sebaliknya pola makan yang sesuai dapat membantu 
+menjaga status gizi yang sehat.  
+Tabel yang menunjukkan hub ungan antara pola makan dan tingkat 
+obesitas mengungkapkan fakta yang menarik. Pada responden yang 
+mengikuti pola makan yang baik, jumlah mereka yang tergolong 
+underweight  (4,4%) dan normal (23,0%) lebih tinggi dibandingkan dengan 
+responden yang pola makan nya tidak sesuai, yang hanya mencatatkan 3,5% 
+pada kategori underweight  dan 11,5% pada kategori normal. Sebaliknya, 
+pada kelompok dengan pola makan yang tidak sesuai, proporsi responden 
+yang mengalami overweight  (8,8%) dan obesitas tingkat 1 (19,5%) lebih 
+besar. Hal ini menegaskan bahwa pola makan yang buruk cenderung 
+berkontribusi pada peningkatan kejadian obesitas dan kelebihan berat badan 
+pada mahasiswa.  
+Hal ini sejalan dengan penelitian yang dilakukan oleh ( Dewita 2021 ) 
+bahwa terdapat hubungan yang be rmakna antara pola makan dengan 
+kejadian obesitas. Menurutnya, Semakin sering remaja mengkonsumsi jenis 
+
+38 
+ makanan fast food maka akan semakin banyak lemak dalam tubuh anak 
+sehingga semakin tinggi risiko seseorang remaja menderita obesitas.35 
+ Berbeda dengan penelitian yang dilakukan oleh (Cristin 2021) yang 
+menyimpulkan bahwa tidak terdapat hubungan yang signifikan terhadap 
+pola makan dengan kejadian obesitas, menurutnya karena kebanyakan 
+mahasiswa dengan status gizi normal memiliki pola makan yang kurang jik a 
+dibandingkan dengan mahasiswa dengan status gizi lebih dan kurus.36 
+Peneliti berpendapat p entingnya pola makan yang baik dalam 
+pencegahan obesitas semakin diperkuat oleh hasil analisis ini, di mana nilai 
+p sebesar 0,00 1 (p < 0,05) menunjukkan bahwa hubun gan antara pola 
+makan dan tingkat obesitas memang signifikan. Ini menunjukkan bahwa 
+perubahan pola makan menuju pilihan yang lebih sehat dapat memiliki 
+dampak yang besar dalam mengurangi prevalensi obesitas, terutama di 
+kalangan mahasiswa yang rentan terha dap pola makan yang tidak seimbang 
+karena berbagai faktor, seperti gaya hidup yang sibuk dan kurangnya 
+pengetahuan mengenai nutrisi. Oleh karena itu, upaya untuk mengedukasi 
+mahasiswa mengenai pentingnya pola makan sehat sangat diperlukan 
+sebagai langkah p reventif dalam mengatasi obesitas.  
+b. Hubungan Aktivitas Fisik dengan Tingkat Kejadian Obesitas  
+Hasil analisis bivariat yang menggunakan uji  Kolmogorov -Smirnov  
+dengan p -value sebesar 0,00 1 (p < 0,0 5) menunjukkan adanya hubungan 
+yang sangat signifikan antar a tingkat aktivitas fisik dan kejadian obesitas di 
+kalangan mahasiswa Fakultas Kedokteran Universitas Muhammadiyah 
+
+39 
+ Makassar. Nilai P yang sangat rendah ini mengindikasikan bahwa 
+perbedaan tingkat obesitas berdasarkan intensitas aktivitas fisik bukanlah 
+kebetulan, melainkan merupakan hasil dari pengaruh aktivitas fisik terhadap 
+status gizi dan berat badan. Hal ini semakin menegaskan pentingnya peran 
+aktivitas fisik dalam pencegahan obesitas.  
+Data yang diperoleh menunjukkan adanya pola yang jelas antara 
+inten sitas aktivitas fisik dan kategori obesitas. Pada kelompok dengan 
+aktivitas fisik ringan, persentase individu yang mengalami obesitas tingkat 1 
+dan obesitas tingkat 2 relatif tinggi, masing -masing 7,1% dan 5,3%. Ini 
+menunjukkan bahwa kurangnya aktivitas fi sik yang cukup intens dapat 
+meningkatkan risiko terjadinya obesitas. Sebaliknya, pada kelompok dengan 
+aktivitas fisik sedang, meskipun terdapat peningkatan pada obesitas tingkat 
+1 (13,3%), namun jumlah individu dengan obesitas tingkat 2 justru menurun 
+(3,5%). Hal ini mengindikasikan bahwa meskipun aktivitas fisik sedang 
+memiliki dampak positif, namun aktivitas yang lebih berat akan lebih efektif 
+dalam mengurangi risiko obesitas.  
+Sejalan dengan penelitian yang dilakukan  oleh  ( Avrialdo 2023) 
+yang menyimpulk an bahwa terdapat hubungan  antara aktivitas  fisik 
+mahasiswa dengan  obesitas . Menurutnya, Aktivitas   fisik    yang   paling   
+sering dilakukan oleh mahasiswa yaitu berjalan kaki. Umumnya  mahasiswa  
+memiliki  jumlah  waktu luang  lebih  banyak  di  luar  kegiatan  akademik 
+perkuliahan.     Kesempatan     tersebut     dapat dimanfaatkan setiap 
+individu untuk melakukan kegiatan  organisasi  ataupun  olahraga  ringan .37 
+
+40 
+ Berbeda dengan penelitian yang ( Winarto dkk. 2022) yang 
+menyimpulkan bahwa  tidak terdapa t hubungan antara aktivitas fisik dengan 
+kejadian obesitas . Menurutnya, obesitas tidak selalu dikaitkan dengan 
+aktivitas fisik yang kurang. Obesitas terjadi karena asupan energi yang 
+masuk ke dalam tubuh lebih besar dibandingkan dengan energi yang 
+dikeluar kan.38 
+Berdasarkan hasil penelitian, peneliti berpendapat bahwa tingkat 
+aktivitas fisik yang rendah, terutama dengan intensitas ringan, berkontribusi 
+signifikan terhadap peningkatan kejadian obesitas di kalangan mahasiswa. 
+Meskipun sebagian besar responden  melaporkan melakukan aktivitas fisik, 
+namun aktivitas dengan intensitas rendah tidak cukup efektif dalam 
+mencegah penumpukan lemak tubuh yang berlebihan. Sebaliknya, aktivitas 
+fisik dengan intensitas lebih tinggi terbukti memiliki dampak yang lebih 
+besar dalam mengurangi risiko obesitas, karena mampu membakar lebih 
+banyak kalori dan meningkatkan metabolisme tubuh. Oleh karena itu, 
+peneliti menyarankan agar mahasiswa didorong untuk meningkatkan 
+frekuensi dan intensitas aktivitas fisik mereka, dengan pendeka tan yang 
+lebih terstruktur dan terarah  dengan didampingi  pemenuhan  asupan asupan 
+nutrisi yang seimbang dari pola makan , seperti melalui program olahraga 
+yang dapat diakses di  lingkungan kampus. Hal ini sangat penting untuk 
+mencegah obesitas serta meningkat kan kebugaran dan kualitas hidup secara 
+keseluruhan.   
+
+41 
+ Integrasi Keislaman  
+1. Prinsip Moderasi (Tawazun) dalam Islam  
+Moderasi atau keseimbangan merupakan prinsip dasar dalam 
+ajaran Islam. Prinsip ini mencakup berbagai aspek kehidupan, termasuk 
+pola makan dan g aya hidup. Allah SWT berfirman dalam QS. Al -A‟raf 31:  
+وَّكُلُىۡا وَاشۡسَتُىۡا وََلَ جُعۡسِفُىۡا   ۚ اًَِّٗ  َلَ ٌُِِة  اۡۡوُعۡسِفٍِۡيَ   
+Terjemahny a: 
+"Makan dan minumlah, tetapi jangan berlebihan. Sesungguhnya Allah 
+tidak menyukai orang -orang yang berlebih -lebihan."39 
+ 
+Ayat ini menekankan pentingnya moderasi da lam konsumsi makanan dan 
+minuman. Allah menciptakan kebutuhan makan dan minum agar manusia 
+dapat memelihara tubuh dan melaksanakan tugas kekhalifahan di bumi. 
+Namun, ketika manusia melampaui batas dalam memenuhi kebutuhan 
+tersebut, mereka tidak hanya memba hayakan diri sendiri, tetapi juga 
+melanggar prinsip -prinsip syariat.  
+Pola hidup yang moderat mencakup tidak hanya jumlah makanan 
+yang dikonsumsi, tetapi juga kualitasnya. Konsumsi makanan yang sehat 
+dan bergizi membantu menjaga keseimbangan tubuh, sedangka n makan 
+berlebihan dapat menyebabkan obesitas, diabetes, dan penyakit lainnya. 
+Islam mengajarkan bahwa menjaga keseimbangan dalam makan dan 
+minum adalah bentuk ketaatan kepada Allah SWT.  
+2. Hadis Nabi tentang Pola Makan Sehat  
+Rasulullah shallallahu „alaihi wa  sallam memberikan panduan 
+praktis tentang pola makan dalam sabda nya : 
+
+42 
+  حَدَّثٌََا حَجَّاجٌ حَدَّثٌََا شُعْثَةُ عَيْ ظَعٍِدِ تْيِ هٍَْوُىىٍ عَيْ عِكْسِهَةَ عَيْ عَثْدِ َّللاَِّ تْيِ عُوَسَ زَضًَِ َّللاَُّ عٌَُْٗ :َا َ   
+:َا َ زَظُى ُ َّللاَِّ صَلَّى َّللاَُّ عَلٍَِْٗ وَظَلَّنَ  "هَا هََلََ آدَهًٌِّ وِعَاءً شَسًّا هِيْ تَطٌِِْٗ، فََِ عْةُ اتْيِ آدَمَ ُۡقٍَْوَاتٍ 
+ٌُقِوْيَ صُلْثَُٗ، فَإِىْ كَاىَ َلَ هََِاَۡةَ فَفَلٍَْأْكُلْ ثُلُثًا وٍََِۡشْسَبْ ثُلُثًا وٍََِۡجْعَلْ ثُلُثًا ِۡلٌَّفَطِ. 
+Artinya:  
+Telah menceritakan kepada kami Hajjaj, telah menceritakan kepada kami 
+Shuba, dari Said bin May mun, dari Ikrimah, dari Abdullah bin Umar 
+radhiyallahu anhu, beliau berkata: Rasulullah SAW bersabda: 'Tidak ada 
+tempat yang dipenuhi oleh anak Adam yang lebih buruk daripada 
+perutnya. Cukup baginya beberapa suap makanan untuk menegakkan 
+tulang punggungnya . Jika ia harus mengisi, maka sepertiga untuk 
+makanannya, sepertiga untuk minumnya, dan sepertiga untuk napasnya. ‟” 
+(HR. Ahmad dan Tirmidzi).40 
+ 
+Hadis ini mengajarkan pentingnya mengendalikan nafsu makan. 
+Rasulullah SAW menyarankan agar manusia mengonsumsi  makanan 
+dalam jumlah yang cukup untuk kebutuhan tubuh, bukan untuk 
+memuaskan keinginan berlebihan. Pembagian sepertiga untuk makanan, 
+minuman, dan napas menunjukkan keseimbangan yang ideal bagi 
+kesehatan tubuh. Pola makan seperti ini dapat mencegah penyak it yang 
+berhubungan dengan kelebihan konsumsi makanan, seperti obesitas dan 
+gangguan pencernaan.  
+ 
+3. Anjuran Konsumsi Makanan Halal dan Thayyib  
+Islam juga memberikan pedoman dalam memilih jenis makanan 
+yang dikonsumsi. Dalam QS. Al -Baqarah: 168, Allah SWT ber firman:  
+ ٌََٰٰٓأٌَ هَا ٱٌَّۡاضُ كُلُىا۟ هِوَّا فِى ٱْلَْزْضِ حَلًَٰلً طٍَِّثًا وََلَ جَحَّثِعُىا۟ خُطُىَٰتِ ٱۡشٍَّْطَٰيِ ۚ إًَُِّٗۥ َۡكُنْ عَدُوٌّ ه ثٍِيٌ   
+Terjemahny a: 
+"Wahai manusia! Makanlah dari (makanan) yang halal dan baik yang 
+terdapat di bumi, dan ja nganlah kamu mengikuti langkah -langkah setan. 
+Sungguh, setan itu musuh yang nyata bagimu." 39 
+ 
+
+43 
+ Halal merujuk pada makanan yang diizinkan menurut syariat, sedangkan  
+thayyib berarti makanan yang baik, sehat, dan bergizi. Prinsip ini 
+menuntun umat Islam untuk  memilih makanan yang tidak hanya sesuai 
+syariat, tetapi juga bermanfaat bagi kesehatan tubuh.  
+Rasulullah SAW juga memberikan contoh nyata dalam pola makan sehari -
+hari. Beliau sering mengonsumsi makanan yang sederhana, seperti kurma, 
+madu, air, dan susu. B eliau juga makan dalam porsi kecil dan tidak 
+berlebihan. Pola makan ini tidak hanya mencerminkan kesederhanaan, 
+tetapi juga menjaga kesehatan tubuh.  
+4. Aktivitas Fisik Rasulullah SAW  
+Rasulullah SAW juga mengajarkan pentingnya berolahraga, seperti 
+memanah, ber kuda, dan berenang, yang merupakan sunnah untuk menjaga 
+kebugaran . Berikut hadistnya :  
+ أَخْثَسًََا هَُِوَّدُ تْيُ وَهْةٍ اَِْۡسَّاًًِ  ، عَيْ هَُِوَّدِ تْيِ ظَلَوَةَ ، عَيْ أَتًِ عَثْدِ اۡسَّحٍِنِ ، :َا َ   حَدَّثًٌَِ عَثْدُ  
+اۡسَّحٍِنِ اۡص هْسِي  ، عَيْ عَطَاءِ تْيِ أَتًِ زَتَاحٍ ، :َا َ   زَأٌَْثُ جَاتِسَ تْيَ عَثْدِ َّللاَِّ ، وَجَاتِسَ تْيَ عُوٍَْسٍ 
+اْلًَْصَازٌٍَِّْيِ ٌَسْهٍَِاىِ ، فَقَا َ أَحَدُهُوَا ِۡصَاحِثِِٗ   ظَوِعْثُ زَظُى َ َّللاَِّ صَلَّى َّللاَُّ عَلٍَِْٗ وَظَلَّنَ  ٌَقُى ُ    ”كُل  
+شًَْءٍ ٍَْۡطَ فٍِِٗ ذِكْسُ َّللاَِّ ، فَهُىَ َۡهُىٌ وََۡعِةٌ ، إَِل أَزْتَعَ   هًُلعَثَةُ اۡسَّجُلِ  اهْسَأَجَُٗ ، وَجَأْدٌِةُ اۡسَّجُلِ فَسَظَُٗ ، 
+وَهَشٍُُْٗ تٍَْيَ اْۡغَسَضٍَْيِ ، وَجَعْلٍِنُ اۡسَّجُلِ اۡعَّثَّاحَةَ  
+Artinya :  
+Muhammad bin Wahb Al Harrani mengabarkan kepadaku, dari 
+Muhammad bin Salamah, dari Abu Abdirrahim, ia berkata: Abdurrahim 
+Az Zuh ri menuturkan kepadaku, dari „Atha bin Abi Rabbah, ia berkata: 
+aku melihat Jabir bin Abdillah Al Anshari dan Jabir bin Umairah Al 
+Anshari sedang latihan melempar. Salah seorang dari mereka berkata 
+kepada yang lainnya: aku mendengar Rasulullah Shallallahu‟a laihi 
+Wasallam bersabda: “setiap hal yang tidak ada dzikir kepada Allah adalah 
+lahwun (kesia -siaan) dan permainan belaka, kecuali empat: candaan suami 
+kepada istrinya, seorang lelaki yang melatih kudanya, latihan memanah, 
+dan mengajarkan renang”.  
+ 
+Islam me mberikan pedoman yang jelas tentang pola makan, gaya 
+
+44 
+ hidup sehat, dan pentingnya menjaga kesehatan tubuh. Prinsip moderasi 
+(tawazun) dalam Islam, anjuran konsumsi makanan halal dan thayyib, 
+serta larangan makan berlebihan adalah panduan yang relevan dalam 
+mencegah obesitas. Dengan meneladani pola makan dan gaya hidup 
+Rasulullah SAW, umat Islam dapat menjalani hidup yang sehat, seimbang, 
+dan penuh keberkahan.  
+5. Obesitas dalam Perspektif Islam  
+Obesitas merupakan akumulasi lemak berlebih yang berpotensi 
+menggang gu fungsi tubuh dan meningkatkan risiko penyakit. Dalam 
+Islam, kesehatan adalah bagian dari nikmat yang harus disyukuri dan 
+dijaga. Allah SWT berfirman dalam QS. Al -Baqarah: 195:  
+ وَأًَفِقُىا۟ فِى ظَثٍِلِ ٱَّللَِّ وََلَ جُلْقُىا۟ تِأٌَْدٌِكُنْ إَِۡى ٱۡحَّهْلُكَةِ ۛ وَأَحْعٌُِىَٰٓا۟ ۛ إِىَّ ٱَّللََّ ٌُِِة  ٱْۡوُِْعٌٍِِيَ   
+Terjemahnya : 
+"Dan janganlah kamu menjatuhkan dirimu sendiri ke dalam kebinasaan 
+dengan tangan sendiri, dan berbuat baiklah; sesungguhnya Allah menyukai 
+orang -orang yang berbuat baik."39 
+ 
+Ayat in i mengingatkan manusia untuk tidak melakukan tindakan 
+yang merugikan diri sendiri, termasuk pola makan yang tidak sehat dan 
+gaya hidup yang pasif. Obesitas, sebagai salah satu bentuk kebinasaan, 
+dapat dicegah dengan menerapkan prinsip Islam dalam pola maka n dan 
+aktivitas fisik.  
+ 
+ 
+
+45 
+ BAB VII  
+KESIMPULAN DAN SARAN  
+A. Kesimpulan  
+Dari hasil penelitian yang dilakukan didapatkan bahwa terdapat hubungan 
+yang signifikan antara pola makan dan aktivitas fisik terhadap tingkat kejadian 
+obesitas mahasiswa fakultas kedokteran Universitas Muhammadiyah 
+Makassar . Dimana hasil uji dari  pola makan mahasiswa menunjukkan P Value  
+0,001 (<0,05) . Sedangkan hasil aktivitas fisik mahasiswa menunjukkan P 
+Value  0,001 (<0,05) yang sama -sama menunjukkan pengaruh signifikan.  
+B. Saran -saran  
+Berd asarkan kesimpulan diatas, peneliti mengajukan saran -saran sebagai 
+berikut:  
+1. Bagi Fakultas Kedokteran Universitas Muhammadiyah Makassar  
+Universitas muhammadiyah makassar dalam rangka untuk 
+meningkatkan pencegahan kejadian obesitas. Untuk mensosialisasikan 
+gaya hidup sehat untuk mencegah terjadinya resiko obesitas baik 
+dikalangan mahasiswa, dosen, maupun  staff.  
+2. Bagi Mahasiswa Fakultas Kedokteran universitas Muhammadiyah 
+Makassar  
+Para mahasiswa perlu meningkatkan pengetahuan dan informasi 
+terkait masalah damp ak, efek, dan bahaya obesitas bagi kesehatan, 
+menghindari gaya hidup pola makan yang tidak sehat  dan melakukan 
+berbagai kegiatan aktivitas fisik dalam rangka menghindari kejadian 
+
+46 
+ obesitas.  
+3. Bagi Pengembangan Ilmu Kedokteran  
+Memberikan sumbangan sekaligus m emperluasnya wawasan 
+dalam rangka pengembangan ilmu pengetahuan di bidang kedokteran yang 
+menyangkut pengetahuan tentang dampak, efek, dan bahaya akibat 
+merokok baik itu perokok aktif maupun perokok pasif dengan tindak 
+pencegahan kejadian merokok di kalang an akademisi.  
+4. Bagi Peneliti Selanjutnya  
+Digunakan sebagai bahan referensi yang bermanfaat guna 
+mengkaji lebih jauh lagi mengenai pengaruh pola makan dan aktivitas fisik 
+terhadap kejadian obesitas pada mahasiswa Fakultas Kedokteran 
+Universitas Muhammadiyah Makassar.  
+ 
+  
+
+47 
+ DAFTAR PUSTAKA  
+(1) F. Sudargo, T., Freitag, H., Kusmayanti, N. A., & Rosiyani, “Pola makan 
+dan Obesitas,” 2018, [Online]. Available: 
+http://ugmpress.ugm.ac.id/id/product/kesehatan/pola -makan -dan-
+obesitas%0Ahttps://books.google.co.id/books?hl=i d&lr=&id=kNBWDwA
+AQBAJ&oi=fnd&pg=PR1&dq=pola+makan+dan+obesitas&ots=cuW4yEv
+-
+iq&sig=64nTUFAVK1k2v4ba0xv88tOhjB0&redir_esc=y#v=onepage&q=
+pola makan  
+(2) Kemenkes RI, Pedoman Umum Pengendalian Obesitas , vol. 1, no. 69. 
+2015.  
+(3) K. G. Y. Swari, N. K. Mulyantari , and I. W. P. S. Yasa, “Hubungan 
+Melewatkan Sarapan Terhadap Kejadian Overweight Dan Obesitas Pada 
+Mahasiswa Fakultas Kedokteran Universitas Udayana,” E-Jurnal Med. 
+Udayana , vol. 11, no. 3, p. 116, 2022, doi: 10.24843/mu.2022.v11.i03.p18.  
+(4) P. Gordon -Larsen, “Obesity -related knowledge, attitudes, and behaviors in 
+obese and non -obese urban Philadelphia female adolescents,” Obes. Res. , 
+vol. 9, no. 2, pp. 112 –118, 2001, doi: 10.1038/oby.2001.14.  
+(5) Y. Lin et al. , “Patients with SARS -CoV -2 and HBV co -infect ion are at risk 
+of greater liver injury,” Genes Dis. , vol. 8, no. 4, pp. 484 –492, 2021, doi: 
+10.1016/j.gendis.2020.11.005.  
+(6) Andi Paraqleta Nur Eli, Nurhikmawati, Irmayanti, I. Safei, and R. F. 
+Syamsu, “Hubungan Aktivitas Fisik dengan Kejadian Overweight  pada 
+Tenaga Kependidikan di Universitas Muslim Indonesia,” Fakumi Med. J. J. 
+Mhs. Kedokt. , vol. 2, no. 12, pp. 914 –922, 2023, doi: 
+10.33096/fmj.v2i12.168.  
+(7) F. Nurcahyo, “Kaitan Antara Obesitas Dan Aktivitas Fisik,” Medikora , no. 
+1, pp. 87 –96, 2015, doi : 10.21831/medikora.v0i1.4663.  
+(8) M. Y. Lubis, D. Hermawan, U. Febriani, and A. Farich, “Hubungan Antara 
+Faktor Keturunan, Jenis Kelamin Dan Tingkat Sosial Ekonomi Orang Tua 
+Dengan Kejadian Obesitas Pada Mahasiswa Di Universitas Malahayati 
+Tahun 2020,” Hum. Care J. , vol. 5, no. 4, p. 891, 2020, doi: 
+10.32883/hcj.v5i4.744.  
+(9) E. J. Adams, L. Grummer -Strawn, and G. Chavez, “Food insecurity is 
+associated with increased risk of obesity in California women,” J. Nutr. , 
+vol. 133, no. 4, pp. 1070 –1074, 2003, doi:  10.1093/jn/133.4.1070.  
+(10) C. Tanto, F. Liwang, S. Hanifati, and E. A. Pradipta, your sign here . edisi 
+IV. 2014.  
+(11) S. Sumarni and E. Y. Bangkele, “Persepsi Orang Tua, Guru Dan Tenaga 
+
+48 
+ Kesehatan Tentang Obesitas Pada Anak Dan Remaja,” Heal. Tadulako J.  
+(Jurnal Kesehatan. Tadulako) , vol. 9, no. 1, pp. 58 –64, 2023, doi: 
+10.22487/htj.v9i1.658.  
+(12) P. K. Indonesia, Profil Kesehatan Indonesia. Kementerian Kesehatan 
+Republik Indonesia, Jakarta . 2017.  
+(13) Suparyanto dan Rosad, “Gambaran Pola Makan,” Suparyan to dan Rosad 
+(2015 , vol. 5, no. 3, pp. 248 –253, 2015.  
+(14) H. Sulsitiyoningsih, “untuk Kesehatan,” pp. 52 –57, 2012.  
+(15) H. Nur and E. Y. Aritonang, “Gambaran Pola Makan Dan Kelelahan Kerja 
+Pada Buruh Angkat Di PT. Karya Mandiri Prima Kabupaten Langkat,” J. 
+Heal. Med. Sci. , vol. 1, pp. 242 –254, 2022.  
+(16) W. N. Romadhoni, N. Nasuka, A. R. D. Candra, and E. N. Priambodo, 
+“Aktivitas Fisik Mahasiswa Pendidikan Kepelatihan Olahraga selama 
+Pandemi COVID -19,” Gelangg. Olahraga J. Pendidik. Jasm. dan 
+Olahraga , vol. 5, no. 2, pp. 200 –207, 2022, doi: 10.31539/jpjo.v5i2.3470.  
+(17) K. Glanz, M. Basil, E. Maibach, J. Goldberg, and D. Snyder, “Why 
+Americans eat what they do: Taste, nutrition, cost, convenience, and weight 
+control concerns as influences on food consumptio n,” Journal of the 
+American Dietetic Association , vol. 98, no. 10. pp. 1118 –1126, 1998. doi: 
+10.1016/S0002 -8223(98)00260 -0. 
+(18) O. G. Mokolensang, A. E. Manampiring, and . F., “Hubungan Pola Makan 
+Dan Obesitas Pada Remaja Di Kota Bitung,” J. e-Biomedik , vol. 4, no. 1, 
+2016, doi: 10.35790/ebm.4.1.2016.10848.  
+(19) A. Miko and M. Pratiwi, “Relationship to eating pattern and physical 
+activity with obesity in Health Polytechnic students Ministry of Health in 
+Aceh,” AcTion Aceh Nutr. J. , vol. 2, no. 1, pp. 1 –5, 2017, [Online]. 
+Available: 
+https://ejournal.poltekkesaceh.ac.id/index.php/an/article/view/29/24  
+(20) D. A. Christianto, “Hubungan Aktivitas Fisik Terhadap Kejadian Obesitas 
+Berdasarkan Indeks Massa Tubuh Di Desa Banjaroyo,” Berk. Ilm. Kedokt. 
+Duta Wacana , vol. 3, no. 2, p. 78, 2018, doi: 10.21460/bikdw.v3i2.97.  
+(21) S. Hanafi and W. Hafid, “Hubungan Aktivitas Fisik dan Konsumsi Fast 
+Food dengan Kejadian Obesitas Pada Remaja,” Kampurui J. Kesehat. 
+Masy. (The J. Public Heal. , vol. 1, no. 1, pp. 6 –10, 2019, do i: 
+10.55340/kjkm.v1i1.49.  
+(22) W. P. T. James, M. Nelson, A. Ralph, and S. Leather, “Socioeconomic 
+determinants of health: The contribution of nutrition to inequalities in 
+health,” Br. Med. J. , vol. 314, no. 7093, pp. 1545 –1549, 1997, doi: 
+10.1136/bmj.314. 7093.1545.  
+
+49 
+ (23) A. M. S. Kalle Hirvonen, Elia Machado, “This document is discoverable 
+and free to researchers across the globe due to the work of AgEcon Search . 
+Help ensure our sustainability . ａ ｃ ｔ ｏ ｒ ｓＩ  ｎ ｆ ｌ ｕ ｅ ｎ ｃ 
+ｉ ｎ ｇＰ  ｒ ｉ ｃ ｅｏ  ｆＡ  ｇ ｒ ｉ ｃ ｕ ｌ ｔ ｕ ｒ ａ ｌＰ  ｒ ｏ 
+ｄ ｕ ｃ ｔ ｓ ａ ｎ ｄＳ  ｔ ａ ｂ ｉ ｌ ｉ ｔ ｙＣ  ｏ ｕ ｎ ｔ ｅ,” 
+AgEcon Search , pp. 1 –26, 2024, [Online]. Available: file:///F:/Spec 
+2/Traffic Delay Model.pdf  
+(24) W. Agustina, R. M. Lestari, and D. W. Prasida, “Hubungan Aktivitas Fisik 
+dengan Kejadian Obesitas  pada Usia Produktif di Wilayah Kerja 
+Puskesmas Marina Permai Kota Palangka Raya,” J. Surya Med. , vol. 9, no. 
+1, pp. 1 –8, 2023, doi: 10.33084/jsm.v9i1.5125.  
+(25) J. I. Mahasiswa, K. Biomedis, T. A. Prima, H. Andayani, and N. Abdullah, 
+“The Relationship of Junk Food Consumption and Physical Activity With 
+Obesity of Adolescents in Banda Aceh,” J. Ilm. Mhs. Kedokt. Biomedis , 
+vol. 4, no. 1, pp. 20 –27, 2018, [Online]. Available: 
+http://www.jim.unsyiah.ac.id/FKB/  
+(26) M. D. Novitasary, “Hubungan Antara Aktivitas Fisik Dengan Obesitas 
+Pada Wanita Usia Subur Peserta Jamkesmas Di Puskesmas Wawonasa 
+Kecamatan Singkil Manado,” J. e-Biomedik , vol. 1, no. 2, pp. 1040 –1046, 
+2014, doi: 10.35790/ebm.1.2.2013.3255.  
+(27) Kementerian Kesehatan RI. Buku Studi Diet Total: Survei  Konsumsi 
+Makanan Individu. Jakarta: Kemenkes; 2014.  
+(28) Kemenkes, “Pedoman_Umum_Gentas_Gerakan_berantas_obesitas.pdf.” 
+pp. 1 –41, 2017. [Online]. Available: 
+http://p2ptm.kemkes.go.id/uploads/N2VaaXIxZGZwWFpEL1VlRFdQQ3Z
+RZz09/2017/11/Pedoman_Umum_Gentas_Ger akan_berantas_obesitas.pdf  
+(29) D. A. Setyawan, Hipotesis Dan Variabel Penelitian . 2021.  
+(30) Depkes RI, “Pedoman Manajemen Sumber Daya Manusia (Sdm) 
+Kesehatan Dalam Penanggulangan Bencana,” J. Kesehat. , p. 13, 2006.  
+(31) S. N. Henna, S. Masryna, and S. Ev a Ellya, “Hubungan Pola Makan 
+dengan Status Gizi pada Anak Balita di Wilayah Kerja Puskesmas Medan 
+Sunggal di Lingkungan XIII Kelurahan Sunggal Kecamatan Medan 
+Sunggal Tahun 2018,” J. Kesehat. Masy. dan Lingkung. Hidup , vol. 3, no. 
+2, p. 220, 2020.  
+(32) Huriyati Nila Alfi and Amareta Dahlia Indah, “Kebiasaan Merokok 
+Menurunkan Nafsu Makan Buruh Batako,” J. Kesehat. , vol. 8, no. 1, pp. 
+55–62, 2020, [Online]. Available: https://doi.org/10.25047/j -kes.v8i1  
+(33) F. Susanti, “Hubungan Pola Makan Bergizi Dengan P erkembangan 
+Motorik Kasar Anak Usia Prasekolah Di Tk Margo Bhakti Kel. Sukosari 
+
+50 
+ Kec.Kartoharjo Kota Madiun,” Angew. Chemie Int. Ed. 6(11), 951 –952., 
+pp. 10 –27, 2018.  
+(34) JUMI SIAUTA, “Gambaran Obesitas Di Sd Islam Athirah Kota Makassar,” 
+pp. 1 –101, 2019, [Online]. Available: 
+http://repository.unhas.ac.id/25131/1/ --jumisiauta -5127 -1-13-jumi-5.pdf  
+(35) E. Dewita, “Hubungan Pola Makan Dengan Kejadian Obesitas Pada 
+Remaja  Di Sma Negeri 2 Tambang,” J. Kesehat. Tambusai , vol. 2, no. 1, 
+pp. 7 –14, 2021, doi: 10.31004/jkt.v2i1.1554.  
+(36) Sagala CO, Noerfitri N. Hubungan Pola Makan dan Pengetahuan Gizi 
+Seimbang dengan Gizi Lebih Mahasiswa STIKes Mitra Keluarga. 
+JURNAL ILMIAH KES EHATAN MASYARAKAT : Media Komunikasi 
+Komunitas Kesehatan Masyarakat. 2021;13(1):22 –7. 
+(37) Avrialdo M, Elon Y. Hubungan Aktivitas Fisik Mahasiswa Overweight dan 
+Obesitas Menurut Indeks Massa Tubuh. Nutrix Journal. 2023;7(1):50.  
+(38) Winarto F, Werdiharini AE. Hubungan Konsumsi Junk Food dan Aktivitas 
+Fisik dengan Kejadian Obesitas Pada Mahasiswa di Politeknik Negeri 
+Jember. HARENA: Jurnal Gizi. 2023;4(1):1 –9. (39)  
+(39) Al Qur‟anul Karim  
+(40) Gusmayeni. Haliza, 2024. Adab Makan dan Minum Kajian Hadis Ditinj au 
+dari Kesehatan . Fakultas Ushuluddin UIN Syarif Kasim Riau.  
+ 
+ 
+  
+
+51 
+ LAMPIRAN  
+ 
+Lampiran 1 :  
+Surat LP3M  
+
+52 
+ Lampiran 2 :  
+Izin Etik  
+  
+
+53 
+ Lampiran 3. Plagiasi  
+  
+
+54 
+ 
+
+55 
+ 
+
+56 
+   
+
+57 
+  
+  
+
+58 
+   
+
+59 
+   
+
+
+61 
+ Lampiran 4 :  
+Hasil Kuisoner  
+ 
+  
+Sampel JK Umur PM Pola Makan AVK AVK BMI OBESITAS
+1 1 3 36 Tidak sesuai 40 berat 16.02 Underweight
+2 2 5 33 Tidak sesuai 35 berat 18.03 Normal weight
+3 1 3 35 Tidak sesuai 32 berat 20.04 Normal weight
+4 1 4 29 Tidak sesuai 45 berat 21.01 Normal weight
+5 1 4 33 Tidak sesuai 45 ringan 19.07 Normal weight
+6 1 5 32 Tidak sesuai 32 berat 21.02.00 Obesity I
+7 1 4 33 Tidak sesuai 45 berat 22.08 Normal weight
+8 1 5 38 Tidak sesuai 45 sedang 17.05 Underweight
+9 1 5 37 Tidak sesuai 36 ringan 30.01.00 Obesity II
+10 2 4 32 Tidak sesuai 40 sedang 27.04.00 Obesity I
+11 1 4 35 Tidak sesuai 39 berat 24.08.00 Overweight
+12 1 4 46 sesuai 42 ringan 23.02 Overweight
+13 2 5 36 Tidak sesuai 41 berat 31.07.00 Obesity II
+14 2 5 33 Tidak sesuai 46 ringan 19.05 Normal weight
+15 2 5 36 Tidak sesuai 44 berat 28.06.00 Obesity I
+16 1 5 38 Tidak sesuai 44 berat 18.01 Normal weight
+17 2 4 33 Tidak sesuai 44 sedang 23.09 Overweight
+18 1 4 43 sesuai 38 berat 20.07 Normal weight
+19 1 3 35 Tidak sesuai 42 ringan 24.05.00 Overweight
+20 2 3 41 Tidak sesuai 43 ringan 26.03.00 Obesity I
+21 2 4 42 sesuai 45 sedang 29.02.00 Obesity I
+22 2 4 37 Tidak sesuai 40 berat 28.01.00 Obesity I
+23 2 4 29 Tidak sesuai 42 berat 17.09 Underweight
+24 2 5 28 Tidak sesuai 42 berat 22.01 Normal weight
+25 2 3 28 Tidak sesuai 42 sedang 21.04 Normal weight
+26 2 4 28 Tidak sesuai 42 sedang 27.00.00 Obesity I
+27 2 3 43 sesuai 42 berat 29.06.00 Obesity I
+28 1 5 35 Tidak sesuai 47 sedang 17.04 Underweight
+29 1 4 19 Tidak sesuai 32 sedang 19.01 Normal weight
+30 2 4 26 Tidak sesuai 38 berat 30.03.00 Obesity II
+31 2 5 25 Tidak sesuai 36 sedang 18.07 Normal weight
+32 1 4 39 Tidak sesuai 33 berat 29.04.00 Obesity I
+33 2 3 41 Tidak sesuai 43 berat 23.00 Overweight
+34 2 5 51 sesuai 51 sedang 26.00.00 Obesity I
+35 1 5 27 Tidak sesuai 31 ringan 18.09 Normal weight
+36 2 5 36 Tidak sesuai 28 berat 21.08 Normal weight
+37 2 3 44 sesuai 46 berat 25.05.00 Obesity I
+38 1 4 50 sesuai 51 berat 24.02.00 Overweight
+39 1 3 44 sesuai 50 berat 23.07 Overweight
+40 1 5 44 sesuai 56 berat 26.08.00 Obesity I
+41 2 3 53 sesuai 54 berat 19.03 Normal weight
+42 2 5 46 sesuai 42 ringan 20.00 Normal weight
+43 2 2 31 Tidak sesuai 28 ringan 28.08.00 Obesity I
+44 2 5 29 Tidak sesuai 28 sedang 24.09.00 Overweight
+45 2 4 30 Tidak sesuai 30 ringan 29.03.00 Obesity I
+46 1 4 34 Tidak sesuai 44 berat 25.06.00 Obesity I
+47 1 2 35 Tidak sesuai 58 ringan 17.03 Underweight
+48 1 4 33 Tidak sesuai 35 sedang 30.05.00 Obesity II
+49 1 4 31 Tidak sesuai 32 berat 23.05 Overweight
+50 1 4 35 Tidak sesuai 40 berat 19.06 Normal weight
+
+62 
+  
+  
+51 2 4 43 sesuai 31 sedang 22.09 Normal weight
+52 2 4 32 Tidak sesuai 39 berat 26.07.00 Obesity I
+53 2 3 34 Tidak sesuai 29 berat 21.06 Normal weight
+54 1 4 33 Tidak sesuai 25 sedang 22.00 Normal weight
+55 1 4 36 Tidak sesuai 29 sedang 27.01.00 Obesity I
+56 2 5 38 Tidak sesuai 35 sedang 31.02.00 Obesity II
+57 1 4 35 Tidak sesuai 40 berat 18.05 Normal weight
+58 1 4 39 Tidak sesuai 48 ringan 20.01 Normal weight
+59 2 4 43 sesuai 25 sedang 17.07 Underweight
+60 2 4 45 sesuai 40 berat 23.08 Overweight
+61 2 2 28 Tidak sesuai 45 sedang 28.03.00 Obesity I
+62 1 4 28 Tidak sesuai 37 berat 25.02.00 Obesity I
+63 2 5 40 Tidak sesuai 45 berat 19.09 Normal weight
+64 1 5 19 Tidak sesuai 44 sedang 25.00.00 Obesity I
+65 1 4 32 Tidak sesuai 38 sedang 27.03.00 Obesity I
+66 1 5 41 Tidak sesuai 37 sedang 30.06.00 Obesity II
+67 1 4 45 sesuai 36 sedang 29.08.00 Obesity I
+68 1 4 28 Tidak sesuai 40 ringan 18.02 Normal weight
+69 1 4 38 Tidak sesuai 29 berat 21.09 Normal weight
+70 1 4 44 sesuai 56 sedang 28.00.00 Obesity I
+71 2 4 30 Tidak sesuai 38 berat 23.03 Overweight
+72 1 5 37 Tidak sesuai 52 sedang 29.01.00 Obesity I
+73 1 3 43 sesuai 53 berat 24.04.00 Overweight
+74 2 3 36 Tidak sesuai 36 sedang 18.06 Normal weight
+75 2 4 22 Tidak sesuai 35 berat 19.08 Normal weight
+76 2 3 35 Tidak sesuai 53 berat 31.04.00 Obesity II
+77 1 5 38 Tidak sesuai 47 sedang 25.07.00 Obesity I
+78 2 5 29 Tidak sesuai 38 berat 28.02.00 Obesity I
+79 1 4 30 Tidak sesuai 53 berat 19.00 Normal weight
+80 1 5 48 sesuai 55 ringan 26.09.00 Obesity I
+81 2 5 43 sesuai 54 berat 30.00.00 Obesity II
+82 2 5 45 sesuai 42 berat 22.05 Normal weight
+83 2 5 34 Tidak sesuai 44 berat 17.08 Underweight
+84 2 3 41 Tidak sesuai 55 berat 24.03.00 Overweight
+85 2 3 40 Tidak sesuai 46 berat 27.05.00 Obesity I
+86 2 4 47 sesuai 49 sedang 23.06 Overweight
+87 2 5 24 Tidak sesuai 29 sedang 26.04.00 Obesity I
+88 2 4 34 Tidak sesuai 32 sedang 22.02 Normal weight
+89 1 3 39 Tidak sesuai 34 berat 20.06 Normal weight
+90 1 5 35 Tidak sesuai 51 sedang 29.07.00 Obesity I
+91 2 1 44 sesuai 33 berat 17.01 Underweight
+92 2 3 48 sesuai 44 sedang 18.04 Normal weight
+93 1 4 44 sesuai 40 berat 21.03 Normal weight
+94 2 4 44 sesuai 43 sedang 22.07 Normal weight
+95 2 5 54 sesuai 32 sedang 24.01.00 Overweight
+96 1 5 46 sesuai 34 berat 29.09.00 Obesity I
+97 2 4 45 sesuai 51 berat 19.04 Normal weight
+98 2 5 47 sesuai 49 sedang 26.01.00 Obesity I
+99 1 5 48 sesuai 38 berat 17.00 Underweight
+100 1 4 50 sesuai 50 ringan 21.02 Normal weight
+101 1 3 50 sesuai 45 berat 30.02.00 Obesity II
+102 2 4 51 sesuai 43 berat 27.06.00 Obesity I
+103 2 3 47 sesuai 47 ringan 18.00 Normal weight
+104 2 2 41 Tidak sesuai 45 berat 30.09.00 Obesity II
+105 2 5 40 Tidak sesuai 43 sedang 23.04 Overweight
+106 2 5 29 Tidak sesuai 34 ringan 26.02.00 Obesity I
+107 1 2 24 Tidak sesuai 25 sedang 24.06.00 Overweight
+108 1 5 37 Tidak sesuai 32 sedang 25.04.00 Obesity I
+109 1 4 38 Tidak sesuai 30 ringan 22.03 Normal weight
+110 1 4 50 sesuai 50 ringan 28.07.00 Obesity I
+111 1 3 37 Tidak sesuai 42 sedang 30.07.00 Obesity II
+112 2 3 32 Tidak sesuai 39 berat 19.02 Normal weight
+113 2 3 31 Tidak sesuai 40 berat 24.00.00 Overweight
+
+63 
+  
+Lampiran  5 
+Hasil Uji SPSS  
+ 
+Frequencies  
+ 
+ 
+Statistics  
+ Jenis 
+Kelamin  UMUR  POLA 
+MAKAN  AKTIVITAS  OBESITAS  
+N Valid  113 113 113 113 113 
+Missing  0 0 0 0 0 
+ 
+Frequency Table  
+Jenis Kelamin  
+ Frequency  Percent  Valid Percent  Cumulative 
+Percent  
+Valid  laki-laki 54 47.8  47.8  47.8  
+perempuan  59 52.2  52.2  100.0  
+Total  113 100.0  100.0   
+ 
+UMUR  
+ Frequency  Percent  Valid Percent  Cumulative 
+Percent  
+Valid  18 tahun  1 .9 .9 .9 
+19 tahun  5 4.4 4.4 5.3 
+20 tahun  23 20.4  20.4  25.7  
+21 tahun  47 41.6  41.6  67.3  
+>22 tahun  37 32.7  32.7  100.0  
+Total  113 100.0  100.0   
+ 
+ 
+
+64 
+ POLA MAKAN  
+ Frequency  Percent  Valid Percent  Cumulative 
+Percent  
+Valid  sesuai  55 48.7  48.7  48.7  
+tidak sesuai  58 51.3  51.3  100.0  
+Total  113 100.0  100.0   
+ 
+AKTIVITAS  
+ Frequency  Percent  Valid Percent  Cumulative 
+Percent  
+Valid  ringan  23 20.4  20.4  20.4  
+sedang  38 33.6  33.6  54.0  
+berat  52 46.0  46.0  100.0  
+Total  113 100.0  100.0   
+ 
+OBESITAS  
+ Frequency  Percent  Valid Percent  Cumulative 
+Percent  
+Valid  Underweight  9 8.0 8.0 8.0 
+Normal  39 34.5  34.5  42.5  
+Overweight  18 15.9  15.9  58.4  
+Obes I  36 31.9  31.9  90.3  
+Obes II  11 9.7 9.7 100.0  
+Total  113 100.0  100.0   
+ 
+Crosstabs  
+Case Processing Summary  
+ Cases  
+Valid  Missing  Total  
+N Percent  N Percent  N Percent  
+POLA MAKAN * 
+OBESITAS  113 100.0%  0 0.0%  113 100.0%  
+AKTIVITAS * 
+OBESITAS  113 100.0%  0 0.0%  113 100.0%  
+ 
+  
+
+65 
+ POLA MAKAN * OBESITAS  
+Crosstab  
+ OBESITAS  
+Total  Underweight  Normal  Overweight  Obes I  Obes II  
+POLA 
+MAKAN  sesuai  Count  5 26 8 14 2 55 
+% of Total  4.4%  23.0%  7.1%  12.4%  1.8%  48.7%  
+tidak sesuai  Count  4 13 10 22 9 58 
+% of Total  3.5%  11.5%  8.8%  19.5%  8.0%  51.3%  
+Total  Count  9 39 18 36 11 113 
+% of Total  8.0%  34.5%  15.9%  31.9%  9.7%  100.0%  
+AKTIVITAS * OBESITAS  
+Crosstab  
+ OBESITAS  
+Total  Underweight  Normal  Overweight  Obes I  Obes II  
+AKTIVITAS  ringan  Count  1 3 5 8 6 23 
+% of 
+Total  0.9%  2.7%  4.4%  7.1%  5.3%  20.4%  
+sedang  Count  3 10 6 15 4 38 
+% of 
+Total  2.7%  8.8%  5.3%  13.3%  3.5%  33.6%  
+berat  Count  5 26 7 13 1 52 
+% of 
+Total  4.4%  23.0%  6.2%  11.5%  0.9%  46.0%  
+Total  Count  9 39 18 36 11 113 
+% of 
+Total  8.0%  34.5%  15.9%  31.9%  9.7%  100.0%  
+One-Sample Kolmogorov -Smirnov Test  
+ POLAMAKAN  AKTIVITAS  OBESITAS  
+N 113  113  113  
+Normal 
+Parametersa,b Mean  1.51  2.26  3.01  
+Std. Deviation  .502  .777  1.176  
+Most Extreme 
+Differences  Absolute  .347  .291  .229  
+Positive  .333  .169  .229  
+Negative  -.347  -.291  -.216  
+Test Statistic  .347 .291  .229  
+Asymp. Sig. (2 -tailed)c <.001  <.001  <.001  
+Monte Carlo 
+Sig. (2 -tailed)d Sig.  <.001  <.001  <.001  
+99% 
+Confidence 
+Interval  Lower 
+Bound  .000  .000  .000  
+Upper 
+Bound  .000  .000  .000  
+a. Test distribution is Normal.  
+b. Calculated from data.  
+c. Lilliefors Significance Correction.  
+d. Lilliefors' method based on 10000 Monte Carlo samples with starting seed 
+2000000.  
+ 
+
+66 
+ Lampiran 6:  
+Dokumentasi Pemberian dan pengumpulan Kuesioner  
+ 
+ 
+ 
+ 
+ 
+

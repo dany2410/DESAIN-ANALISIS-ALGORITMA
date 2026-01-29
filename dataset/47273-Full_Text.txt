@@ -1,0 +1,143 @@
+1 "R' ~- A{u~· 
+rzf ;;i/ecr/UJ co 
+MJR 
+i' PROGRAMSTUDITEKNIKELEKTRO 
+FAKULTAS TEKNIK 
+UNUVERSIT AS MUBAMMADIY AB MAKASSAR 
+2020 FAKLI ANRAWANSYAB 
+10582124913 ADRIANSYAB 
+10582126813 Oleh DESAIN DAN REALISASI PERANGKAP DAMA WALANGSANGIT 
+(PHW) BERBASIS CABA YA LAMPU SKRIP SI 
+
+iiengetahui , Rizal Ahd_\yat Duyo, S.T.,M.T nd" arudd in, S.T.,M .T 
+NIP.13216 9986 Pembimbing II Pembim bing I Telah Diperiksa dan Disetujui 
+Ole t, C.:~ sen Pembimbing ; Makassa r, 21 Januari 2020 2. 105 82 1249 12 : 1 . 105 82 1268 13 Stambuk 2. Fakli Anrawan svci : 1. Adrian syah Nam a Judu l Skripsi : DESAIN DAN Rl:.~\:.ISASI PERANGKAP HAMA WALANGSANGIT 
+BERBASISKAN GA;~AYA LAMPU Universit as Muhammad iyah Ma kassar. Teknik (ST) Program Studi Tekr.i~ Elektro Jurusan Teknik Elektra Fakultas Teknik Tugas Akhir ini diajukan untuk mernenuhi syarat ujian guna memperol eh gelar Sarjana .. ~i 1 '"'..;nd)j ., ~ !-..~-~ ; ~ 
+HALAr i~t\N PENGESAHAN c~~-:{11UNG MENARA IQRA LT. 3 
+JI. Sultan Alauddin No. 259 ·'. elp. (0411 ) 866 972 Fax (0411 ) 865 588 Maka ssar 9022 1 
+Websi te: www.:..'/)JSmuh.a c.id, e_mail: elektro ft@unismuh.ac.id 
+Websir~-. /1ttp://tek nik.unismuh.makassar.ac.id 
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiia ~.;.;, UNIVERSll-At~ l~UHAMMADIYA H MAKA SSAR 
+FAli~JJL TAS TEKNIK 
+
+< Dekan 
+0 Rizal Ahdiyat Duyo, S.T.,M .T Andi aharuddin, S.T.,M.T 
+NIP.132169986 Pembimb ing I Mengetahu i : 3. Ir. Abdu l Hafid, M.T ·x~ 
+: ... ~~···/··················· ..... 
+Pernb imbind I 2. Rahm nia._S.T.,M.T 3. Anggota : 1. Dr. klj. Rossy Tif110r ~abyu(lin~ . S a. Ketua 2. Pengu ji Prof. Dr. Ir. mc;ldiyah Makassar 
+n Rahim,-SE., MM. Panitia Ujian : 
+1. Penga was Umum 26 Jumadil Awai 1441 H 
+21 Januari 2020 M Maka_ssar, 
+b. Sekertaris : S at1i, .T., . Skripsi atas nama Adriansyah dengan nomor induk Mahas iswa 105 82 1268 13 dan Fakli 
+Anrawansyah dengan nomor induk Mahas iswa 105 82 1249 13 dinyatakan diterima dan 
+disahkan oleh Panit ia Ujian Tugas Akhir /Skrips i sesua i dengan Surat Keputusan De kan Fakultas 
+Teknik Universitas Muham madiyah Makassar Nomor : 0002/SK-Y /2020 1/091004/2020, sebagai 
+salah satu sya rat guna memperoleh gelar sa1ana Teknik pada Progra m St udi Teknik Elektra 
+Jurusan Teknik Elektra Fakultas Teknik wers'ftas Muhammad iyah Makassar pada hari Sabtu 
+tanggal 18 Janua ri 2020 . ...,:, :. ~i1 • ~~1\"1)1 .. , .,.,,~-..,, ; ~ 
+PENGESAHAN GEDUNG MENARA IQRA LT. 3 
+JI. Sultan Alauddin No. 259 Telp. (0411) 866 972 Fax (0411) 865 588 Makassar 90221 
+Website: www.unismuh .ac.id, e_mail : elektroft@un ismuh.ac .id 
+Website : http://teknik .unismuh.makassar.ac. id UNIVERSITAS MUHAMMADIYAH MAKASSAR 
+FAKULTAS TEKNIK 
+
+II Kata kunci: PHW, PLTS , cahaya, level, iluminansi System kerja PHW menggunakan cahaya Iampu sebagai pemicu berkumpulnya hama 
+walangsangit, dengan tiga level yang berbeda sebagai variabel uji yakni, 5,8,dan 13 
+watt.Hasil kerja alat ini menunjukkan bahw a semakin besar daya dan iluminansi 
+maka akan semakin jauh pula jarak rambatan cahaya dan populasi hama yang akan 
+i terjerat semakin ban.yak. Hama noptumal yang aktif pada malam hari menjadikan sinar bulan sebagai alat 
+navigasi, sehingga hama cenderung menuju cahaya,hal ini kami manfaatkan untuk. 
+menjerat hama dengan memanfaatkan cahaya lampu. . .. Penelitian ini bertujuan untuk mengetahui seberapa evrsien perangkap hama 
+walangsangit (PHW) berbasis cahaya lampu, Yang merupakan inovasi di bidang 
+pertanian yang menggunakan system pembangkit listrik tenaga surya (PLTS),di 
+DESA SAMAELO,KEC. BAREBBO,KAB.BONE. Adriansyah dan Fakli Andrawansyah,2019 Desain dan Realisasi Perangkap Rama 
+W alangsangit Berbasiskan Cahaya Lampu,skipsi.program studi teknik elektro 
+fakultas teknik universitas muhammadiah Makassar,Di bimbing oleh Rizal A Duyo 
+dan Andi Fahruddin. ABSTRAK 
+
+iii Nocturnal pests that were active at night make moonlight a navigation tool, so pests 
+go to bright light. we used this to trap pests by using light of the lamp . 
+The PHW work system used lights as a trigger for the gathering of walang sangit 
+pests, , with three different levels as test variables namely, 5.8, and 13 watts. The 
+results of the work of this tool show that the greater the power and illuminance , the 
+farther the distance of light propagation and the more pest population were trapped 
+Keywords: PHW, PLTS, light, level, illuminance This research aimed to find how efficient the traps of walang sangit pests (PNW) 
+Based on the light of the lamp, Which is an innovation in agriculture that used a solar 
+power generation system (PLTS), in SAMAELO, KEC. BAREBBO, KAH .BONE. Adriansyah and Fakli Andrawansyah,2020. The Design and Realization of 
+Walangsangit Pest Traps Based on Light of the lamp. thesis. electrical engineering 
+study program. Faculty of Engineering. Muhammadiyah University of Makassar. 
+Supervised by Rizal A Duyo and Andi Fahruddin. ABSTRACT 
+
+iv penyelesaian skripsi ini. memberikan berbagai masukan, bimbingan dan motivasinya dalam t Bapak Bapak Andi Faharuddin ST MI' selaku pembimbing dua yang telah terselesaikannya skripsi ini. dosen fakultas teknik yang telah memberikan bimbingan dan saran sehingg a Q: .. Bapak Rizal Ahdiyat Duyo ST, MT selaku pembimbing pertama sekaligus 
+i Muhanunadiyah Makassar 'l. Hamzah Al imran ST, MT, Selaku dekan Fakultas Teknik Universitas sehingga penulis dapat menyelesaikan skripsi ini dengan baik. Maka pada bantuan, doa, semangat, bimbingan, motivasi, dan dukungan berbagai pihak Penulis menyadari dalam penyusunan skripsi ini tidak terlepas dari Sarjana Universitas Muhammadiyah Makassar. Berhasiskan Cahaya Lampo" adalah salah satu syarat untuk memperoleh gelar , Skripsi yang berjudul "Perangkap Hama Walangsangit (PHW) dalam penyusunan skripsi ini. hidayah- Nya sehingga penulis dapat menyelesaikan tugas akhir perkuliahan Puji syukur kehadirat Allah SWT yang telah memberikan rahmat dan KATA PENGANTAR 
+kesempatan kaliini penulis mengucapkan terirnak:asih kepada : ; 
+I ·1 
+
+v Penulis Makassar, 18 Januari 2020 penulis mendapatkan balasan pahala dari Allah SWT. Semoga seluruh amal baik yang telah diberikan oleh semua pihak kepada Civitas Akademika Jurusan Teknik Elek:tro UMlv1 ' I 7L Teman seperjuangan mahasiswa fakultas teknik angkatan 13 clan seluruh dukungan dalam penyelesaian skripsi ini. 6'. Kedua orang tua kami yang senantiasa istiqomah memanjatkan doa clan ?r lbu R~ania ST, MT selaku sekertaris jurusan dan dosen yang selalu 
+! ! memberikan bimbingan, support dan semangat kepada kami. memberikan saran dan masu.kan selama penyusunan skripsi ini. 4. Thu Adriani ST MT selaku Ketua Jurusan Teknik Elektro yang telah 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

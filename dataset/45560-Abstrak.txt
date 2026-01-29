@@ -1,0 +1,32 @@
+link  https://jurnal.ardenjaya.com/index.php/ajst/article/vi ew/645/456  
+Analisis Drop Tegangan Pada Gardu Distribusi Jaringan 
+Tegangan  Rendah (JTR) PT. PLN (PERSERO) ULP 
+KAREBOSI  
+Asmaul  
+Universitas Muhammadiyah Makassar  
+asmauld55@gmail.com  
+Muhammad Rezky Anwar  
+Universitas Muhammadiyah Makassar  
+muhammadrezkyanwar04@gmail.com  
+Abd. Hafid  
+Universitas Muhammadiyah Makassar  
+abdulhafif@uinsmuh.ac.id  
+Andi Faharudd in 
+Universitas Muhammadiyah Makassar  
+afaharuddin@gmail.com  
+ 
+Abstra k 
+Meningkatnya permintaan energi listrik dari tahun ke tahun menyebabkan rugi daya  
+dan drop tegangan pada jaringan juga bertambah besar. Kerugian tersebut disebabkan  
+oleh saluran yang cukup panjang serta beban yang terus bertambah, sehingga dalam  
+penyaluran daya listrik tersebut akan terjadi drop tegangan sepanjang saluran yang  
+dilaluiny a. Penelitian ini bertujuan untuk mengetahui drop tegangan dan pengaruhnya  
+terhadap konsumen serta bagaimana cara menanggulanginya. Penelitian ini  
+dilaksanakan pada jaringan tegangan rendah pada PT. PLN (Persero) ULP KAREBOSI  
+difokuskan pada beberapa gardu  distribusi dengan analisa data yang diperoleh di  
+lapangan menggunakan beberapa persamaan dasar. Data yang diperlukan dalam  
+penelitian ini yaitu besar tegangan dari pengiriman sampai tegangan yang sampai  
+kekonsumen. Diharapkan diketahui dari penelitian ini  besar drop tegangan, penyebab - 
+penyebab drop tegangan, serta mendapatkan solusi untuk mengurangi jatuh tegangan  
+tersebut.  
+Kata kunci: Jatuh Tegangan, Jaringan Tegangan Rendah, Gardu Distribusi Jaringan  

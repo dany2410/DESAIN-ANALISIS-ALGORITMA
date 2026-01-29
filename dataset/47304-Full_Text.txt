@@ -1,0 +1,1138 @@
+SKRIPSI
+RANCANG BANGUN SISTEM MONITORING KELEMBAPAN
+DAN PH TANAH YANG IDEAL UNTUK TANAMAN
+MENGGUNAKAN SMART DETECTOR
+OLEH :
+AL QADRI KANNANG ABD MUIN
+105821108619 105821107819
+PROGRAM STUDI TEKNIK ELEKTRO
+FAKULTAS TEKNIK
+UNIVERSITAS MUHAMMDIYAH MAKASSAR
+2025
+
+iiHALAMAN JUDUL
+RANCANG BANGUN SISTEM MONITORING KELEMBAPAN
+DAN PH TANAH YANG IDEAL UNTUK TANAMAN
+MENGGUNAKAN SMART DETECTOR
+Skripsi
+DiajukanSebagaiSalahSatuSyaratUntukMeperolehGelarSarjanaTeknik
+ProgramStudiTeknikElektro
+FakultasTeknik
+AL QADRI KANNANG ABD MUIN
+105821108619 105821107819
+PROGRAM STUDI TEKNIK ELEKTRO
+FAKULTAS TEKNIK
+UNIVERSITAS MUHAMMDIYAH MAKASSAR
+2025
+
+iii
+
+iv
+
+vABSTRAK
+Pertanian modern semakin mengadopsi teknologi untuk meningkatkan efisiensi
+produksi dan kualitas hasil. Salah satu aspek penting dalam pertanian adalah
+pemantauan kondisi tanah, terutama kelembapan dan pH, yang mempengaruhi
+pertumbuhan dan kesehatan tanaman. Penelitian ini bertujuan untuk merancang
+danmengimplementasikansistem monitoringkelembapandanpHtanahyangideal
+untuk tanaman menggunakan smart detector . Sistem ini terdiri dari sensor
+kelembapantanahdansensorpHyangterhubungke mikrokontroler Arduino Uno .
+Datayangterkumpuldarisensordisimpandandiprosesmenggunakanperangkat
+lunak yang dikembangkan dengan Arduino IDE. Sistem juga dilengkapi dengan
+antarmukapenggunaberbasis webuntukmemantaudanmenganalisisdatasecara
+real-time. Uji coba dilakukan di berbagai jenis tanah dan lingkungan pertanian.
+Hasil pengujian menunjukkan bahwa sistem mampu memberikan pengukuran
+kelembapandanpHtanahdenganakurasiyangbaik.Analisisdatamenunjukkan
+variasikondisitanahyangsignifikandiberbagailokasipertanian.Denganadanya
+sistemmonitoringini,petanidapatdenganmudahmemantaukondisitanahsecara
+real-timedan mengambil tindakan yang diperlukan untuk menjaga kesehatan
+tanaman. Penelitian ini diharapkan dapat memberikan kontribusi dalam
+meningkatkan produktivitas pertanian dan pengelolaan sumber daya tanah yang
+berkelanjutan.
+Kata kunci : Monitoring Tanah, Kelembapan Tanah, pH Tanah, Smart
+Detector, Pertanian Berbasis Teknologi.
+
+viABSTRACK
+Modern agriculture increasingly adopts technology to enhance production
+efficiency and product quality. One crucial aspect of agriculture is monitoring soil
+conditions, especially moisture and pH, which significantly influence plant growth
+and health. This research aims to design and implement a monitoring system for
+soil moisture and pH ideal for plants using smart detectors.The system consists of
+soil moisture sensors and pH sensors connected to an Arduino Uno
+microcontroller. Data collected from the sensors are stored and processed using
+software developed with Arduino IDE. The system also features a web-based user
+interface for real-time monitoring and data analysis.Tests were conducted in
+various types of soil and agricultural environments. The test results show that the
+system is capable of providing accurate measurements of soil moisture and pH.
+Data analysis reveals significant variations in soil conditions across different
+agricultural locations.With this monitoring system in place, farmers can easily
+monitor soil conditions in real-time and take necessary actions to maintain plant
+health. This research is expected to contribute to increasing agricultural
+productivity and sustainable soil resource management.
+Keywords : Soil Monitoring, Soil Moisture, Soil pH, Smart Detector, Technology
+- Based Agriculture.
+
+viiKATA PENGANTAR
+PujidansyukurkamipanjatkankehadiratAllahSWTatassegalarahmatdan
+karunia – Nya sehingga penulis dapat menyelesaikan skripsi yang berjudul
+“ RANCANG BANGUN SISTEM MONITORING KELEMBAPAN DAN PH
+TANAH YANG IDEAL UNTUK TANAMAN MENGGUNAKAN SMART
+DETECTOR ”. Skripsi ini disusun sebagai satu syarat untuk memperoleh gelar
+Sarjana Teknik (S.T) di program studi jurusan Elektro Fakultas Teknik di
+UniversitasMuhammadiyahMakassar.
+Berdasarkan penelitian sebelumnya yang dilakukan berjudul
+“ PENGEMBANGAN SISTEM PENYIRAMAN TANAMAN OTOMATIS
+BERBASIS INTERNET OF THINGS (IOT) MENGUNAKAN
+DHT11,DS18B20,DANKELEMBAPANTANAHTAHUN2024“Penelitianini
+akanmengemmbangkankonsepkelembapanyangdimanadisertaidenganpotensial
+hidrogen(pH)untukmenetukanjenistanamanidealyangsusuai.
+Penulis menyadari bahwa terselesaikannya skripsi ini tidak lepas dari
+bantuan, dukungan, dan bimbingan berbagai pihak. Oleh karena itu , dengan
+segalahhormat,penulisinginmenyampaikanterimahkasihkepada:
+1. Ayahanda,Ibundasertakeluargayangtercinta,penulismengucapkanbanyak
+terima kasih yang sebesar-besarnya atas segala limpahan kasih sayang,
+supportnya, doa serta pengorbanan yangSelama ini sudah diberikan kepada
+kamiterutamadalambentukmateridalammenyelesaikankuliah.
+2. Dr. Ir. H. Abd Rakhim Nanda, MT., IPU., selaku Rektor Universitas
+MuhammadiyahMakassar.
+3. Dr. Hj. Nurnawaty, S.T., M.T., IPM., sebagai Dekan Fakultas Teknik
+UniversitasMuhammadiyahMakassar.
+4. Adriani,S.T,M.T.,IPM., sebagaiKetuaProdiTeknikElektroFakultasTeknik
+
+viiiUniversitasMuhammadiyahMakassar.
+5. Dr.Hj.RossyTimurWahyuningsih,S.T,M.T.,sebagai PembimbingIdan Dr.
+UmarKatu,S.T,M.T.,selakuPembimbingII,yangtelahbanyakmeluangkan
+waktudanperhatiannyadalammembimbingkami.
+6. Bapakdanibudosensertastafpegawaifakultasteknikatassegalawaktunya
+yangtelahmendidiksertamelayanipenulisselamamengukitiprosesbelajar
+mengajardiUniversitasMuhammadiyahMakassar.
+7. Saudara - saudaraku serta rekan - rekan mahasiswa fakultas teknik jurusan
+elektroterkhususangkatan2019yangpenuhdenganrasapersaudaraanserta
+keakrabansehinggabanyakmembantudalammenyelesaikantugasakhirini.
+Penulismenyadaribahwaskripsiinimasihjauhdarisempurna.Olehkarena
+itu, kritik dan saran yang membangun sangat di harapkan untuk perbaikan di
+masamendatang.Semogaskripsiinidapatmemberikanmanfaatbagipembaca
+dan menjadi kontribusi bagi perkembangan ilmu pengetahuan. Dan semoga
+semuapihakdiatasmendapatkanbanyakpahalayangberlipatgandadisisiAllah
+SWT.
+Makassar,24Juli2024
+Penulis
+
+ixDAFTAR ISI
+HALAMANJUDUL...............................................................................................ii
+ABSTRAK..............................................................................................................iii
+KATAPENGANTAR.............................................................................................v
+DAFTARISI..........................................................................................................vii
+DAFTARTABEL....................................................................................................x
+DAFTARGAMBAR..............................................................................................xi
+BABIPENDAHULUAN......................................................................................10
+1.1LatarBelakang.............................................................................................10
+1.2 RumusanMasalah..................................................................................11
+1.3 TujuanPenelitian...................................................................................12
+1.4 BatasanMasalah....................................................................................12
+1.5 Manfaat..................................................................................................12
+1.6 SistematikaPenulisan............................................................................13
+BABIITINJAUANPUSTAKA............................................................................14
+2.1 Soil Moisture Sensor ..............................................................................16
+2.1.1 MetodePengukuranKelembapanTanah...........................................17
+2.2 SensorpHTanah....................................................................................18
+2.2.1 PrinsipKerjaSensorpHTanah..........................................................20
+2.2.2 KalibrasiSensorpHTanah................................................................21
+2.2.3 AplikasiSensorpHTanah.................................................................21
+2.2.4 KeuntunganPenggunaanSensorpHTanah.......................................21
+2.3 ArduinoESP32.....................................................................................22
+2.3.1 FiturUtamaESP32............................................................................23
+2.3.2 KeunggulanArduinoESP32..............................................................24
+2.3.3 PenggunaanArduinoDalamIoT.......................................................24
+2.3.4 LingkunganPengembanganArduinountukESP32...........................25
+2.4 DataMeasurentSystem(DMS)...........................................................25
+
+x2.4.1 SensordanAlatPengukuran( Measurement Sensors & Instruments )
+26
+2.4.2 PerangkatPengumpulanData(DataAcquisitionSystems-DAS)....26
+2.4.3 DataLogger........................................................................................26
+2.4.4 KomunikasidanJaringan(CommunicationandNetworking)..........27
+2.4.5 PerangkatLunakuntukPengolahandanAnalisisData(Softwarefor
+DataProcessing&Analysis)..........................................................................27
+2.4.6 AntarmukaPengguna(UserInterface)..............................................28
+2.4.7 UnitPenyimpananData(DataStorage).............................................28
+2.5 Internet of Things (IoT)..........................................................................29
+BABIIIMETODEPENELITIAN........................................................................33
+3.1 RancanganPenelitian.............................................................................33
+3.2 AlatDanBahan......................................................................................33
+3.3 MetodePenelitian..................................................................................35
+3.4 MetodePengumpulanData....................................................................36
+3.5 BlokDiagramSistemMonitoringKelembapanDanPhTanah.............37
+3.6 PerancanganHardware(PerangkatKeras)..........................................39
+3.6.1 KoneksiSoilMeasureSensorDenganArduinoESP32......................39
+3.6.2 KoneksiSensorpHdanDataMeasurentSistemDengan
+ArduinoESP32................................................................................................40
+3.7 PerancanganSoftware(PerangkatLunak)...........................................40
+3.8 MekanismeKerjaAlatDanKodeProgram...........................................42
+BABIVHASILDANPEMBAHASAN...............................................................44
+4.1 PengujianSistemMonitoringKelembapandanpHTanah....................44
+4.2 PengujianPertamaSistemMonitorinKelembapandanpHTanah........45
+4.3 PengujianPertamaSistemMonitorinKelembapandanpHTanah........47
+4.4 PengujianPertamaSistemMonitorinKelembapandanpHTanah........48
+BAB5PENUTUP.................................................................................................55
+5.1 Kesimpulan............................................................................................55
+
+xi5.2 Saran.......................................................................................................55
+DAFTARPUSTAKA............................................................................................57
+
+xiiDAFTAR TABEL
+Tabel 1.1pHdankelembapanyangsesuaiuntuktanaman .............................................14
+Tabel 1.2pHdankelembapanyangsesuaiuntuktanaman .............................................15
+Tabel 3.1DaftarAlatdanBahan .....................................................................................33
+Tabel 3.2PengelompokanpHdanKelembapan ..............................................................37
+Tabel 3.3KoneksiSoilMoistureSensorDenganArduinoESP32 ...................................39
+Tabel 3.4KoneksiSensorpHdanDataMeasurementSistemDenganArduinoESP32 ..40
+Tabel 4.1HasilpengujiansistemmonitoringkelembapandanpHtanah ........................54
+
+xiiiDAFTAR GAMBAR
+Gambar 2.1 Soilmoisturesensor ....................................................................................17
+Gambar 2.2 SensorpHTanah.........................................................................................19
+Gambar 2.3 ARDUINO ESP 32 ......................................................................................23
+Gambar 2.4 DataMeasurementSystem .........................................................................25
+Gambar 3.1 TahapPelaksanaan ......................................................................................35
+Gambar 3.2 BlokDiagramSistemMonitoringKelembapanDanpHTanah .................37
+Gambar 3.3 SkemaRangkaianHardware .......................................................................39
+Gambar 3.4 FlowchartMekanismeKerjaKodeProgram ..............................................42
+Gambar 4.1 ProsesMonitoring .......................................................................................45
+Gambar 4.2 HasilPengujianPertamapH5-6 ................................................................46
+Gambar 4.3 HasilPengujianKeduapH6-7 ..................................................................47
+Gambar 4.4 HasilPengujianKetigapH7-8 .................................................................48
+Gambar 4.5 HasilPengujianKeempatpH5–6 .............................................................50
+Gambar 4.6 HasilPengujianKelimapH6–7 ...............................................................51
+Gambar 4.7 HasilPengujianKeenampH7–8 ..............................................................53
+
+10BAB I
+PENDAHULUAN
+1.1Latar Belakang
+Pertanianmerupakansalahsatusektorpentingdalamperekonomiansuatu
+negara, yang secara langsung atau tidak langsung membantu kehidupan
+manusia.Dimasamoderninitanamanpanganmerupakansubsektorpertanian
+yang paling banyak diusahakan petani hampir di seluruh indonesia,
+pemanfaatan teknologi telah menjadi bagian mendasar dalam praktik bisnis
+gunameningkatkanefisiensidankualitasproduksi.Salahsatuaspekterpenting
+dalampertanianadalahmenjagakondisitanah,yangmencakupfaktor-faktor
+seperti erosi dan pH. Faktor kedua mempunyai pengaruh yang signifikan
+terhadappertumbuhandankesehatan,sertahasilyangdiperoleh.(Vienetal.,
+2023)
+Pengembanganlahanmerupakanfaktorpentingdalammenentukanlahan
+optimaluntukbudidayatanaman.Pengembanganlahanyangtepatmenjamin
+ketersediaan udara yang memadai untuk nutrisi dan pertumbuhan yang
+optimal.SelainitupHtanahmempengaruhiketersediaanunsurharadidalam
+tanahdandapatmempengaruhiserapanunsurharaolehtanamanakar.Oleh
+karenaitu,menjagapHtanahyangakuratdankonsistensangatpentingdalam
+mendorongproduksiberkelanjutan.
+Dengansemakinmajunyateknologi,setiapaktivitasmanusiaakanterkena
+dampak dari kehadirannya. Satu-satunya pengecualian adalah dalam hal
+kegiatanbertani.DenganluaslahanyangadadiIndonesia,bertanitentunya
+
+11menjadisebuahpekerjaanatautugasyangbanyakdijalaniolehbanyakorang,
+namunjumlahanak-anakyangmemilihuntuktinggalbertanijauhlebihsedikit
+dibandingkandenganorangdewasa.
+Teknologi mempunyai peran penting dalam mengurangi jumlah tenaga
+kerjayangdibutuhkanuntukbertani.Salahsatualasanutamamasyarakatingin
+mulaibertaniadalahperlunyamemahamikondisilahan,sepertitanahdanair,
+sertasuhudanpHtanah.(Vienetal.,2023)
+Kapan waktu terbaik untuk petani melakukan penyiraman terhadap
+tanaman, apakah setiap hari karena dengan melakukan penyiraman secara
+benar dan tepat, maka udara bisa lebih hemat penggunaanya dan setiap
+tanaman memiliki kondisi lingkungan yang berbeda untuk tumbuh dan
+berkembang sebagai contoh untuk tomat tanah harus memiliki tingkat
+kelembabandengankisaran60–80%danuntukkadarkeasaman(PH)tanah
+beradapadakisaran5,5–7,0.
+Becek atau digenangi air tanah tidak menyukai tanaman tomat. Udara
+yang terus-menerus terganggu akan menyebabkan tomat menjadi kerdil dan
+akarnya sulit pecah, serta tidak mampu menyerap kebutuhan tanaman dari
+tanah,yangpadaakhirnyamengakibatkantanamanmati.Tanahdengantingkat
+kelembabansekitar50–70% danphtanahpadakisaran5,5–6,8terbaikuntuk
+tanamancabai.
+1.2 Rumusan Masalah
+1. Bagaimanametodemonitoringyangefektifuntukmengukurkelembapan
+danpHtanah?
+
+122. Bagimana memberikan informasi tanaman yang ideal sesuai dengan
+kelembapandanphtanah?
+1.3 Tujuan Penelitian
+1. MengunakansensoryangterintegrasiuntukmengukurkelembabandanpH
+tanah.
+2. Menampilkaninformasitanamanyangidealsesuaidengankelembabandan
+pHtanah.
+1.4 Batasan Masalah
+Dalam perancangan ini penulis membatasi masalah pada pemantauan
+kelembabandanpHtanahuntukmempermudahpetanimenentukantanaman
+yangsesuaiuntukditanami.
+1.5 Manfaat
+Penelitianinidiharapkandapatmemberikanmanfaatsebagaiberikut:
+a.Meningkatkan efisiensi dan produktivitas pertanian dengan memberikan
+informasiyangtepattentangkondisitanah.
+b.Mengurangibiayadantenagayangdiperlukanuntukpemantauanmanual
+tanah.
+c.Membantu petani untuk mengambil keputusan yang lebih baik dalam
+pengelolaanlahanpertanian.
+
+131.6 SistematikaPenulisan
+Agarmemudahkanpemahamanisidariskripsiinimakapenulisuraikan
+sebagaiberikut:
+BAB1 :PENDAHULUAN ,berisilatarbelakang,rumusanmasalah,tujuan
+penulisan, batasan masalah, manfaat serta sistematika penulisan dari hasil
+penelitianyangdilakukan.
+BAB 2 : TINJAUAN PUSTAKA , menjelaskan tentang teori-teori
+pendukung yang berkaitan dengan perancangan alat, Data Measure Sistem
+(DMS), Soil moisture sensor ,Arduino esp32 Internet of Things (IoT).
+BAB 3 : METODE PENELITIAN ,berisitentangrancangansistemyang
+meliputi diagram blok perancangan sistem, alat dan bahan, prinsip kerja
+rangkaiandanlangkah-langkahperancangan.
+BAB 4 : HASIL DAN PEMBAHASAN , berisi tentang pengujian alat
+untukmengetahuikarakteristikjenihtanahyangidealuntuktanamanyang
+akanditanam.
+BAB 5 : PENUTUP (SIMPULAN DAN SARAN) , berisi tentang
+kesimpulandansaran.
+DAFTAR PUSTAKA
+
+14BAB II
+TINJAUAN PUSTAKA
+Aspek penting dari pemeliharaan harian dan pengendalian erosi tanah
+adalah pemantauan pH dan kelembapan tanah. Pertumbuhan, kandungan
+nutrisi,danproduktivitastanamansemuanyaterkenadampaknegatifdarierosi
+tanah.PadakisaranpHyangberbeda,kemampuanairuntukmenahanairdan
+aktivitas mikroorganisme di dalamnya akan terpengaruh., yang diperlukan
+untukprosesfotosintesisdanpenyerapannutrisi.Sebaliknya,pHyangideal
+memungkinkan tanaman mengandung sulfur yang dibutuhkan untuk
+pertumbuhan.keanekaragamantanamanyangmelimpahdiIndonesiadaniklim
+tropis membuat kondisi kelembapan dan pH tanah sangat penting untuk
+pertumbuhantanaman.(Perdana&Pratama,2024)
+Tabel 1.1pHdankelembapanyangsesuaiuntuktanaman
+pH Kelembapan
+Asam <6 Kering 10–30%
+Netral 7 Lembab 30–60%
+Basah >7 Jenuh >60%
+
+15Maka tanaman yang ideal sesuai pH dan kelembaban untuk tanaman
+sebagaiberikut.
+Tabel 1.2pHdankelembapanyangsesuaiuntuktanaman
+Tabel pH dan kelembapan yangsesuai untuk tanaman
+Tanaman pH Kelembapan
+Tomat 5,5 60–70%
+Cabai 5,8 50–70%
+Kentang 5,7 60–80%
+Padi 6,5 70–80%
+Pisang 6,3 60–75%
+Jagung 6,5 60 –70%
+KacangPanjang 7,0 60 – 85%
+Bawang 7,0 50 –70%
+Sorgum 7,0 60–60%
+
+162.1 Soil Moisture Sensor
+Mengakibatkan kesuburan tanah dan kondisi iklim sebagaimana
+kriteria yang sangat penting untuk menentukan tanaman yang baik
+dikonsumsi dan diolah oleh masyarakat Indonesia. Seiring dengan
+bidang pertanian yang semakin meningkat. Oleh karena itu, teknologi
+elektronik sangat penting digunakan untuk membantu masyarakat
+memahami keadaan bumi dan iklimnya guna menentukan apa yang
+boleh dikonsumsi manusia dan tumbuh secara sehat. Namun, meski
+tersediaberbagaisumberinformasiseperti mediasosial,daninternet,di
+Indonesia kerap mengalami refleks panen. Salah satu kemungkinan
+penyebabnya adalah terjadinya degradasi air dan lahan akibat tanah,
+yang berarti bahwa pemeliharaan jarang mempertimbangkan beberapa
+faktorpentinguntukmenjagakesehatantanamandiareayangterkena
+dampak.kelembapan dan pH tanah merupakan kunci dalam menjaga
+Kesehatantanaman,karenatanamanmemerlukankadasrairyangcukup
+untukfotosintesisdanpenyalurannutrisi.(Perdana&Pratama,2024)
+Aspekterpentingyangperludimilikipemeliharauntukmendapatkan
+hasiltesberkualitastinggiadalahdatapHtanah,suhu,danlingkungan
+sekitar.Datajenisinidiperlukankarenadapatmengetahuikondisitanah
+daniklimdisekitarnya,yangselanjutnyaakanmenentukanhasiltesdari
+pemilikhewanpeliharaan.
+
+17Gambar 2. 1Soil moisture sensor
+2.1.1 Metode Pengukuran Kelembapan Tanah
+Kajian terhadap kelembapan tanah penting dilakukan untuk memahami
+seberapa banyak udara yang ada di dalam air dan pengaruhnya terhadap
+pertumbuhan tanaman. Cara ini digunakan untuk mengurangi erosi tanah
+denganmenggunakansensormodernyaitu:
+1. Sensor Kapasitif
+Sensorinimengurangiriakpermukaandenganmemanfaatkanperubahan
+kapasitansi antara dua elektroda yang ditempatkan di permukaan. Sensor
+mengubah perubahan ini menjadi kelembapan, terhadap kapasitansi tanah
+yangmempengaruhi.
+Kelebihan:Cepatdanmudahmemberikanhasilpengukurandalamwaktu
+singkat,stabilmemerlukankalibrasiyangtidaksering.
+Kekurangan : Pengaruh salinitas kadar garam dalam tanah dapat
+mempengaruhiakurasipengukuran.
+
+182. Sensor Resistivitas
+Sensor ini meningkatkan kadar air tanah dengan memantau perubahan
+ketahanan tanah yang berhubungan dengan kandungan udara. Hambatan
+permukaanterhadappenurunantekananudara.
+Kelebihan:Ekonomis:Biasanyalebihmurahdansederhana.
+Kekurangan: Dipengaruhikomposisitanah:resistansidapatterpengaruh
+olehkomponenlaindalamtanahsepertimineraldansalinitas.
+3. Sensor Tensiometer
+Sensor tensiometer mengukur aliran udara di perairan dan memberikan
+informasitentangbeberapaareautamadimanatanamanperlubekerjauntuk
+mendapatkanair.Perangkatinibiasanyaterdiridaritabungberisiudarayang
+meresponsmembranpermukaantanah.
+Kelebihan :Manajemenirigasimembantudalammemahamikebutuhan
+airtanamanuntukmanajemenirigasiyanglebihbaik.
+Kekurangan : Perawatanmemerlukanperawatandankalibrasisecararutin.
+2.2 Sensor pH Tanah
+Tanahmerupakankomponendasarekosistemdaratyangmempengaruhi
+pertumbuhan dan produktivitas tanaman. Salah satu faktor penting yang
+menentukan kualitas tanah adalah pH, ​ ​atau keasaman atau alkalinitas tanah.
+pHairsangatpentinguntuknutrisitanamansertaprosesmikrobadanbiologis
+yang terjadi di dalam air. Selalu asam atau basa tanah dapat menghambat
+penyerapanunsurharapenting, mempunyaiefeknegatifterhadapkesehatan
+tanamandanhasiltanaman.
+
+19Dibidangpertanian,penyesuaianpHtanahsecaraefektifmerupakansalah
+satu strategi untuk meningkatkan produktivitas tanaman dan memperbaiki
+kondisitanah.Olehkarenaitu,sangatpentinguntukrutinmemeriksapHair.
+Kelembapantanahyangoptimalbagisebagianjenistanamanberkisarantara
+50%sampai70%,sihinggaketikatingkatkelembapantanahberkurangdapat
+menyebabkankelayuanpadatanaman.(Meiliantoetal.,2022)
+SensorpHtanahmodernmenawarkansolusiyanglebihakuratdanefisien
+untuk koreksi pH tanah secara real-time. Sensor ini beroperasi berdasarkan
+prinsip redaman elektrostatik, yang memungkinkan pengukuran kondisi
+permukaansecarasenyapdanmenyediakandatayangrelevanuntukpenentuan
+teganganpermukaan.Berkatkemajuanteknologisensor,seperti ion-selective
+field-effect transistor (ISFETs) atauteknologisensorkatodaelektrokimia,kini
+terdapatperangkatyangdapatmemberikanhasilyanglebihcepatdanakurat.
+Gambar 2.2 SensorpHTanah
+1. Elektroda
+
+20SensorpHtanahumumnyamenggunakan elektrodayangterbuatdaribahan
+yang sensitif terhadap ion hidrogen. Elektroda ini ditanamkan ke dalam
+tanahuntukmengukurpotensiallistrikyangterjadisebagairesponsterhadap
+konsentrasi ion H+dalamlarutantanah.
+2. Referensi Elektroda
+Biasanya terdapat elektroda referensi yang berperan sebagai standar
+potensial,memungkinkan elektrodapHuntukmengukurperbedaanpotensial
+antaraelektrodapHdanreferensi.Inipentinguntukmemastikankeakuratan
+pengukuranpH.
+3. Kabel dan Interface
+Sensor pH tanah terhubung dengan kabel yang mengirimkan sinyal ke
+perangkat pembaca atau logger data. Interfaceini mungkin berupa layar
+digitalataukomputeryangmenampilkannilaipHyangdiukur.
+4. Perlindungan dan Desain
+SensorpHtanahbiasanyadilengkapidenganperlindunganterhadapairdan
+bahan kimia yang ada di tanah. Desainnya sering kali tahan air dan tahan
+korosiuntukmenjaminkeandalanpenggunaandilapangan.
+2.2.1Prinsip KerjaSensor pH Tanah
+Sensor pH tanah mengukur pH dengan mengandalkan respons
+elektrokimiadarielektrodaterhadap ion H+dalamlarutantanah. Prosesnya
+dapatdijelaskansebagaiberikut:
+1.ElektrodapHmenghasilkanpotensiallistrikberdasarkankonsentrasi ion
+H+disekitarnya.
+
+212. referensimemberikantitikreferensiuntukpengukuranpotensialini.
+3. Perbedaan potensial antara pH dan referensi dikonversi menjadi nilai
+pHyangdapatdibaca.
+2.2.2 Kalibrasi Sensor pH Tanah
+PentinguntuksecarateraturmengkalibrasisensorpHtanahmenggunakan
+larutan standar pH yang diketahui. Hal ini diperlukan karena karakteristik
+elektronikdanresponssensordapatberubahseiringwaktu.Kalibrasibiasanya
+dilakukanmenggunakanlarutanbufferpHyangdisesuaikandenganrentang
+pHtanahyangdiharapkan.
+2.2.3 Aplikasi Sensor pH Tanah
+1.PertanianUntuk mengelola pH tanah agar cocok dengan kebutuhan
+tanamantertentu.
+2.KehutananUntuk memantau pH tanah di hutan atau tanah-tanah yang
+ditanamipohon.
+3.Penelitian Tanah Dalam studi ilmiah untuk memahami interaksi tanah-
+tanamandandampakkegiatanmanusiapadakesehatantanah.
+4.PengelolaanLingkungan Untukmemantaukualitastanahdalamkaitannya
+denganperlindunganlingkungan.
+2.2.4 Keuntungan Penggunaan Sensor pH Tanah
+1.PresisiMemberikan pengukuran pH yang lebih akurat dan konsisten
+dibandingkanmetodepengukuranvisualatauberbasisindikator.
+2.EfisiensiMemungkinkanpengukuranyangcepatdanefisiendilapangan.
+
+223.Manajemen yang lebih baik Memungkinkan pertanian presisi dan
+pengelolaan tanah yang lebih baik untuk meningkatkan produktivitas
+tanaman.
+2.3 ArduinoESP 32
+ArduinoESP32adalahsalahsatuplatformpengembanganterbukayang
+populeruntukproyekIoT(InternetofThings).Inimenggabungkankeunggulan
+dariboardArduinodenganmodulWiFidanBluetooth,yangdisebutESP32.
+BerikutinipenjelasanlengkaptentangArduinoESP32.
+Arduino ESP32 mengacu pada penggunaan modul ESP32 yang
+dikombinasikan dengan lingkungan pengembangan Arduino. Modul ESP32
+sendiriadalahplatformmikrokontroleryangdidesainuntukaplikasiWiFidan
+Bluetooth, yang dikembangkan oleh Espressif Systems. Arduino ESP32
+memungkinkan pengguna untuk membuat proyek IoT dengan kemampuan
+terhubungnirkabelsecaramudahdanefisien.Arduinoberfungsisebagaisensor
+kelembapanuntukmembacanilaikelembapandalamtanahdanuntuk sensor
+pHtanahuntukmembacanilaipHtanah.(Daniel,2022)
+
+23Gambar 2.3 ARDUINO ESP 32
+2.3.1Fitur UtamaESP32
+1.Dual-Core Processor ESP32dilengkapidengandual-coreTensilicaLX6
+32-bit, yang memungkinkan untuk menjalankan aplikasi dengan lebih
+efisien.
+2.Wi–FimendukungstandarWiFi802.11b/g/n/e/i,termasukmodestation,
+access point, dan mode mesh. Ini memungkinkan koneksi ke jaringan
+WiFiuntukmengirimdanmenerimadata.
+3.Bluetoothmendukung Bluetooth v4.2 BR/EDR danBLE(Bluetooth Low
+Energy), yang memungkinkan komunikasi nirkabel dengan perangkat
+lainnya.
+4.RAM dan Flash Memory ESP32 dilengkapi dengan RAM yang cukup
+besar (hingga 520 KB) dan memori flash internal ( hingga 16 MB ),
+memberikanruangyangcukupuntukaplikasidandata.
+5.AntarmukadilengkapidenganberbagaiantarmukasepertiUART,SPI,
+I2C, ADC, DAC, PWM, dan GPIO untuk menghubungkan sensor,
+aktuator,danperangkatlainnya.
+
+246.Security Features mendukung enkripsi dan proteksi data dengan AES,
+SHA-2,RSA,danECC.
+2.3.2 Keunggulan ArduinoESP32
+1.Kemampuan Nirkabel dengan WiFidan Bluetoothyang terintegrasi,
+ESP32 memungkinkan pengembangan proyek IoT yang terhubung ke
+internetdankomunikasiantarperangkatsecaranirkabel.
+2.Kinerjadual-coreprocessordanjumlahmemoriyangbesarmemberikan
+kinerjayangbaikuntukberbagaiaplikasi,termasukyangmembutuhkan
+komputasiyangintensif.
+3.Dukungan Komunitas ESP32didukungolehkomunitasyangbesardan
+aktif,denganberbagaitutorial,proyek,dandukunganonlineyangtersedia.
+4.Harga Terjangkau harga yang kompetitif membuat ESP32 menjadi
+pilihan yang ekonomis untuk proyek IoT dibandingkan dengan solusi
+lainnya.
+2.3.3 Penggunaan ArduinoDalamIoT
+1.Monitoring Lingkungan seperti pemantauan suhu, kelembaban, dan
+kualitasudara.
+2.Kendali Perangkat seperti pengendalian lampu, kipas, atau perangkat
+elektroniklainnyasecaranirkabel.
+3.Sistem Pemantauan misalnya sistem pemantauan keamanan atau
+pemantauanenergi.
+
+252.3.4 Lingkungan Pengembangan Arduinountuk ESP32
+Untuk mengembangkan program untuk Arduino ESP32, Anda dapat
+menggunakanArduinoIDE(IntegratedDevelopmentEnvironment)yang
+mendukungESP32.
+2.1
+2.2
+2.3
+2.4 DataMeasurementSystem(DMS )
+SistemPengukuranData(DataMeasurementSystematauDMS)adalah
+sistem yang digunakan untuk mengumpulkan, menyimpan, memproses, dan
+menganalisis data dari berbagai sumber. DMS digunakan dalam berbagai
+bidang, seperti industri, pertanian, kesehatan, dan teknologi informasi.
+KomponenutamadalamDMSterdiridariperangkatkerasdanperangkatlunak
+yang bekerja bersama untuk melakukan pengukuran dan pengolahan data.
+Komponen Utama dalam Sistem Pengukuran Data (DMS).Data yang
+dikumpulkan dari sensor ditampilkan secara real tine pada handphone atau
+LCD yang dikembangkan menggunakan Bahasa pemograman.(Ummah,
+2019).
+
+26Gambar 2.4 DataMeasurementSystem
+2.4.1 Sensor dan AlatPengukuran ( Measurement Sensors & Instruments )
+Sensoradalahkomponenyangmengukurparameterfisikataukimia
+tertentudariobjekataulingkunganyangdiamati.Sensorinibisaberupa
+sensor suhu, kelembaban, tekanan, pH, atau sensor lainnya yang
+mengubahparameteryangdiukurmenjadisinyalelektrik.
+Jenissensortergantungpadajenisdatayangingindiukur,misalnya:
+a. Sensorsuhuuntukmengukurtemperatur.
+b. Sensorkelembabanuntukmengukurkelembabanudaraatautanah.
+c. Sensortekananuntukmengukurtekananudaraataugas.
+d. SensorpHuntukmengukurkeasamanataualkalinitas.
+e. SensorgasuntukmendeteksikonsentrasigastertentusepertiCO2
+atauoksigen.
+2.4.2 PerangkatPengumpulan Data(Data Acquisition Systems -DAS)
+Perangkat Pengumpul Data atau DAS berfungsi untuk
+mengumpulkan sinyal yang dihasilkan oleh sensor dan mengubahnya
+menjadi data yang dapat diproses lebih lanjut. Perangkat ini terdiri dari
+unit pengkondisi sinyal yang meningkatkan kualitas sinyal dari sensor
+(misalnyamemperkuatsinyalataumengonversijenissinyal).
+Perangkatinidapatberupaanalog-to-digitalconverters(ADC)yang
+mengubah sinyal analog dari sensor menjadi bentuk digital yang bisa
+
+27diprosesolehkomputeratausistemlainnya.
+2.4.3 DataLogger
+1. Data Logger adalah perangkat yang berfungsi untuk mencatat dan
+menyimpan data yang diterima dari sensor atau DAS. Data yang
+tercatat bisa disimpan dalam bentuk filedi memori internal atau
+dikirimkepenyimpananeksternal.
+2. Data logger biasanya terhubung dengan perangkat sensor secara
+langsungdanbisabekerjasecaramandiritanpaperlukomputer.Data
+yangterkumpulkemudianbisadiambiluntukdianalisislebihlanjut.
+3. Beberapa data logger bisa dilengkapi dengan modul komunikasi
+nirkabel(seperti Wi-Fiatau LoRaWAN)untukmengirimkandatake
+serverataucloud.
+2.4.4 Komunikasi dan Jaringan ( Communication and Networking )
+1. Datayangdikumpulkanolehsensordandataloggerperludikirimke
+sistempusatuntukanalisislebihlanjut.Untukitusistemkomunikasi
+digunakanuntukmengirimkandata.
+2. Komunikasi ini bisa menggunakan Wi-Fi,Bluetooth,LoRaWAN,
+GSM/Internet , atau internet, tergantung pada kebutuhan dan lokasi
+sistempengukuran.
+3. Dalamsistemyanglebihbesar,jaringan IoT(Internet of Things )dapat
+digunakanuntukmenghubungkanberbagaiperangkatdansensordalam
+satusistemyangsalingterintegrasi.
+
+282.4.5 Perangkat Lunak untuk Pengolahan dan Analisis Data ( Software for
+Data Processing & Analysis )
+1. Setelahdatadikirimdandisimpan,perangkatlunakdigunakanuntuk
+mengolahdanmenganalisisdata.
+2. Perangkat lunak ini bisa berupa platformberbasis cloud,aplikasi
+desktop, atau aplikasi mobile yang memungkinkan pengguna untuk
+melihat data secara real-time, menganalisis hasil pengukuran, dan
+membuatlaporanatauprediksiberdasarkandatayangterkumpul.
+3. Beberapa perangkat lunak menggunakan algoritma statistik atau
+Machine Learning untukmenganalisisdatadanmemberikanwawasan
+yanglebihmendalam.
+2.4.6 AntarmukaPengguna(User Interface)
+1. Antarmuka pengguna adalah bagian dari perangkat lunak yang
+memungkinkan pengguna untuk berinteraksi dengan sistem, melihat
+datayangterkumpul,danmelakukanpengaturanataukonfigurasi.
+2. Antarmukainibisaberupadashboardberbasiswebatauaplikasimobile
+yangmenampilkangrafik,tabel,ataulaporanyangmudahdipahami.
+3. Pengguna dapat memantau kondisi waktu nyata, mengonfigurasi
+pengaturan sistem, atau memicu tindakan tertentu (misalnya, alarm
+ataupemberitahuan).
+2.4.7 UnitPenyimpanan Data( Data Storage )
+1. Penyimpanandataadalahkomponenpentinguntukmenyimpandata
+yang telah dikumpulkan untuk pengolahan lebih lanjut atau arsip
+
+29jangkapanjang.
+2. Data bisa disimpan dalam basis data di server lokal, di cloud, atau
+dalam hard disk eksternal, tergantung pada volume dan kebutuhan
+penyimpanan.
+3. Penyimpanancloudmemungkinkandatadiaksesdariberbagailokasi
+secara global, sementara penyimpanan lokal cocok untuk aplikasi
+yangmembutuhkanaksescepatatautidaktergantungpadainternet.
+Sistem Measurement Data (DMS) mengintegrasikan berbagai
+komponen untuk mengumpulkan, mengolah, dan menganalisis data dari
+lingkungan atau objek yang sedang diamati. Setiap komponen memainkan
+peranpentingdalammemastikanakurasipengukuran,pengolahandatayang
+efisien, dan penyajian informasi yang berguna bagi pengguna. Sistem ini
+dapat digunakan di berbagai sektor, termasuk pertanian, manufaktur,
+kesehatan,danlain-lain.
+2.5Internet of Things (IoT)
+Perkembanngan teknologi IoT merupakan teknologi yang dapat
+menghubungkan objek dengan jaringan internet.(Fathurrahman et al., 2023)
+Internet of Things (IoT) adalah sebuah konsep yang bertujuan untuk
+memaksimalkanmanfaatdariaktivitasberbasisinternetyangselaluterhubung,
+seperti kontrol, pertukaran data, dan fungsi lainnya. Semua bahan termasuk
+pakaian,elektronik,dankoleksisertabendasehari-hariterhubungkejaringan
+globalmelaluisensorpasifyangaktifsecaraterus-menerus.
+
+30Meskidemikian,menurutNugraha Internet of Things (IoT)merupakan
+suatusistemperangkatyangselaluterhubungatauberkomunikasi,baikmelalui
+sarana mekanis maupun digital. Teknologi Internet Of Things (IoT)
+memungkinkan objek terhubung ke internet sehingga memudahkan untuk
+memantaukondisikelembapandanpHtanah.(Fathurrahmanetal.,2023)
+Dalam Internet of Things , konsep "benda" dapat didefinisikan sebagai
+subjek. Contohnya adalah seseorang yang memiliki monitor pergelangan
+tanganyangtidakterlihat,hewanternakyangdilengkapitransponderbiochip,
+atau perangkat seluler yang dilengkapi sensor bawaan untuk mengukur
+kenaikantekanandarah.Saatini Internet of Things (IoT)palingeratkaitannya
+dengan kemampuan komunikasi mesin-ke-mesin (M2M) yang terkadang
+disebutsebagaisistem“pintar”atau“cerdas”.Contohnyasepertikabelpintar,
+pintarmeter,dansensorjaringanpintar(Fathurrahmanetal.,2023)
+Working with the Internet of Things involves applying the principle of
+perintah to generate automatic interactions between related machines without
+compromising human safety and security ( Emmanuel ogundare.,2024).
+Dimanamanusiabertugassebagaipengaturdanpengawaslangsungalatini,
+internetmenjadipenghubunganantarakeduainteraksimesin.
+Internet of Things (IoT)berfokuspadaobjekyangmampumelakukan
+penginderaan virtual dan verifikasi identitas online. Bekerja dengan IoT
+melibatkan komunikasi asinkron antar perangkat yang terhubung secara
+otomatis tanpa memerlukan intervensi pengguna. Internet berfungsi sebagai
+saluran interaksi manusia-mesin, sementara pengguna berhati-hati dalam
+
+31menyesuaikandanmemantauperangkatterkaitpekerjaansecaradiam-diam.
+Konsep Internet of Things membuatpendelegasiantugasmenjadilebihefisien,
+sederhana,dancepat.
+Teknologi Internet of Things (IoT) didasarkan pada banyak protokol
+komunikasi yang dirancang untuk memenuhi kebutuhan berbagai perangkat
+yangterhubung,mulaidarisensorpasifhinggasensoraktif.Salahsatuprotokol
+kunci dalam Internet of Things adalah MQTT (Message Queuing Telemetry
+Transport),yangdirancangkhususuntukkomunikasiyangefisiendancepat
+dalam jaringan dengan kapasitas terbatas. MQTT menggunakan arsitektur
+terbitkan-berlangganan, yang memungkinkan aplikasi yang memerlukan
+transfer data waktu nyata, seperti sistem otomasi industri atau sistem
+pemantauankesehatan,untukdikirimdanditerimadenganoverheadrendah.
+ProtokollainyangdisebutCoAP( Constrained Application Protocol )paling
+cocok untuk aplikasi dengan rata-rata harian yang berfluktuasi dan koneksi
+yang tidak stabil. CoAP memiliki mekanisme request-response yang mirip
+denganHTTPtetapilebihefisiendalamhal bandwidthdankonsumsienergi,
+sehinggaseringdigunakanpadaaplikasikontrolsensordanpintarrumah.
+Selain protokol tersebut, HTTP (Hypertext Transfer Protocol ) masih
+menjadi pilihan populer, terutama untuk aplikasi Internet of Things yang
+memerlukan interaksi online yang lebih kompleks, seperti aplikasi dan
+dashboard berbasis cloud. Dari segi implementasi, Low Power Wide Area
+Networks(LPWAN),seperti Long Range Wide Area Networks (LoRaWAN)
+danNarrowband IoT (NB-IoT), memberikan solusi efisien untuk transmisi
+
+32data jarak jauh dengan konsumsi energi minimal. Misalnya, LoRaWAN
+memberikankeunggulanyangsangattajamdengankapasitasdatayangbesar,
+cocokuntukaplikasisepertipenandaanasetdanpintaring.Disisilain,NB-IoT
+dirancang untuk diintegrasikan ke dalam jaringan seluler dan memberikan
+keseimbangankehidupankerjamelaluisedikitkonsumsiharian,sehinggaideal
+untukaplikasiyangmemerlukanbatasanyangkuatdanberkelanjutan.
+Teknologi jaringan mesh, seperti Z-WavedanZigbee, sangat penting
+dalam Internet of Things ,terutamauntukaplikasirumahpintardanotomasi
+industri.Wedahlamajangkauandankejelasankomunikasidengankonsumsi
+dayayangrendah, ZigbeedanZ-Wavemenyediakanmeshkomunikasiyang
+memungkinkan perangkat untuk membentuk jaringan saling terhubung.
+Berdasarkan standar IEEE 802.15.4, Zigbee umumnya digunakan dalam
+aplikasi yang memerlukan interoperabilitas dengan berbagai perangkat,
+sedangkan Z-Wavedirekomendasikan untuk interoperabilitas dekat dengan
+pintar perangkat rumah. Internet Of Things adalah sebuah system yang
+memerlukanjaringaninternetdalampengoprasian danmampumemonitoring
+dari jarak jauh serta bisa memberikan data.(Informatika & Hamzanwadi,
+2021).
+
+33BAB III
+METODE PENELITIAN
+3.1 Rancangan Penelitian
+RancangbangunsistemmonitoringkelembapandanpHtanahyangideal
+untuk tanaman menggunakan smart detector ini bertempat di universitas
+muhammadiyahmakassartahun2024.
+3.2 AlatDan Bahan
+Penelitianinimemanfaatkanbeberapaalat,bahandanperangkatsebagai
+komponenutamadalamperancangan sistem monitoring kelembapandanpH
+tanahyangidealmengunakan smart detector .
+Tabel 3.1DaftarAlatdanBahan
+AlatJumlah
+Laptop1
+Smartphone1
+KabelMicroUSB2
+
+34LemTembak1
+Cutter1
+Obeng1
+Tang1
+GergajiBesi1
+BahanJumlah
+ArduinoUnoESP322
+MoistureSensorV1.21
+SensorpH1
+DMS1
+Adaptor1
+
+35KabelJumperSecukupnya
+LemLilinSecukupnya
+Box1
+Baut4
+3.3 Metode Penelitian
+Penelitian ini menggunakan penelitian eksperimen yaitu melakukan
+perancangan dan pengujian untuk mengukur efektivitas sistem dalam
+melakukan pengukuran pada kelembapan dan pH tanah. Berikut tahap
+penelitianyangdilakukan.
+
+36Gambar 3.1 TahapPelaksanaan
+Penelitiaan ini dimulai dengan studi desain,dimana peneliti melakukan
+rancangandesainuntukmemahamikonsepdaridesainmonitoring kelembapan
+dan pH pada tanah . Sistem desain melibatkan perancangan rangkaian dan
+pemilihan komponen yang tepat untuk perancagan. Pengumpulan alat dan
+bahaninimeliputiperangkatkeras( hardware)danperangkatlunak( software)
+yangdiperlukan.
+Tahap perancangan hardwareadalah Perakitan perangkat keras yang
+disesuai dengan desain yang ditetapkan , Sedangkan perangkat lunak yaitu
+merancang penulisan kode program pada software arduino ESP32 untuk
+menjalankan sistem monitoring. Setelah sistem berfungsi selanjutnya
+melakukantahapevaluasipadaalatperancangan.
+3.4 Metode Pengumpulan Data
+Metodepengumpulandatayangdigunakanadalahmetodeobservsiyang
+dimana melibatkan pengamatan langsung terhadap alat perancangan
+monitoringkelembapandanpHtanahmengunakansmartdetector.Observasi
+ini mengefesiensikan kinerja alat perancangan terhadap kondisi tanah
+dilingkunganumum.Pengumpulandataobservasidenganmencatatdatasesnor
+kelembapadan dan pH pada tanah dalam proses dan hasil pengujian
+perncangan.
+Dalampenelitianiniakandikelompokantanamanyangsesuaiberdasarkan
+pHdankelembabanmenjadi3yaitu.
+
+37Tabel 3.2PengelompokanpHdanKelembapan
+pH Kelembapan Tanaman yangsesuai
+5–6 50–75% Tomat,Cabai,Kentang
+6–7 60–80% Padi,Pisang,Jagung
+7–8 50–85%Kacangpanjang,
+Bawang,Sorgumn
+3.5 Blok DiagramSistemMonitoringKelembapan Dan Ph Tanah.
+
+38Gambar 3.2 BlokDiagramSistemMonitoringKelembapanDanpHTanah
+KeteranganblokdiagramsistemmonitoringkelembapandanpHtanah
+1. AdaptorUsbmicrosebagaitegangan.
+2. SensorpHtanahuntukmengukurtingkatkadartanahuntukmengirim
+datanyakearduinoESP32.
+3. Sensor kelembapan tanah ( moilsure sensor v1.2 ) untuk mengukur
+tingkatkadarairtanahuntukmengirimdatanyake arduinoESP32.
+4. DMS (Data Measurement Sistem ) yang digunakan untuk pengondisi
+sinyalsensorpadasaatpembacaabdatalebihstabil.
+5. Jaringan internet atau wi-fi digunakan untuk menghubungkan antara
+mikrokontroler arduino ESP32danaplikasiblyinkagardapatterhubung
+6. Server Blynk Untuk Meneruskan data sensor yang diterima dari
+mikrokontrolerarduinoESP32
+7. AplikasiBlynkuntukmenampilkandatapengukuranpadasetiapsensor
+8.LCDadalahsebuahtampilanaplikasiblynkdaripengukurandatasetiap
+sensor.
+
+393.6 Perancangan Hardware (PerangkatKeras )
+Gambar 3.3 SkemaRangkaianHardware
+Semuakomponenalatyangdigunakanpadamonitoringkelembapandan
+pHtanahmengunakansmartdetector(internetofthings)sepertisensorsoil
+measure,sensorpH,danmoduldatameasurentsystem(dms).Dihubungkan
+ke mikrokontroler arduino ESP32 sehingga komponen komponen dapat
+berkomunikasi yang terhubung. Berikut adalah koneksi ( pin ) penghubung
+untuk mikrokontroler arduino ESP32 dengan komponen komponen yang
+digunakan.
+3.6.1 Koneksi Soil Moisture Sensor Dengan ArduinoESP32
+Tabel 3.3KoneksiSoilMoistureSensorDenganArduinoESP32
+SoilMoistureSensor ArduinoESP32
+
+40VCC 3,3V
+GND GND
+AOUT D34
+3.6.2 Koneksi Sensor pH dan Data Measurement Sistem Dengan
+ArduinoESP3
+Tabel 3.4KoneksiSensorpHdanDataMeasurementSistemDengan
+ArduinoESP32
+SensorpHModulDMSArduinoESP32
+VIN3,3V
+GND GNDGND
+AOUTD34
+AOUTD13
+3.7 Perancangan Software (PerangkatLunak )
+
+41Perancangan softwaremenggunakan aplikasi blynkyang membuat
+datasheetdanantarmukapenggunapada smartphoneuntukmengelolahpada
+perangkat smart detector .
+Langkahawalmelibatkanpenggunamelakukanregistrasiataupendaftaran
+padaaplikasidi platformdisertaidenganpembuatproyekbarudanpemilihan
+komponenperangkat smart detector yangakandigunakan.Setelahpembuatan
+datasheetyangdigunakanuntukmentransferdataanataraperangkatkerasdan
+platform blynk dan penempatan pin pada arduinoESP32 yang terhubung
+langsungkesensor.
+Selanjutnyapadatahappembuatanantarmukapenggunamengaturukuran
+sepertitombolyangterterapadawebsitedanaplikasidi smartphone.Adapaun
+gaya dan tata letak antarmuka di aplikasi disesuikan dengan keinginan dan
+kebutuhan dan setiap widget terhubung dengan datasheet yang telah dibuat
+sebelumnyayangmemudahkanpenggunauntukmengkontrolperangkatfisik
+danmemonitoringdatasensorsecaraberkalaataupunterusmenerus.Referensi
+yangdigunakanuntukmenetukanjenistanamanberdasarkanjurnal“Tanah
+DanIklimBadanPenelitiandanPengembanganPertanian”.
+
+423.8 Mekanisme KerjaAlatDan Kode Program
+
+43Gambar 3.4 FlowchartMekanismeKerjaKodeProgram
+Langkah awal pada pemograman dimulai dengan inisiasi koneksi WiFi
+mengumakan ID dan Password yang telah dibuat yang akan terhubung ke sever
+
+44blynkmenggunakanotentikasi,danmenganalisasensor.Pogramanmendefenisikan
+pinyangdigunakanuntukmonitoringkelembapandanpHpadatanah.
+BAB IV
+HASIL DAN PEMBAHASAN
+4.1 Pengujian SistemMonitoringKelembapan dan pH Tanah
+
+45Pengujianalatsisteminidilakukanuntukmengevaluasikinerjaalatsensor
+dengan internet of things .Tujuanutamadaripengujianalatadalahmemastikan
+bahwa seluruh sistem dapat bekerja sesuai dengan mekanisme yang telah
+ditetapkan.
+
+46Prosedur pengujian pada alat sistem monitoring ini adalah memberi
+teganganpadaMCU(ESP32)menggunakankabel microUSB+charger HP.
+Selanjutnya
+di
+sambungka
+n dengan
+charger HP
+ke Listrik ,
+setelah itu
+gunakan
+handphoneuntukmencari wifimcudengannama“KelembapanDanpH”.
+Setelahdiarahkankeserver wifimanagermakatekan configure Wifi yangakan
+dimasukanSSIDDanPass(Wifiyangmemilikikoneksiinternet).Apabila
+pesan yang di tampilkan “ Saving Cerdential ” maka SSID dan Pass sudah
+tersimpanselamaMCUmasihberadadalamjangkauan WiFidenganSSIDdan
+Passwordyangsama.Setelahmengistalaplikasi blyinkdihandponemaka log
+in, Namun sebelumnya memasuki server setting yang akan di costum
+masukkan host address:iot.serangkota.go.id Port:9443padaServerSettings.
+Masukkan emaildan passwordBlynknya. Emaildan PasswordBlynk
+terlampir. Lalu tekan tombol play pada pojok kanan atas untuk memulai
+pengoperasiannya.Langkahterakhiradalahmenancapkansensorkelembapan
+dansensorpHtanahpadatanahyangtelahditetapkan.
+
+47Gambar 4.1 ProsesMonitoring
+Dalam proses pengujian sistem monitorin kelembapan dan sensor pH
+tanahdilakukansebanyak3kalidenganhasilsebagaiberikut.
+4.2 Pengujian Pertama Sistem Monitoring Kelembapan dan pH Tanah
+4.2.1 Pengujian Pertama
+Lokasi pengujian ini memiliki kondisi dan kriteria tanah lempung
+danliatmemilikikadarairyangsedangdenganwarnacoklatkekuningan
+hinggacoklatkeabuandantidakmemilikibautanahyangterlalukuat.
+Dengan kondisi dan karakteristik tersebut dilakukan pengujian
+dilokasijalanporosmalino,pakatto,kabupatengowayangmenungjukan
+hasilpengujiansebagaiberikut.
+
+48Gambar 4.2 HasilPengujianPertamapH5-6
+Setelah melakukan pengujian maka didapatkan nilai kelembapan
+52%danpHtanah5,2makatanamanyangakanditampilkanpadalayar
+yaitutomat,cabai.dankentang.Hasilyangdidapatkantelahsesuaidengan
+referensiyangdigunakan.
+
+494.2.2 Pengujian Kedua
+Lokasipengujianinimemilikikondisidankriteriatanahcampuran
+memiliki kadar air yang sedang hingga tinggi dengan warna coklat
+keabuandantidakmemilikibautanahyangterlalukuat.
+Gambar 4.3 HasilPengujianKeduapH6-7
+Dengan kondisi dan karakteristik tersebut dilakukan pengujian
+dilokasi Bissoloro,kabupatengowayangmenungjukanhasilpengujian
+sebagaiberikutyaitu setelahmelakukanpengujianmakadidapatkannilai
+kelembapan71%danpHtanah6,8makatanamanyangakanditampilkan
+
+50padalayaryaitupadi ,pisang.danjagung..Hasilyangdidapatkantelah
+sesuaidenganreferensiyangdigunakan.
+4.2.3 Pengujian Ketiga
+Lokasi pengujian ini memiliki kondisi dan kriteria tanah lempung
+danliatmemilikikadarairyangsedangdenganwarnahcoklatkekuningan
+hinggacoklatkeabuandantidakmemilikibautanahyangterlalukuat.
+Gambar 4.4 HasilPengujianKetigapH7-8
+
+51Dengan kondisi dan karakteristik tersebut dilakukan pengujian
+dilokasi Bissoloro,kabupatengowayangmenungjukanhasilpengujian
+sebagai berikut. Setelah melakukan pengujian maka didapatkan nilai
+kelembapan62%danpHtanah7,6makatanamanyangakanditampilkan
+pada layar yaitu kacang panjang , bawang. dan sorgum. . Hasil yang
+didapatkantelahsesuaidenganreferensiyangdigunakan.
+4.2.4 Pengujian Keempat
+Lokasi pengujian ini memiliki kondisi dan kriteria tanah lempung
+danliatmemilikikadarairyangsedangdenganwarnahcoklatkekuningan
+hingga coklat keabuan dan tidak memiliki bau tanah yang terlalu kuat.
+Dengan kondisi dan karakteristik tersebut dilakukan pengujian dilokasi
+jalan poros malino, pakatto , kabupaten gowa yang menungjukan hasil
+pengujiansebagaiberikut.
+
+52Gambar 4.5 HasilPengujianKeempatpH5–6
+Setelah melakukan pengujian maka didapatkan nilai kelembapan
+68%danpHtanah5,8makatanamanyangakanditampilkanpadalayar
+yaitukacangpanjang,bawang.dansorgum..Hasilyangdidapatkantelah
+sesuaidenganreferensiyangdigunakan.
+
+534.2.5 Pengujian Kelima
+Lokasi pengujian ini memiliki kondisi dan kriteria tanah lempung
+danliatmemilikikadarairyangsedangdenganwarnahcoklatkekuningan
+hinggacoklatkeabuandantidakmemilikibautanahyangterlalukuat.
+Dengan kondisi dan karakteristik tersebut dilakukan pengujian
+dilokasijalanporosmalino,pakatto,kabupatengowayangmenungjukan
+hasilpengujiansebagaiberikut.
+Gambar 4.6 HasilPengujianKelimapH6–7
+
+54Setelah melakukan pengujian maka didapatkan nilai kelembapan
+78%danpHtanah6,4makatanamanyangakanditampilkanpadalayar
+yaitukacangpanjang,bawang.dansorgum..Hasilyangdidapatkantelah
+sesuaidenganreferensiyangdigunakan.
+4.2.6 Pengujian Keenam
+Lokasi pengujian ini memiliki kondisi dan kriteria tanah lempung
+danliatmemilikikadarairyangsedangdenganwarnahcoklatkekuningan
+hinggacoklatkeabuandantidakmemilikibautanahyangterlalukuat.
+Dengan kondisi dan karakteristik tersebut dilakukan pengujian
+dilokasijalanporosmalino,pakatto,kabupatengowayangmenungjukan
+hasilpengujiansebagaiberikut.
+
+55Gambar 4.7 HasilPengujianKeenampH7–8
+Setelah melakukan pengujian maka didapatkan nilai kelembapan
+85%danpHtanah7,9makatanamanyangakanditampilkanpadalayar
+yaitukacangpanjang,bawang.dansorgum..Hasilyangdidapatkantelah
+sesuaidenganreferensiyangdigunakan.
+
+56Tabel 4.1HasilpengujiansistemmonitoringkelembapandanpHtanah
+HasilPengukuran pHKelembapan Tanaman
+Pengujian1 5,252% Tomat,Cabai,danKentag
+Pengujian2 6,871% Padi,Pisang,danJagung
+Pengujian3 7,662%KacangPanjang,Bawang,dan
+Sorgum
+Pengujian4 5,868% Tomat,Cabai,danKentag
+Pengujian5 6,478% Padi,Pisang,danJagung
+Pengujian6 7,985%KacangPanjang,Bawang,dan
+Sorgum
+Daripelaksanaan6kalipenelitiandiperolehhasilyangsesuaiharapan
+yaitu dapat dideteksi tanah serta ditampilkan tanaman yang sesuai sehingga
+dapatdisimpulkanbahwasistemmonitoringkelembapandanpHtanahbekerja
+denganbaik.
+
+57BAB V
+PENUTUP
+5.1Kesimpulan
+BerdasarkanhasilpengujiansistemmonitoringkelembapandanpHtanah
+dapatdisimpulkansebagaiberikut
+1. Metode monitoring kelembapan dan pH tanah dapat dilakukan dengan
+mengunakansensorsoilmoisturedansensorpH yangterhubungdengan
+handphonemengunakanaplikasiblynkmelaluiarduinoESP32yangtelah
+diprogramuntukmenampilkanjenistanamanyangsesuaidengankondisi
+tanahberdasarkanhasilpengukuran.
+2. Informasi tanaman yang ideal dapat dimunculkan di layar handphone
+dengan memasukan dalam program spesifikasi tanaman yang sesuai
+berdasarkan kelembapan dan pH tanah tertentu, dimana berdasarkan
+penelitian yang dilakukan sebanyak 3 kali di peroleh hasil sesuai yang
+diharapkan.
+5.2Saran
+Penelitian ini dapat dikembangkan dengan menambahkan referensi
+mengenai pengkondisian tanah yaitu mengkondisikan tanah yang tidak sesuai
+dengan kelembapan dan pH tanah, untuk tanaman tertentu agar mendapatkan
+hasil kelembapan dan pH yang diharapkan misalnya tanaman tomat yang
+memerlukankondisitanahdengankelembapan50–75% danpH5–6namun
+tanahyangdiukurmemilikikelembapan45–55% danpH3–4makauntuk
+mengoptimalkantanamantersebutdiberikanpupukbasah(dolomitdanKapur)
+
+58ataupun sebaliknya jika nilai kelembapan dan ph lebih tinggi maka diberikan
+pupukasam(ammoniumsulfatdanurea).
+
+59DAFTAR PUSTAKA
+Daniel,R.(2022).RancangBangunAlatMonitoringKelembaban,PHTanahdan
+PompaOtomatisBerbasisArduino. Journal of Applied Computer Science
+and Technology ,3(2),208–212.https://doi.org/10.52158/jacost.v3i2.384
+Fathurrahman,I.,Gunawan,I.,Samsu,L..,&Budiarti,N.(2023).Rancang
+BangunSmartSystemPendeteksiAirLayakMinumPadaSumurdiDaerah
+PesisirPantaiBerbasisInternetOfThings(IoT). Infotek : Jurnal Informatika
+Dan Teknologi ,6(2),351–360.https://doi.org/10.29408/jit.v6i2.15872
+Informatika,S.T.,&Hamzanwadi,U.(2021).Infotek  :JurnalInformatikadan
+TeknologiInfotek  :JurnalInformatikadanTeknologiPendahuluan
+dibutuhkansebuahteknologiyangmampumengetahuisuhudankelembaban
+didalamkumbungjamurtiramdanketikasuhudalamkumbungjamurtiram
+meningkatmakab. Infotek : Jurnal Informatika Dan Teknologi ,4(1),79–86.
+Meilianto,W.D.,Indrasari,W.,&Budi,E.(2022).KarakterisasiSensorSuhu
+DanKelembabanTanahUntukAplikasiSistemPengukuranKualitasTanah.
+Prosiding Seminar Nasional Fisika (E-Journal) SNF2022 ,X,117–122.
+https://doi.org/10.21009/03.SNF2022
+Perdana,F.R.,&Pratama,N.(2024).MonitoringpHtanahKelembabanTanah
+danPenyiramanOtomatisPadaTokoCitraTamanLandscapeMenggunakan
+InternetOfThingsDenganMetodeSeries. Journal of Research and
+Publication Innovation ,2(3),2403–2408.
+https://jurnal.portalpublikasi.id/index.php/JORAPI/index
+
+60Ummah,M.S.(2019).NoAnalisisstrukturkovariansindikatorterkaitkesehatan
+padalansiayangtinggaldirumah,denganfokuspadarasasubjektifterhadap
+kesehatan
+Title. Sustainability (Switzerland) ,11(1),1–14.
+http://scioteca.caf.com/bitstream/handle/123456789/1091/RED2017-Eng-
+8ene.pdf?sequence=12&isAllowed=y%0Ahttp://dx.doi.org/10.1016/j.regsciu
+rbeco.2008.06.005%0Ahttps://www.researchgate.net/publication/305320484
+_SISTEM_PEMBETUNGAN_TERPUSAT_STRATEGI_MELESTARI
+Vien,B.H.,Hadary,F.,&Yurisinthae,E.(2023).SistemMonitoringpHTanah,
+SuhudanKelembabanTanahpadaTanamanJagungBerbasisInternetOf
+Things(IOT). Jurnal of Electrical Engineering, Energy, and Information
+Technology,11(1),1–9.
+
+61LAMPIRAN
+
+62#define BLYNK_AUTH_TOKEN “sMuBaD3I7eA1MBvxg0-
+ATe3vmokJ8zX5”
+#defineTEMPLATE_NAME“SENSORPHKELEMBABAN”
+#defineTEMPLATE_ID"TMPL6X3UP8Nq1"
+#include<WiFi.h>
+#include<BlynkSimpleEsp32.h>
+//Pinuntuksensor
+constintsoilMoisturePin=34;
+constintphSensorPin=35;
+//Variabeluntukpembacaansensor
+intsoilMoistureValue=0;
+intphValue=0;
+//Datatanaman
+StringplantStatus="Status:TanamanTidakDikenal";
+//RentangpHdankelembabanuntuktanaman
+voidcheckPlantStatus(){
+//KelembabanTanah(50-80%)untuktanamanyangsesuai
+
+63bool isMoistureOk = soilMoistureValue >= 500 &&
+soilMoistureValue<=800;
+//MemeriksapHuntuktanaman
+if(phValue>=500&&phValue<=600&&isMoistureOk){
+plantStatus = "Tanaman: Tomat / Cabai / Kentang (pH 5-6,
+Kelembaban50-70%)";
+}elseif(phValue>=600&&phValue<=700&&isMoistureOk){
+plantStatus="Tanaman:Padi/Pisang/Jagung(pH6-7,Kelembaban
+60-80%)";
+}elseif(phValue>=700&&phValue<=800&&isMoistureOk){
+plantStatus="Tanaman:KacangPanjang/Bawang/Sorgum(pH7-
+8,Kelembaban50-80%)";
+}else{
+plantStatus="Status:PerluPenyesuaianpHatauKelembaban";
+}
+}
+voidsetup(){
+//Memulaikomunikasiserialuntukdebugging
+Serial.begin(115200);
+
+64//MenghubungkankeWi-FimenggunakanWiFiSSIDdanPassword
+yangsudahdidefinisikan
+WiFi.begin(WIFI_SSID,WIFI_PASSWORD);
+//MenunggusampaiWi-Fiterhubung
+while(WiFi.status()!=WL_CONNECTED){
+delay(1000);
+Serial.println("MenghubungkankeWi-Fi...");
+}
+Serial.println("TerhubungkeWi-Fi!");
+// Menghubungkan ke Blynk dengan Auth Token yang sudah
+didefinisikan
+Blynk.begin(BLYNK_AUTH_TOKEN,WIFI_SSID,WIFI_PASSW
+ORD);
+}
+voidloop(){
+//Mengambildatakelembapantanah
+soilMoistureValue=analogRead(soilMoisturePin);
+//MengambildatapH
+phValue=analogRead(phSensorPin);
+
+65//TentukanstatustanamanberdasarkannilaikelembapandanpH
+checkPlantStatus();
+//KirimdatakeaplikasiBlynk
+Blynk.virtualWrite(V1, soilMoistureValue); // Kirim kelembapan
+kewidgetvirtualpinV1
+Blynk.virtualWrite(V2,phValue); //KirimpHkewidgetvirtual
+pinV2
+Blynk.virtualWrite(V3,plantStatus); //Kirimstatustanamanke
+widgetvirtualpinV3
+//Tampilkannilaidiserialmonitoruntukdebugging
+Serial.print("KelembapanTanah:");
+Serial.println(soilMoistureValue);
+Serial.print("NilaipH:");
+Serial.println(phValue);
+Serial.print("StatusTanaman:");
+Serial.println(plantStatus);
+//JalankanBlynkuntukmenjagakoneksi
+Blynk.run();
+delay(1000);//Delayuntukupdatesetiapdetik
+
+66} Serial.println(plantName);
+Serial.print("JenisTanaman:");
+Serial.println(plantType);
+//JalankanBlynkuntukmenjagakoneksi
+Blynk.run();
+delay(1000);//Delayuntukupdatesetiapdetik
+}
+
+67Lampiran2
+
+68
+
+69
+
+70
+
+71
+
+72
+
+73
+
+74
+
+75
+
+76
+
+77
+
+78
+
+79
+
+80
+
+81
+

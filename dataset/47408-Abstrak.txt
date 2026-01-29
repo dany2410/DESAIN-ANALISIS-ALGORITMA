@@ -1,0 +1,22 @@
+iv Lampu penerangan adalah suatu perangkat yang berada pada sebuah 
+rumah/bangunan yang berfimgsi sebagai penerang. Lampu dapat bekerja dengan 
+adanya somber listrik dengan saklar untuk mengaktitkan maupun 
+menonaktifkannya Permasalaha yang biasa terjadi pada pengontrolan Iampu 
+secara manual adalah kesulitan pada pengontrolan lampu diruangan-ruangan yang 
+jauh dengan jumlah ruangan dan lampu yang banyak. Sistem seperti ini tidak 
+efisien dan efektif, karena memerlukan teoaga manusia mrtuk: mengatur dan 
+memantau Iampn pada setiap ruangan. Dari pennasalaban ini maka dirancang 
+sebuah pengontrolan lampu menggunakan mikrokontroler arduino uno dan 
+smartphone android Pada perancangan ini menggunakan simulasi miniatur 
+rumah, dimana terdapat on-off lampn AC dan dimmer lampu DC. Pengontrolan 
+ini menggunakan modul bluetooth sebagai alat komunikasi. Untuk: menyalakan 
+lampu maka. smartphone mengirim perintah ke mikrokontroler arduino melalui 
+komunikasi bluetooth.. Setelah melakukan pengujian, proses pengiriman dan 
+penerimaan data perintah on-off lampu dan dimmer lampu dapat bekerja pada 
+jarak 13 meterdengan adanya penghalang dan 10 meter tanpa penghalang. 
+Kata kund: Smartphone android. mikrokomroler arduino, bluetooth; 
+11 pengendalian lampu: Ahmad & Masrur. Perancangan Sistem Pengontrolan Penerangan Lampu Rumah 
+Berbasis Android Program Stndi Teknik Elektro, Fakultas Teknik, Universitas 
+Muhammadiyah Makassar. Pembimbiog 1 : Dr. Umar Kam, ST., MT. Pembimbing 2 : Ir. 
+Abdul Hafid, M.T ABSTRAK 
+

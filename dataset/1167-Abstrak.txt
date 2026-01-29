@@ -1,0 +1,22 @@
+ANALISIS KINERJA KONEKSI JARINGAN SWITCH ETHERNET PADALOCAL
+AREA NETWORK (LAN)
+ABDUL KARIM1, ANDI ACHMADI2
+1Jurusan Teknik Elektro Fakultas Teknik Unismuh Makassar
+Email : abdulkarim1317@gmail.com
+2Jurusan Teknik Elektro Fakultas Teknik Unismuh Makassar
+Email :andiachmadi32@gmail.com
+ABSTRAK
+Abstrak : ABDUL KARIM dan ANDI ACHMADI (2018). Analisis Kinerja Koneksi Jaringan Switch
+Ethernet PadaLocal Area Network (LAN).Skripsi Teknik elektro Fakultas Teknik Universitas
+Muhammadiyah Makassar. Perkembangan jaringan telekomunikasi dewasa ini mengalami kemajuan yang
+sangat cepat. Berbagai macam fasilitas teknologi telekomunikasi terus dikembangkan agar userdapat
+melakukan komunikasi secara praktis, di manapun l okasiusertesebut berada. Penelitian ini bertujuan
+untuk mengetahui apa saja proses berjalannya paket data yang dikirim seperti menghitung kecepatan
+paket data yang dikirim ( Throughput ), paket data yang hilang ( Packet Loss ), dandelaywaktu pengiriman
+data. Metodologi yang di gunakan pada penelitian ini adalah menggunakan studi literatur dengan
+mengambil data di lapangan dengan tujuan untuk Menghitung Throughput ,delay dan packet loss suatu
+paket yang dikirim dalam jaringan Switch Ethernet . Dari hasil pene litian didapatkan dari setiap percobaan
+yaitu,Throughput, perbandingan Throughput dari setiap bidang kerja dapat diketahui nilai tertingi dan
+terendah pada setiap bidang. Dan delaywaktu pengiriman data tercepat dan terlama Dan packet loss
+mendapatakan ni lai rata-rata baik sesuai standar ITU G.114 dengan persentase nilai0%.
+Kata kunci : Switch Ethernet, Throug hput, Packet Loss, Delay

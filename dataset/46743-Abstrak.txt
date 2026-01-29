@@ -1,0 +1,55 @@
+vi 
+ ABSTRAK  
+PLTG  adalah pembangkit listrik yang mengubah energi kimia gas menjadi listrik 
+melalui turbin dan generator, dengan keunggulan start-up cepat sehingga cocok untuk 
+memenuhi kebutuhan beban puncak secara fleksibel. Selain operasi normal, pembangkit 
+dalam hal ini generator juga bisa mengalami kondisi operasi abnormal atau disebut 
+gangguan. Gangguan yang paling berpotensi mendatangkan kerusak an/bahaya besar adalah 
+gangguan hubung -singkat, terutama gangguan hubung -singkat simetris. Salah satu bagian 
+generator atau kom ponen generator yang berpotensi besar mengalami gangguan hubung -
+singkat adalah belitan stator. Penelitian ini bertujuan untuk memodelkan dan 
+menyimulasikan kinerja sistem relai diferensial dalam kondisi gangguan eksternal dan 
+internal menggunakan Perangkat Lunak  PSCAD . Model Relai Diferensial terdiri atas 2 CT 
+(rasio 1), I1 & I2, untuk mengakuisisi data arus di kedua ujung belitan stator, 2 Frekuensi 
+scanner , FFT1 & FFT2 , berperan mengonversi kedua luaran CT untuk menjadi besaran 
+fasor. Selanjutnya, fasor -fasor arus tersebut akan ditampilkan di dalam Display  dan/atau 
+diolah oleh Algoritma Relai Diferensial Dual Slope , yang pada gilirannya, luaran relai, juga 
+akan ditampilkan di dalam Display . Model akan bekerja berdasarkan setelan karakteristik 
+yakni: arus pickup  sebesar 0,2337 kA, kem iringan  pertama ( Slope 1) sebesar 5,71°, dan arus 
+Break 1 (= Break 2) sebesar 2,687 kA, dan kemiringan kedua ( Slope 2) sebesar 38,66°. Hasil 
+simulasi menunjukkan bahwa gangguan eksternal di Rel 11,5 kV dan 150 kV GI Tello, 
+PLN Sulselrabar, terespons “ reset ” oleh relai. Sedangkan di sisi lain, untuk kasus gangguan 
+internal di titik 10,  20 ... 100% dari netral Generator #GE1 PLTG Tello, dapat direspons 
+“pickup ” oleh relai. Secara keseluruhan, model sistem proteksi ini menampilkan kine rja 
+yang tepat baik dalam perspektif selektivitas maupun sensitivitas.  
+Kata Kunci : Proteksi Generator, Gangguan Simetris, Relai Diferensial,  PSCAD  
+ 
+ 
+  
+
+vii 
+ ABST RACT  
+A Gas Turbine Power Plant  is a power generation facility that converts the chemical 
+energy of gas into electricity through a turbine and generator, with the advantage of fast 
+start-up, making it suitable for flexibly meeting peak load demands. In addition to normal 
+operation, the g enerator may also experience abnormal operating conditions, referred to 
+as faults. The most potentially damaging and hazardous fault is the short -circuit fault, 
+particularly the symmetrical short -circuit fault. One of the generator components that has 
+a high potential to experience a short -circuit fault is the stator winding. This study aims to 
+model and simulate the performance of a differential relay system under both external and 
+internal fault conditions using PSCAD software . The Differential Relay Model consists of 
+2 CT (ratio 1), I1 & I2, to acquire current data at both ends of the stator winding, and 2 
+Frequency Scanners, FFT1 & FFT2, which convert the CT outputs into phasor quantities. 
+These current phasors are then displ ayed and/or processed by the Dual -Slope Differential 
+Relay Algorithm, whose output is also displayed. The model operates based on the 
+following characteristic settings: pickup current of 0.2337 kA, first slope (Slope1) of 5.71°, 
+Break1 (= Break2) current of 2.687 kA, and second slope (Slope2) of 38.66°. Simulation 
+results show that external faults at the 11.5 kV and 150 kV busbars of GI Tello, PLN 
+Sulselrabar, are responded to with a “reset” action by the relay. On the other hand, for 
+internal faults at points 10, 20, and up to 100% fr om the neutral of Generator #GE1 PLTG 
+Tello, the relay responds with a “pickup” action. Overall, the protection system model 
+demonstrates appropriate performance in terms of both selectivity and sensitivity.  
+Keywords : Generator Protection , Symmetrical Fault , Differential Relay , PSCAD  
+ 
+  
+

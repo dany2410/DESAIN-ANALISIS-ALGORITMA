@@ -1,0 +1,206 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #e9eef3;
+}
+
+
+/* ===============================
+   JUDUL APLIKASI + KOLOM PENCARIAN
+   =============================== */
+
+.header {
+    width: 100%;
+    background: #05a9e6;
+    padding: 50px 20px;
+    text-align: center;
+    color: white;
+}
+
+.header h2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 42px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    line-height: 1.3;
+}
+
+
+/* ===============================
+   KOTAK PENCARIAN
+   =============================== */
+
+.search-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+}
+
+
+/* Input kata kunci */
+
+.search-box input {
+    flex: 1;
+    padding: 16px;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+}
+
+
+/* Garis hitam saat input diklik */
+
+.search-box input:focus {
+    outline: 2px solid black;
+}
+
+
+/* Tombol Cari */
+
+.search-box button {
+    padding: 16px 32px;
+    background: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+/* Garis hitam saat tombol diklik */
+
+.search-box button:focus {
+    outline: 2px solid black;
+}
+
+
+/* Hover tombol */
+
+.search-box button:hover {
+    background: #f2f2f2;
+}
+
+
+/* ===============================
+   AREA KONTEN HASIL
+   =============================== */
+
+.wrapper {
+    width: 100%;
+}
+
+.content {
+    max-width: 1600px;
+    margin: 35px auto;
+    padding: 0 30px;
+}
+
+
+/* ===============================
+   KOTAK HASIL PENCARIAN
+   =============================== */
+
+.result {
+    background: white;
+    padding: 22px;
+    border-radius: 8px;
+    margin-bottom: 18px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
+}
+
+
+/* Nama file */
+
+.filename {
+    font-weight: bold;
+    font-size: 22px;
+    margin-bottom: 10px;
+    display: block;
+    text-decoration: none;
+    color: black;
+}
+
+.filename:hover {
+    color: #05a9e6;
+    text-decoration: underline;
+}
+
+
+/* Cuplikan teks */
+
+.snippet {
+    font-size: 18px;
+    color: #333;
+    line-height: 1.6;
+}
+
+
+/* ===============================
+   HIGHLIGHT KATA KUNCI
+   =============================== */
+
+.highlight {
+    background: black;
+    color: white;
+    font-weight: bold;
+    padding: 3px 6px;
+    border-radius: 4px;
+}
+
+
+/* ===============================
+   VIEW DOKUMEN
+   =============================== */
+
+pre {
+    white-space: pre-wrap;
+    font-size: 15px;
+    line-height: 1.8;
+}
+
+.back {
+    display: inline-block;
+    margin: 20px;
+    padding: 10px 18px;
+    border: 2px solid #05a9e6;
+    border-radius: 6px;
+    background: white;
+    color: #05a9e6;
+    font-weight: bold;
+    text-decoration: none;
+    transition: all 0.15s ease-in-out;
+}
+
+
+/* Saat mouse diarahkan */
+
+.back:hover {
+    background: #05a9e6;
+    color: white;
+}
+
+
+/* Saat diklik (DITEKAN) */
+
+.back:active {
+    background: #000;
+    color: white;
+    transform: scale(0.96);
+}
+
+
+/* Saat fokus (klik / tab keyboard) */
+
+.back:focus {
+    outline: 3px solid black;
+    outline-offset: 3px;
+}

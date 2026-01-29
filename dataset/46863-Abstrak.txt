@@ -1,0 +1,45 @@
+ii 
+ ABSTRAK  
+MUHAMMAD ASYGAR FAERUDDIN. Implementasi Deep Learning  
+Menggunakan Hybrid Sentence -Transformers  Dan K-Means Untuk Perbandingan 
+Jurnal  (Dibimbing Oleh Ir. Muhammad Faisal, S.SI., M.T., Ph.D., IPM ., dan Rizki 
+Yusliana Bakt i, S.T., M.T .,). 
+Pertumbuhan eksponensial publikasi ilmiah menyulitkan proses 
+perbandingan jurnal  secara  manual.  Penelitian ini mengimplementasikan sistem 
+otomatis berbasis deep learning  yang menggabungkan Sentence -Transformers  dan 
+K-Means  Clustering  untuk analisis kemiripan semantik. Metode penelitian meliputi 
+perhitungan skor cosine similarity  dari abstrak jurnal yang kemudian diklasterisasi 
+menggunakan K-Means . Hasil evaluasi dengan Elbow Method , Silhouette Score , 
+dan DBI menetapkan empat  kategori kemiripan sebagai jumlah klaster optimal: 
+Tidak Relevan, Sedikit Berkaitan, Cukup Berkaitan, dan Sangat Berkaitan. Sistem 
+yang diimplementasikan mampu membandingkan dua jurnal dengan waktu 
+komputasi rata -rata 15,25 detik, serta menyajikan skor ke miripan beserta klasifikasi 
+hasilnya. Pengujian fungsional membuktikan sistem ini efektif dan efisien dalam 
+memfasilitasi analisis komparatif jurnal, secara signifikan mempercepat proses 
+tinjauan literatur bagi peneliti.  
+Kata Kunci : Perbandingan Jurnal, Deep Learning , Sentence -Transformers , K-
+Means Clustering , Kemiripan Semantik, Natural Language Processing . 
+ 
+
+iii 
+ ABSTRACT  
+MUHAMMAD ASYGAR FAERUDDIN . Implementation of Deep Learning Using 
+Hybrid Sentence -Transformers and K -Means for Journal Comparison (Supervised 
+by Ir. Muhammad Faisal, S.SI., M.T., Ph.D., IPM., and Rizki Yusliana Bakti, S.T., 
+M.T.,).  
+The exponential growth of scientific publications challenges manual journal 
+comparison. This research implements an automated deep learning -based system 
+combining Sentence -Transformers and K -Means Clustering for semantic similarity 
+analysis. The method involves calculating cosine similarity scores from jo urnal 
+abstracts, which are then clustered using K -Means. Evaluation using the Elbow 
+Method, Silhouette Score, and DBI established four optimal similarity categories: 
+Not Relevant, Slightly Related, Moderately Related, and Highly Related. The 
+implemented sy stem can compare two journals with an average computation time 
+of 15.25 seconds, presenting the similarity score and its resulting classification. 
+Functional testing confirms the system is effective and efficient for comparative 
+journal analysis, significa ntly accelerating the literature review process for 
+researchers . 
+Keywords : Journal Comparison, Deep Learning, Sentence -Transformers, K -Means 
+Clustering, Semantic Similarity, Natural Language Processing.  
+ 
+

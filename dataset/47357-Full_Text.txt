@@ -1,0 +1,347 @@
+UNIVERSIT AS MUHAMMADIY AH MAKASSAR 
+2021 PROGRAM STUD I TEKNIK ELEKTRO 
+FAKUL TAS TEKNIK Oleh: 
+MUH.LUTHFI 
+10582142714 AHMAD FAUSAN 
+10582142914 SKRIPSI 
+ANALISIS PENENTUAN BESARNY A ARUS NOMINAL PENGAMAN LEBUR 
+TERHADAP KAP ASITAS MOTOR POMP A EJEKTOR DAN POMP A 
+DISTILASI P ADA PRODUKSI AIR LAUT MENJADI AIR TA WAR 
+
+2 3)03/2-erl,1 - i~ 
+ff OtJ9s-/ f3'l57 '11 aP 
+PAtA 
+a1 PADA 
+UNIVERSIT AS MUHAMMADIY AH MAKASSAR 
+2021 MUH.LUTHFI 
+10582142714 AHMAD FAUSAN 
+10582142914 Disusun dan diajukan oleh Skripsi 
+Diajukan sebagai salah satu syarat 
+Untuk memperoleh gelar Sarjana Teknik 
+Program Studi Teknik Elektro 
+Jurusan Teknik Elektro 
+Fakultas Teknik ANALISIS PENENTUAN BESARNY A ARUS NOMINAL PENGAMAN LEBUR 
+TERHADAP KAP ASIT AS MOTOR POMP A EJEKTOR DAN POMP A 
+DISTILASI P ADA PRODUKSI AIR LAUT MENJADI AIR TA WAR 
+
+. ": 8'1:;l ~. ' 
+f Adr1 ·, .. , M.T. 
+NBM : 1044 202 Ketua Prodi T eknik Elektro Mengetahui , Rizal Ahdiyat Duyo, S.T., M.T ~'j~ 
+Dr. Eng. Ir. Zulfairi Basri Hasanuddin, M. Eng Pembimb ing II Pembimbing I Telah Diperiksa dan Disetujui 
+Oleh Dosen Pembimbing ; 105 82 1427 14 : 105 82 1429 14 Stambuk Nama : AHMAD FAUSAN 
+MUH .LUTHFI Judul Sk ripsi : ANALIS PENENTUAN BESARNYA ARUS NOMINAL PENGAMAN LEBUR 
+TERHADAP KAPASITAS MOTOR POMA EJEKTOR DAN POMPA 
+DISTALASI PADA PRODUKSI AIR LAUT MENJADI AIR TAWAR Universitas Muhammadiyah Makassar . Sarjana Teknik (ST) Program Studi Teknik Elektro Jurusan Teknik Elektro Fakultas Teknik NBM : 855 500 Tugas Akhir ini diajukan untuk memenuhi syarat ujian guna memperoleh gelar 
+Makassar , 09 Maret 2021 HALAMANPENGESAHAN GEDUNG MENARA IQRA LT. 3 
+JI. Sultan Alaudd n No. 259 Telp. (0411) 866 972 Fax (04! 1) 865 588 Makassar 90221 
+Website : www.urnsmuh ac.id, e-ma I : untsmun uamdil.com K TE LT K F UNIVERSITAS MUHAM ADIYAH MAKASSAR 
+
+Ir. Hamzah Al lmran, ST., MT. IPM / 
+NBM : 855 500 Rizal Ahdiyat Duyo, S.T. 1 M.T Mengetahui : 3. Dr. Ir. Hj. Hafsah Nirwana ,M.T 3. Anggota : 1. Dr. Ir. Zahir Zainudd in,M.Sc. 
+2. Adriani , S.T., M.T b. Sekerta ris : Anugrah , ST.,MT : .. J ... 
+:~ . : Dr. Umar Katu, S.T.,M.T a. Ketua 
+Pemb imbing II 
+Dr. En Panitia Ujian : 
+1. Pengawas Umum 
+a. Rektor Universitas Muhammad iyah Makassar 
+Prof. Dr. H. Ambo Asse , M.Ag 
+b. Dekan Fakultas Teknik Universitas Hasanudd in 
+Dr. Ir. H. Muhammad Arsyad Thaha , M.T 
+2. Penguj i: 22 Februari 202 1 M 10 Rajab 1442 H Makassar , Skripsi atas nama AHMAD FAUSAN dengan nomor induk Mahasiswa 105 82 1429 14 dan MUH . 
+LUTHFI dengan nomor induk Mahasiswa 105 82 1427 14, dinyatakan diterima dan disahkan oleh 
+Panitia Ujian Tugas Akhir/Skrips i sesua i dengan Surat Keputusan Deka n Fakultas Tekn ik 
+Universitas Muhammad iyah Makassar Nomor : 0002/SK -Y/2020 1/091004/2021 , sebaga i salah 
+satu syarat guna memperoleh gelar Sarjana Teknik pada Program Stud i Tekn ik Elektra Jurusan 
+Teknik Elekt ra Fakultas Teknik Universitas Muhammadiyah Makassar pada hari Sabtu tangga l 20 
+Februari 2021. PENGESAHAN GEDUNG MENARA IQRA LT. 3 
+JI. Sultan Alauddin No. 259 Telp. (0411) 866 972 Fax (0411) 865 588 Makassar 90221 
+Website : www.unismuh.ac.id, e-mail : unismuh@gmail.com 
+Website : http://teknik.unismuh .makassar.ac.id FAKUL TAS TEKNIK UNIVERSITAS MUHAMMADIYAH MAKASSAR 
+
+Kata kunci ; Arus , Motor, Pomp a, Ejektor , Dan Distalasi Abstrak: Ahmad Fausan dan Muh , Luthfi (2021) Analisi s Penentuan 
+Besamya Arus Nominal Pengaman Lebur Terhadap Kapas itas Motor Pompa 
+Ejektor Dan Pompa Distalasi Pada Produksi Air Laut Menjadi Air Taw ar 
+dibimbing oleh DR. Eng. Ir H. Zulfajri Basri Hasanuddin , M.Eng, Riza l A 
+Duyo, S.T,. M.T. Adapun tujuan dari pada penelitian ini adalah , Untuk 
+mengetahui sistem pompa pada pengelolaan air laut menjadi air tawar. 
+Untuk mengetahui daya motor yang digunakan untuk pompa pada 
+pengelolaan air laut menjadi air tawar dan Untuk mengetahui perhitun gan 
+untuk arus pemutus daya dan pengaman lebur motor pompa pada 
+pengelolaan air laut menjadi air tawar. Metode yang dipergunakan pada 
+penelitiann ini adalah mengadakan penelitian dan pengambilan data di fresh 
+water Generator BPLP Makas sar. Hasill yang didapatkan pada penelitian ini 
+adalah. Pomp a distil asi berfung si untuk menghisap air distilasi atau air 
+sulingan yang sudah diproses kemudian dipompakan pada tangki-tan gki 
+penampungan air tawar yang sistim operasi bekerjanya setelah pompa 
+ejektor bekerj a. Motor yang digunakan pada pompa ejekt or dan pompa 
+distilasi adalah motor induksi tiga phasa . Sesuai dengan basil perhitungan 
+daya motor yang digunakan , untuk pompa ejektor 3,891 KW dan untuk 
+pompa distilasi 0,473 KW. Hasil dari perhitungan sudah sesuai dengan data 
+yang ada yaitu untuk pomp a ejektor 3, 7 KW dan untuk pompa distilasi 0,4 
+KW. Salinity alarm berfungsi untuk mendeteks i kadar garam pada air 
+distilasi. ABSTRAK Email: Uppy.crx @gmai .com E mail: AhmadFau san4@gmail.com 
+2Prodi Tektik Elektro Fakultas Teknik Unismuh Mak assar 'Prodi Tektik Elektro Fakultas Teknik Unismuh Makas sar Ahmad Fausan 1 .Muh. Luthfi 2 
+
+Keywords ; Current, Motor, Pump , Ejector and Distalation Abstract: Ahmad Fausan and Muh , Luthfi (2021) Anal ysis of Determinati on 
+of the Nominal Flow of Melting Safety Against the Motor Capaci ty of 
+Ejector Pump s and Distalation Pumps in th e Production of Seawat er into 
+Freshwat er, guid ed by DR. Eng. Ir H Zulfajri Basri Hasanuddin , MEng, 
+Rizal A Duyo , S. T,. MT The purpose of this study is, To determin e the 
+pump system in the mana gement of sea water into fresh water. To find out 
+the motor power used for pump s in the mana gement of sea water into fresh 
+water and to find out the calculations for the power breaker current and the 
+safety of the pump motor melting in the manag ement of sea water in to fresh 
+water. The method used in this research is to conduct research and collect 
+data in the fresh water generator BPLP Maka ssar. The results obtain ed in 
+this study are. The distillati on pump functions to suck distill ed water or 
+distilled water that has been proc essed and then pump ed into fresh water 
+storage tanks whose operating system operat es after the ejector pum p 
+works . The motor used in the ejector pump and the distillati on pump is a 
+three-phase induction motor. In accordance with the calculation results of 
+the motor power u sed,f or the ejector pump 3,891 KW andfor the 0.473 KW 
+distillation pump . The results of the calculations are in accordanc e with 
+existing data, namely for the ejector pump of 3. 7 KW and for the 0. 4 KW 
+distillation pump . Salini ty alarm is used to detect salinity in distilled water. ABSTRACT Ahmad Faus an1.Muh. Luthfi 2 
+'Product of Electrical Engineering , Faculty of Engineering , Unismuh, 
+Makassar 
+mail: AhmadFausan4 @gmail .com 
+2Product of Electrical Engineering, Faculty of Engin eering , Unismuh, 
+Makassar 
+Email: Uppy.crx@gmai .com 
+
+iv Teknik Universitas Muhammadiyah Makassar. 2. Thu Adriani, ST, MT., sebagai Ketua Jurusan Teknik Elektro Fakultas Universitas Muhammadiyah Makassar. 1. Bapak Hamzah Al Imran, ST, MT. sebagai Dekan Fakultas Teknik dari berbagai pihak. Oleh karena itu dengan segalan ketulusan dan kerendahan hati, 
+Jami mengucapkan terima kasih dan penghargaan yang setinggi-tingginya kepada : Skripsi ini dapat terwujud berkat adanya bantuan, arahan, dan bimbingan terdapat kekurangan-kekurangan, hal ini sdisebabkan penulis sebagai manusia 
+Jiasa tidak lepas dari kesalahan dan kekurangan baik itu ditinjau dari segi tehnis tulis maupun dari perhitungan-perhitungan. Oleh karena itu penulis menerim 
+dengan ikhlas dan senang hati segala koreksi serta perbaikan guna penyempurnaan 
+lsan ini agar kelak dapat bermanfaat. Penulis menyadari sepenuhnya bahwa dalam penulisan skripsi ini masih Rahmat dan HidayahNyalah sehingga penulis dapat menyusun skripsi ini, dan 
+lpat kami selesaikan dengan baik. l 
+Tugas akhir ini disusun sebagai salah pensyaratan akademik yang hams 
+ttempuhdalam rangka penyelesaian program studi pada Jurusan Elektro Fakultas 
+I 
+Teknik Universitas Muhammadiyah Makassar. Adapun judul tugas akhir adalah : I 'jAnalisis Penentuan Besarnya Arus Nominal Pengaman Lebur Terhadap f apasitas Motor Pompa Ejektor Dan Pompa Distalasi Pada Produksi Air Laut 
+Menjadi Air Tawar" Syukur Alhamdulillah penulis panjatkan ke hadirat Allah SWT, karena KATA PENGANTAR 
+
+v Penulis Makassar,29 januari 2021 · sisi Allah SWT clan skripsi yang sederhan ini dapat bernabfaat bagi penulis, 
+tkan-rekan, masyarakat serta bangsa dan Negara. Amin. Semoga semua pihak tersebut di atas mendapat pahala yang berlipat ganda membantu dalam menyelesaikan tugas akhir ini. angkatan 2014 (vector) yang dengan keakraban clan persaudaraan banyak 6. Saudara-saudaraku serta rekan-rekan mahasiswa fakultas teknik terkhusus pengorbanan terutam dalam bentuk materi dalam menyelesaikan kuliah. yang sebesar-besamya atas segala limpahan kasih sayang, doa clan 5. Ayahanda dan Ibunda yang tercinta, penulis mengucapkan terima kasih belajar mengajar di Universitas Muhammadiyah Makassar. waktunya telah mendidik clan melayani penulis selama mengukiti proses 4. Bapak dan ibu dosen serta stap pegawai pada fakultas teknik atas segala banyak meluangkan waktunya dalam membimbing kami. clan Bapak Rizal A Duyo, S.T,. MT, selaku Pembimbing II, yang telah 3. Bapak. DR. Ir H Zulfajri Basri Hasanuddin, M.Eng, Selaku Pembimbing .J 
+
+vi G. Fuse 18 F. NFB (No Fuse Breaker) 17 E. Lampu Indikator 16 D. Transfonnator 13 C. Pompa 11 B. Starting Motor-motor Listrik 9 A. Motor Asinkron 6 BAB II TINJAUAN PUSTAKA 6 G. Sistematika Penulisan 4 F. Metode Pembahasan 4 E. Manfaat enulisan 3 D. Batasan Masalah 3 C. Tujuan Penulisan 3 B. Rumusan Masalah 2 A. Latar Belakang Masalah 1 Daftar Gambar ix 
+i BAB I PENDAHULUAN l Halaman Jodul. . i 
+I Halaman Pengesahan ii I ... Abstrak 111 
+I Kata Pengantar 1v 
+l 
+Daftar isi vt DAFTARISI 
+
+Vil DAFT AR PUST AKA 5 I 
+I LAMP IRAN 
+I LEMBAR ASISTENSI B. Saran-saran 50 A. Kesimpulan.. 49 BAB IV PENUTUP 49 Pemutus Daya dan Pengaman Lebur 4 7 E. Perhitungan Besamya Arus Nominal (In) motor, KHA Utama, D. Perhitungan Daya Motor 45 C. Deskripsi dan Analisa Kerja 35 BAB IV BASIL PENELITIAN DAN PEMBAHASAN 31 I A. Data Hasail Penelitian 31 
+B. Sistem Kelistrikan 3 I C. Gambar Blok Diagram 29 B. Metode Penelitian 27 A. W aktu dan I em pat .•.....•..•.......•.•...•......•...........•.....•..•.....•.••.....•..•..... 27 BAB ID METODOLOGI PENELITIAN 27 L. Kabel 25 K. Dioda 24 J. TOR (Thermal Overload Relay) 22 I. Magnetik Kontaktor .. 19 H. Push Button 19 ·-~--,.-~------ -----------,--- ------ --·- -- -- - ,- .- 
+
+viii 2.3 Rangkaian Daya Starting Y - A 10 I 
+2.4 Pompa Sentrifugal 12 I 2.5 Konstruksi Kontraktor 21 
+I 2.6 Simbol TOR dan Pengawatannya 22 I 2. 7 TOR dengan be ban motor 22 I 
+2.8 Simbol dioda dan aliran arus listriknya 23 I 
+2.9 Simbol dan arah arus listriknya pada dioda zener 23 I 2.10 Simbol dan arah arus Tirrysitor 24 dengan saklar Y - A 9 I am.bar Teks Halaman 
+2.1 Rangkaian Motor Induksi rotor lilitan 8 I 
+2.2 Rangkaian motor induksi rotor sangkar yang dihubungkan DAFTAR GAMBAR -- - ·-·-··-- ----~- 
+
+l mencapai pelabuhan tujuan memerlukan waktu berhari-hari bahkan 
+[ Kebutuhan akan air tawar sangat terasa sekali diatas kapal dimana untuk seisin juga bahan bakar, bahan makanan, perlengkapan kerja dan sebagainya. Air 
+bwar di kapal digunakan untuk memenuhi kebutuhan di dapur, minum, man.di dan 
+lebagainya. Salah satu kebutuhan pokok dalam pengoperasian di kapal adalah air tawar menggunakan motor - motor penggerak untuk motor produksi seperti motor listrik. 
+I Pengontrolan motor dapat dilakukan dari yang sangat sederhana sampai pada 
+I. I uku . sistem pengontro an yang c p rumit Perkembangan teknologi dibidang industri banyak sekali yang usaha diberbagai bidang. Dengan dairy kemajuan tersebut, sehingga memberikan 
+I kemudahan kepada seluruh umat manusia baik itu di darat, udara maupun di laut 
+I Salah satu saran.a yang ada di laut adalah kapal yang merupakan penghubung antara 
+latu pulau dengan pulau lainnya. Berkembangnya ilmu pengetahuan dan tehnologi mendorong majunya meningkatkan kualitas dan kuantitas dari basil produksi serta mengurangi biaya 
+lroduksi. Pengontrolan otomatis dapat juga menghindari pekerjaan - pekerjaan 
+ktin yang: sebenarnya hams dikerjakan oleh manusia dan mengurangi kebosanan 
+tang sering terjadi pada operator. Dengan perkembangan pengontrolan otomatis untuk berbagai sistem dapat A. Latar Belakang Masalah PENDAHULUAN BABI -- 
+
+2 tentunya dapat teratasi clan dapat clikurangi. kesalahan-kesalahan operasi yang ditimbulkan oleh beberapa variabel itu dengan menggunakan kontrol otomatis yang lebih presisi, 2. Karena terdapat hubungan timbal balik antara beberapa variable,untuk efektif. sangat mementukan pada penggunaan motor dan pompa listrik: yang menggunakan besarnya arus nominal terhadap system kelistrikan 1. Penggunaan motor dan pompa terhadap sistem yang kompleks dengan Adapun Rumusan masalah pada tugas akhir ini adalah: mengolah air laut menjadi air tawar yang disebut "Fresh Water Generator". Salah 
+Jatu ilmu keteknikan yang menunjang dalam pengoperasian alat ini adalah alat 
+1lstrik:. Untuk itu, kami tertarik untuk meneliti/mengetahui sejauh mana peranan 
+I ilmu kelistrikan dalam pengoperasian "Fresh Water Generator". 
+I B. Rumusan Masalah Mengingat hal tersebut, maka diciptakan suatu peralatan yang dapat ,enninggu-minggu lamanya untuk melakukan proses bongkar muat den selama di 
+pelabuhan tersebut diadakan pengisian air tawar langsung dari darat ke 
+Lgki-tangki air tawar di kapal . Bilamana kapal akan berlayar lebih jauh dan 
+lembutuhkan waktu lama, maka kapal tersebut harus mampu menampung air 
+4war yang berjumlah sangat besar. Hal inilah tentunya akan mengurangi jumlah 
+luatan yang bisa diangkut oleh kapal. 
+
+3 1, I (laundry) dapur, mandi dan pemakaian di mesin. memenuhi kebutuhan-kebutuhan ke akomodasi, air ketel, tempat pencucian 1. Oleh karena tersedianya arus listrik di industri yang digunakan untuk Manfaat penulisan tugas akhir ini adalah : E. Manfaat penulisan lebur. - Perhitungan besamya ams Nominal, KHA utama, Pemutus daya dan pengaman - Perhitungan daya motor untuk pompa destilasi. Prinsip kerja sama sistem kelistrikan pada Panel Utama dan Salinity alarm, D. Batasan Masalah l Untuk memperoleh penulisan yang baik, maka perlu diperjelas dan 
+I tentukan batasan masalah. Hal ini bertujuan untuk menghindari pembahasan yang 
+keluar dari masalah penulisan yang sebenarnya. Batasan masalah penulisan tugas 
+I · ini adalah = motor pompa pada pengelolaan air laut menjadi air tawar. - Untuk mengetahui perhitungan untuk arus pemutus daya dan pengaman lebur air laut menjadi air tawar -_1 Untuk mengetahui sistem pompa pada pengelolaan air laut menjadi air tawar. 
+Untuk mengetahui daya motor yang digunakan untuk pompa pada pengelolaan Adapun tujuan penulisan tugas akhir ini adalah sebagai berikut: C. Tujuan Penulisan 
+
+4 masalah,tujuan penulisan,batasan masalah,manfaat penulisan dan metode 
+lembahasan dan sistematika penulisan. 
+i BAB II TINJAUAN PUST AKA 
+l Dalam bab ini akan dibahas mengenai latar belakang masalah, rumusan BABIPENDAHULUAN Adapun sistematika dari penulisan tugas akhir ini adalah sebagai berikut: G. Sistematika Penulisan Water Generator". Metode ini merupakan pembahasan dari prinsip kerja kelistrikan "Fresh 3. Metode Pembahasan/ Analisa Data orang yang lebih memahami tentang masalah yang dibahas. diperlukan melalui peninjauan langsung ke Iokasi dan mengkonsultasikan pada Metode yang digunakan untuk mencari dan mengambil data yang 2. Metode Observasi/Diskusi berbagai bukti yang ada hubungannya dengan masalah yang dibahas. Metode ini digunakan untuk mencari dan menyajikan teori ilmiah dari pembahasan, yaitu : 
+I 1. Metode Literatur Dalam penyusunan tugas akhir ini, penulis menggunakan beberapa metode F. Metode Pembahasan efisien system kontrolnya. Industri efisien karena masih ada industri yang masih sederhana dan kura.ng 2. Oleh karena tersedianya penampung sehingga arus listrik menjadikan 
+
+5 Bab ini merupakan penutup yang berisiskan kesimpulan dan saran -saran . I otor dan perhitungan besarnya ams nominal (In) motor , KHA utama . langkah-langkah penelitian , dan gambar blok diagram. I BAB IV BASIL PENELITIAN DAN PEMBAHASAN 
+l Dalam bab ini akan dibahas tentang basil penelitian, perhitungan dan 
+embahasan tentang sistem kelistrikan deskripsi dan analisa kerja, penentuan daya Dalam metodologi penelitian dibahas tentang lamanya penelitian . Tempat, asinkro, starting motor-motor listrik, pompa, transformator, lampu indikato t, NFB t Fuse Breaker), fuse, push buttom, magnetic kontaktor, TOR (Thermal 
+I erload Relay) dan diode. 
+BAB ill METODOLIGI PENELITIAN Dalam bab ini akan dibahas mengenai landasan teoritis tentang motor 
+
+6 medan putar (fluks yang berputar) yang dihasilkan dalam kumparan statomya . I 
+Medan putar ini terjadi apabila kumparan stator dihubungkan dalam fasa banyak, I ~ . umumnya rasa tiga. Perputaran motor pada mesin arus bolak:-balik clitimbulkan oleh adanya motor induksi dengan rotor sangkar. Dikenal dua tipe motor induksi, yaitu motor induksi dengan lilitan dan Belitan stator yang dihubungkan dengan sumber tegangan tiga fasa akan 
+menghasilkan medan magnet yang berputar dengan kecepatan sinkron, Medan I lutar pada stator tersebut akan memotong konduktor-konduktor pada rotor, 
+sehingga terinduksi arus. Perbedaan putaran relatif antara stator dan rotor clisebut 
+Jlip. Bertambahnya beban, akan memperbesar kopel motor dan oleh karenanya L memperbesar pula ams induksi pada rotor, sehingga slip antara medan putar 
+ltator dan putaran rotor akan bertambah besar. Jadi bila beban motor bertambah , I maka putaran rotor cenderung menurun. Holak balik (AC) yang paling luas penggunaannya. Penamaannya berasal dari 
+Jenyataan bahwa rotor motor ini bukan diperoleh dari sumber tertentu, tetapi 
+Lerupakan arus yang terinduksi sebagai ak:ibat adanya perbedaan relatif antara 
+Jutaran rotor dengan medan putar yang clihasilkan oleh arus stator. Motor Asinkron clisebut juga motor induksi. Motor Induksi merupakan arus • Motor Asinkron TINJAUAN PUSTAKA BAB II 
+
+7 Prinsip Kerja Motor Asinkron 
+Prinsip kerja motor asinkron tiga fasa adalah sebagai berikut : 
+- Apabila sumber tegangan tiga fasa dipasang pada kwnparan stator akan 
+timbul medan putar dengan kecepatan Ns = 120f/p . 
+- Medan putar stator tersebut akan memotong batang konduktor pada rotor, 
+sehingga pada kumparan rotor timbul tegangan induksi (gagal). 
+- Karena kumparan rotor merupakan rangkaian yang tertutup, maka gagal 
+akan menghasilkan arus. Adanya arus dalam medan magnet menimbulkan 
+gaya pada rotor. 
+- Bila kopel mula yang dihasilfcan oleh gaya pada rotor yang cukup besar 
+untuk memikul kopel beban, maka rotor akan berputar searah dengan 
+medan putar stator. 
+- Agar tegangan terinduksi diperlukan adanya tegangan relatif antara 
+kecepatan medan putar stator dengan kecepatan berputar rotor. 
+- Bila kecepatan berputar rotor sama dengan kecepatan medan putar stator , 
+maka tidak akan terinduksi dan arus tidak mengalir pada kumparanjangkar 
+rotor, dengan demikian tidak dihasilkan kopel. Kopel motor akan 
+ditimbulkan apabila kecepatan putar rotor Iebih kecil dari kecepatan putar 
+stator. 
+- Dilihat dari cara kerjanya motor induksi disebut juga dengan motor tak 
+serempak atau motor asinkron. 
+
+8 pun murah. Karena konstruksinya pun demikian, padanya tidak mungkin dibandingkan dengan rotor mesin listrik lainnya. Dengan demikian harganya menyerupai sangkar tupai. Konstruksi rotor ini sangat sederhana bila dari beberapa batang konduktor yang disusun sedemikian rupa sehingga Motor induksi jenis ini mempunyai rotor dengan kumparan yang terdiri 3. Motor Induksi dengan Rotor Sangkar Gambar 2.1 Rangkaian motor induksi dengan rotor lilitan dan tahanan luar. n _ 
+.~-RI . m .. ,w, -··~ r~ lsimES=B lWJ ~ 
+S'P 11119 -\w-J 
+T ,1-..,11;in lua, (R,J kecepatan motor dapat diatur. mula yang besar pada start, disamping itu dengan mengubah tahanan luar, kopel mula yang besar, tahanan luar ·tadi diperlukan untuk membatasi arus dapat diatur ini dihubungkan ke rotor melalui cincin. Selain utuk menghasilkan memungkinkan penambahan (pengaturan) tahanan luar. Tahanan luar yang yang besar memang diperlukan pada waktu Motor induksi dengan rotor lilitan dapat membuat kopel mula mencapai harga kopel maksimwnnya. Kopel mula jumlah kutub yang sama. Penambahan tahanan luar sampai harga tertentu, fasa sama dengan kumparan stator. Kumparan stator dan rotor juga mempunyai Motor induksi jenis ini mempunyai rotor dengan belitan kumparan tiga 2. Motor induksi dengan motor lilitan 
+
+9 kopel mulanya. Cara ini biasanya digunakan untuk motor-motor dengan Pada saat starting arus mulanya sangat besar, begitu juga dengan jala-jala sepenuhnya dihubungkan langsung pada jepitan motor. Starting dengan cara ini adalah yang paling sederhana, dimana a. Starting dengan Direct On Line (DOL) :Z. Jenis-Jenis Starting keadaan diam hingga berputar pada kecepatan kerja. Starting adalah suatu proses yang mengakibatkan motor beroperasi dari ~- Starting Motor-Motor Listrik 
+~1 lr 1. Pengertian StartinglPengasutan Motor, Gambar 2.2 Rangkaian motor induksi rotor sangkar yang dihubungkan dengan 
+saklar bintang-segitiga (61 (11) berkurangnya kopel mula tersebut. mula. Motor jenis ini sangkar ganda dapat digunakan untuk meng atasi bintang-segitiga. Tetapi berkurangnya arus akan berakibat berkurangnya kopel dikurangi dan biasanya digunakan auto transformator atau saklar Untuk membatasi arus mula yang besar, tegangan swnber hams belitan . diberikan pengaturan tahanan luar seperti pada motor induksi dengan motor 
+
+10 kecil clibanding starting Direct On Line. terbakar, dengan pengasutan tersebut, maka arus awal terjadi 1, 73 kali Iebih mencapai 7 x arus nominal motor yang dapat menyebabkan gulungan motor adalah untuk mengurangi arus mula (starting current) yang besarnya Adapun tujuan dan pengasutan dengan sistem bintang segitiga timer. untuk memindahkan hubungan dari bintang ke segitiga melalui sebuah Pada umumnya alat start ini dilengkapi dengan magnetic contactor adalah maksimal 15 detik (sesuai dengan ketentuan SOLAS). berpindah dalam hubungan segitiga. Interval waktu antara kedua sistem ini lilitan motor selama periode start dalam hubungan bintang kemuclian tersirat dalam namanya, climulai dengan menghubungkan ujung Gambar 2.3 Rangkaian daya starting Bintang Segitiga 
+Starting dengan bintang segitiga seperti ; ' 1, ~ :i . 
+I ,~ :: 'i' . . 
+. lli !]1 ~J~~-=---- 
+1 1-H:::tf=::.=::=-_ ·-------:::=;-J, 1, ••• 1-,Y. · l .. , r: ,::·r:-:-i "'1 K 3 ,-.L. ._ . .t:.... I· \' •.•.• ,. I • ····~ • \') .,, 1•) • ~i.,. • t!, I),,!, I ... 
+I •. ._., ..... ~ ... -., .... - ····~:::.J'I' , ~·-~··r-·~-/14 · , l , , c · · r , ·, I} !;, •·r L, •?.. R : ..... ,.... !'··:rrj··· Kl ~·,cf=l\.J -==.:!:J-··-r K2 
+· J ) ~ !Ci! ] } ] 1Con1Gkl0t r r L,__dd-J · o~;;:_J b. Pengasutan dengan Bintang Segitiga ( Y - A) (TOR) , yang cliserikan dengan koil magnetik kontaktor. dengan cara DOL umumnya dilengkapi dengan Thermal Overload Relay daya yang kecil sampai dengan 2 HP menurut ketentuan solas, starting 
+
+11 pompa yang berbentnk volut (spiral) di sekeliling impeler dan disalurkan I I ,[ 
+ii Zat cair yang keluar dari impeler ditampung oleh saluran rum ah Disini tekanan dan kecepatannya menjadi lebih meningkat. cair mengalir dari tengah impeler melalui saluran di antara sudu-sudu. dorongan sudu-sudu ikut berputar. Karena timbul gaya sentrifugal, maka zat impeler di dalam zat cair. Maka zat cair yang didatara impeler, oleh Daya dari luar diberikan .kepada poros pompa untuk memutar ke tempat yang tinggi. pompa yang berfungsi untuk mengangkat zat cair dari tempat yang rendah sebuah impeler (baling-baling) tunggal yang berputar di dalam rumah dioperasikan dengan bagian isap yang tergenang air. Pompa ini mempunyai Pompa yang digunakan adalah pompa Sentrifugal, pompa ini 2. Jenis Pompa untuk mengkonversikan energi mekanik ke energi zat cair (fluida). Pompa adalah merupakan suatu alat atau mesin yang digunakan ~· Pompa 
+I 
+I ' 1. Pengertian Pompa In= PN Cos 0 . .../3 (2.2 ) - Untuk arus nominal (In) P = .../3. V.I. Cos 0 (2.1) - Untuk motor induksi 3 Phasa. pada pengoperasian pompa dapat digunakan rumus sebagai berikut: Adapun untuk menghitung besarnya daya motor yang digunakan 
+
+12 PM= Daya motor pompa (KW) 
+PP = Daya poros pompa (KW) Pp=(Ph)/P 
+Ph= (0,163)(Q)(H)(p) dimana: Pompa sentrifugal mampu memindahkan volume cairan yang besar 
+tanpa tergantung pada kutub atau ruang antar yang halus dan pompa ini 
+dapat bekerja pada katub keluaran tertutup tanpa peningkatan tekanan yang 
+lebih tinggi. 
+Kerugian pompa sentrifugal, yaitu ; 
+- Tekanan keluaran terbatas 
+M Tekanan mampu priming sendiri 
+Daya dan pompa sentrifugal yang digunakan untuk memindahkan 
+fluida, dapat dihitung dengan menggunakan rumus : 
+PM= Pp (1 + A) I ( 1'), p. T). k) ..... Persamaan 2.3 Gambar 2.4 Pompa Sentrifugal Pompa S.mrl!up keluar pompa melalui keluaran (nosel), Di dalam nose! ini sebagian 
+kecepatan aliran diubah menjadi tekanan. 
+
+13 transformator dapat dibedakan atas: Berdasarkan perubahan tegangannya pada saat pemindahan daya, 1. Berdasarkan Perubahan Tegangan c. Jumlah fasanya. b. Sistem pendinginnya a. Perubahan tegangan K.lasifikasi transformator dapat dibedakan antara lain berdasarkan atas: :frekuensi. Dalam proses pemindahan daya ini umumnya disertai dengan perubahan mentransformasikan daya bolak balik ke daya bolak balik lainnya tanpa mengubah Transformator adalah suatu alat listrik yang berfungsi untuk D. Transformator 0,2 untuk motor bakar besar, 0,25 untuk motor bakar kecil. A= Faktor yang bergantungjenis motor 0,1 sampai 0,2 untuk motor listrik, langsung 0,9 sampai 0,95 untuk ban mesin dan roda gigi. nk = Efisiensi hubungan poros dengan nilai; I untuk poros yang dikopel TIP = Efisiensi pompa p = Massajenis air (kg/liter) H = Total head (meter) Ph = Daya hidraulik pompa (KW) 
+Q = Kapasitas pompa (m3/menit) 
+! tegangan . 
+Ji 
+
+14 Keuntungannya: a. Untuk Transformator Satu Fasa kelebihan clan kekurangan, antara lain : Kedua transformator tersebut, dalam penggunaannya mempunyai atas transformator satu fasa dan transfonnator tiga fasa. Berdasarkan jumlah fasanya transfonnator tersebut dapat dibedakan 3. Berdasarkan Jumlah Fasanya pemakaian tegangan tinggi clan kapasitas besar. sebagai jenis pendinginnya. Pada umumnya dari jenis ini dirancang untuk Type Transformer). Transformator jenis kering yang mempergunakan minyak penggunaannya di kapal laut oleh BK.I adalah transformer jenis kering (Dry Berdasarkan sistem pendinginnya, transformator yang diijinkan 2. Berdasarkan Sistem Pendinginnya yang digunakan di kapal laut adalah step-down transformer. Dan kedua transformator tersebut diatas, pada umumnya transformator rendah. tegangan tertentu clan memindahkan energi tersebut ke tegangan yang lebih b. Step Down Transformer, yaitu transformator yang menerima energi pada tinggi. tegangan tertentu clan memindahkan energi tersebut ke tegangan yang lebih a. Step Up transformer, yaitu transformator yang menerima energi pada 
+
+15 dengan operasi-operasi motor-motor listrik adalah lampu indikator. Disamping 
+l · gkai k 1 . I ak . . pengoperasian suatu ran an ontro yang rumit per u menggun an orientasi 
+aJu penandaan pada posisi tertentu, misalnya pad.a saat arus mengalir di dalam 
+l gkai al . Tran man meng rum gangguan. Salah satu instrumen penting pad.a industri-industri yang erat kaitannya peletakan transformer tersebut, serta volume ruang yang tersedia. diperhitungkan kemungkinan pergeseran titik berat kapal sebagai akibat laut, maka selain hal-hal yang telah disebutkan di atas juga harus Pemilihan kedua transformer tersebut untuk digunakan pad.a kapal - Tidak dapa t mentransformasikan daya dengan si stem open delta. - Bila diperlukan instalasi cadangan, memerlukan biaya yang tinggi. Kerugiannya: - Lebih ringan dari transformator satu fasa pad.a kapasitas yang sama - Keandalan lebih tinggi - Pemasangan lebih mudah dan cepat Keuntungan: b. Untuk transformator Tiga Fasa - Harganya lebih mahal Kerugiannya: dengan sistem open delta (V-V). mengalami gangguan, maka fasa yang lain masih dapat beroperasi - Dapat dirangkai sedemikian rupa sehingga bila salah satu fasa 
+E. Lampu lndikator 
+
+- Lampu indikator warna Kuning 
+Lampu ini menandakan peringatan atau butuh perhatian. 
+- Lampu indikator warn.a Hijau 
+Lampu ini menandakan bahwa rangkaian dalam keadaan beroperasi 
+- Lampu indikator wama Putih. 
+Lampu ini menandakan bahwa rangkaian dalam keadaan beroperasi normal. 
+F. NFB (No Fuse Breaker) 
+Pengaman ini tidak banyak berbeda dengan pengaman mini Circuit 
+Breaker, bila ditinjau dari si stem clan prinsip kerjanya . Perbedaannya terletak pada: 
+- Range dari kapasitas yang tersedia, dimana MCB antara 0,5 sampai 63 Ampere, 
+sedangkan pada NFB antara 10 sampai 400 Ampere. 
+- Konstruksi fisiknya. 
+16 Lampu indikator pada tegangan 220 Volt dengan besar arusnya 0,002 A 
+memberi tanda terhadap komponen-komponen yang digunakan. Adapun yang 
+memberi tanda berbagai keadaan yaitu kode-kode lampu sendiri, sehingga dengan 
+sendirinya kita dapat mengetahui wama lampu indikator dan jenis rangkaian 
+kontrol yang dilayaninya. Kode Iampu pada suatu rangkaian kontrol biasanya 
+terdapat beberapa lampu indikator, yaitu : 
+- Lampu indikator wama Merah 
+Lampu ini menandakan bahwa operasi berhenti atau dalam keadaan gangguan. Sering kita jumpai pada rangkaian kontrol yang mengalami gangguan 
+am suatu industri, dipasang lampu-lampu indikator yang terpasang pada panel 
+
+17 - Kapasitas pemutusan arus hubung singkat MCB antara 3 kA sampai IO kA dan 
+NFB antara 2,5 kA sampai 40 kA. 
+Beberapa contoh tipe NFB antara lain adalah: 
+- Tipe G 50 NFB 
+Mempunyai batas arus nominal antara 10 A - 50 A dan kapasitas pemutusan 
+arus hubung singkat 2,5 kA pada tegangan nominal 500 volt dan 5 kA pada 
+tegangan nominal 500 volt dan 5 kA pada tegangan nominal 220 Volt. 
+- Tipe G 100 NFB 
+Tipe ini mempunyai batas arus nominal antara 60 Ampere sampai 100 Ampere 
+dan mempunyai kapasitas pemutusan arus hubung singkat 7 ,5 kA pada 
+tegangan nominal 500 Volt sampai 10 kA pada tegangan 220 Volt. 
+- Tipe G 225 NFB 
+Tipe ini mempunyai batas arus nominal antara 125 Ampere sampai 225 Ampere 
+dan mempunyai kapasitas pemutusan arus hubung singkat antara 10 kA pada 
+tegangan 220 Volt. 
+- Tipe g 400 NFB 
+Mempunyai batas arus nominal antara 250 - 400 A dan mempunyai kapasitas 
+pemutusan arus hubung singkat antara 20 kA pada tegangan nominal 500 V 
+sampai 40 kA pada tegangan nominal 220 Volt. Untuk menghitung arus 
+pemutus daya (Intb) dapat digunakan rum.us : 
+lNFB = X% . In Motor 
+Karena motor diasut dengan sistim Y, maka X = 250 % 
+Maka INFB = 250 %. In Motor (2.4) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

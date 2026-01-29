@@ -1,0 +1,100 @@
+2020 FAKULT AS TEKNIK 
+PROGRAM STUDI TEKNIK ELEKTRO 
+UNIVERSITAS MUHAMMADIY AH MAKASSAR DISUSNOLEH 
+SYAHYUDD IN 
+10582 1535 15 AKMAL 
+10582 1525 15 PERANCANGAN PEMBANGKIT LISTRIK TENAGA SURYA UNTUK 
+PENGERING PADI BERBASISKAN RICE COOKER MACffi NE 
+
+2020 r1 
+UNIVE RSITAS MUHAMM ADIY AH MAKASSAR PRO GRAM STUD I TEKNIK ELEKT RO 10582 1535 15 10582 1525 15 SYAHYUD DIN AKMAL Disusun dan diajukan oleh Faku ltas Teknik Jurusan Teknik Elektro Progra m Studi Teknik Elektro Untuk mem peroleh gelar Sarja na Teknik Diajuka n sebagai salah satu syarat SKRIP SI 
+FAKULTAS TEKNI K PENGERING PADI BERBASISKAN RICE COOKER MAC HINE PERANCANGAN PEM BANGKIT LISTRIK TENAGA SURYA UNTUK 
+
+Dr. Ir. Hi. Hafsah Nirwana, M.T ------:+' " ~:J~' 
+Adriani, S.T.,M .T Telah Diperi ksa dan Disetujui 
+Oleh Dose n Pembimbing; Maka ssar, 20 Janu ari 2020 2. 105 82 1535 15 : 1. 105 82 1-525 1-5 Stambuk 2. Syahyuddin 
+Pembimbing II Pembimbing I Nama : 1. Akmal Judu l Skrips i : PERANCANGAN PEMBANGKIT LISTRIK TENAGA SURYA UNTUK 
+PENGERING PADI BERBASISKAN RICE COOKET MACHINE Unive rsitas Muhammadiyah Makassar . Teknik (ST) Program Studi Teknik Elektro Jurusa n Teknik Elektro Fakultas Teknik Tugas Akhir ini diajukan untuk memenuhi syarat ujian guna memperoleh gelar Sarjana ... ~~1 • ~~na,, ., , ~~J; ~ 
+HALAMANPENGESAHAN GEDUNG ME NARA IQRA LT. 3 
+JI. Sultan Alauddin No. 259 Telp. (0411) 866 972 Fax (0411) 865 588 Makassar 90221 
+Website : www.unismuh.ac.id , e_mail: ~lektroft@unismuh.ac.id 
+Website : http://teknik.unismuh.makassar .ac.id FAKULTAS TEKNIK ~··· .. -·,-·. -- ···-· ·-······--· . -·. ···-· - 
+
+• Dekan Adriani, S.T.,M .T Dr. Ir. Hj. Hafsah Nirwana, M.T Pembimbing II Pembimbing I 
+=-11-fL- Mengetahui : 3. Rahman ia, S.T.,M.T 2. H. Antarissubhi , S.T. ,M.T b. Sekertaris a. Ketua Panitia Ujian : 
+1. Pengawas Umum 
+a. Rektor Universita s Muhammadiyah Makassar 
+Prof. Dr. H. Abdul Rahman Rahim , SE., MM. 
+b. Dekan Fakultas Tek nik Univer sitas Hasanudd in 
+Dr. Ir. H. Muh. Arsyad Thaha, M.T 
+2. Pengu ji 25 Jumadi l Awai 1441 H 
+20 Januari 2020 M 
+~-i-,.( • Makassar, 
+: 1. Dr. Umar Katu, S.T.,M.T 3. Anggota Skripsi atas nama Akmal denga n nomor induk Mahasiswa 105 82 1525 15 dan Syahyuddin 
+I,. dengan nomor induk Mahasiswa 105 82 1535 15, dinyatakan diterima dan disahkan oleh Panitia 
+Ujian Tugas Akhir /Skrips i sesua i dengan Surat Keputusan Dekan Faku ltas Teknik Universitas 
+Muhammadi yah Makassar Nomo r : 0002 /SK-Y/20201 /091004 /2020 , sebaga i salah satu syarat 
+-guna-memp eroleh-gela r-8-arj ana Te knik pada Program Studi Teknik Elektro Jurus an Teknik Elektro 
+Fakultas Tek nik Univers itas Muhammadi yah Maka ssar pada hari Sabt u tangga l 18 Januari 2020. J.> :. ~11 .. '~n.ib, ., , .-,~J ;, ~ 
+PENGESAHAN GEDUNG MENARA IQRA LT. 3 
+JI. Sultan Alauddin No. 259 Telp. (0411) 866 972 Fax (0411) 865 588 Makassar 90221 
+Website: www.unismuh .ac.id, e_mail: elektroft @unismuh.ac.id 
+Website: http://teknik.unismuh.makassar.ac. id FAKULTAS TEKNIK 
+
+ii kami menyampaikan banyak terima kasih kepada semua pihak yang telah dari berbagai pihak sehingga memperlancar penyusunannya. Oleh karena itu, Skripsi ini telah kami susun dengan maksimal dan mendapatkan bantuan kelak dapat bermanfaat buat kita semua. dada atas segala koreksi serta perbaikan guna menyempurnakan tulisan ini agar dari segi perhitungan. Oleh karena itu penulis menerima dengan ikhlas dan lapang tidak lupuk dari kesalahan dan kekurangan baik dari segi teknik penulisan maupun banyak terdapat kekurangan-kekurangan, sebab itu penulis sebagai manusia biasa Penulis menyadari sepenuhnya bahwa dalam penulisan skripsi ini masih Cooker Machine pembangkit listrik tenaga surya (PLTS) untuk pengering padi berbasiskan Rice Muhammadiyah Makassar. Adapun judul tugas akhir ini adalah Perancangan menyelesaikan program studi pada Jurusan Elektro Fakultas Teknik Universitas Tugas akhir ini disusun sebagai salah satu persyaratan akademik untuk dan dapat kami selesaikan dengan baik. karena Rahmat dan Hidayahnyalah sehingga penulis dapat menyusun skripsi ini, Puji Syukur Alhamdulillah penulis panjatkan ke hadirat Allah SWT, Assalamulaikum Warahmatullahi Wabarakatuh KATA PENGANTAR 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

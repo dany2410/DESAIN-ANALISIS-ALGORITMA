@@ -1,0 +1,62 @@
+ 
+xii 
+ ABSTRAK  
+ 
+DHIZA PUTRIANI. 2025. Pengaruh  Environmental Social Governance (ESG)  
+dan Good  Corporate Governance (GCG) Terhadap Nilai Perusahaan (Studi 
+Empiris Pada Perusahaan Makanan dan Minuman yang Terdaftar di Bursa 
+Efek Indonesia Tahun 2021 -2023) . Skripsi. Jurusan Akuntansi Fakultas 
+Ekonomi dan Bisnis Universitas Muhammadiyah Makassar. Dibimbing oleh : 
+Muchriana Muchran dan Ramly.  
+Tujuan penelitian ini adalah  untuk menganalisis pengaruh Environmental 
+Social Governance (ESG) dan Good Corporate Governance (GCG) terhadap nilai 
+perusahaan pada perusahaan manufaktur sub sektor makanan dan minuman yang 
+terdaftar di Bursa Efek Indonesia tahun 2021 –2023. Variabel ESG diukur 
+berdasarkan pengungkapan aspek lingkungan, sosial, dan tata kelola 
+menggunakan standar Global Reporting Initiative (GRI), sedangkan variabel GCG 
+diukur melalui kepemilikan institusional, komisaris independen, dan komite a udit. 
+Penelitian ini menggunakan pendekatan kuantitatif dengan metode analisis regresi 
+data panel melalui software EViews 12. Sampel penelitian ditentukan dengan 
+teknik purposive sampling, sehingga diperoleh 23 perusahaan selama tiga tahun 
+pengamatan denga n total 69 observasi. Hasil penelitian menunjukkan bahwa 
+variabel environmental, social, dan komite audit berpengaruh signifikan terhadap 
+nilai perusahaan. Sementara itu, variabel governance, kepemilikan institusional, 
+dan komisaris independen tidak berpen garuh signifikan terhadap nilai perusahaan. 
+Temuan ini mengindikasikan bahwa aspek keberlanjutan lingkungan dan sosial 
+serta fungsi pengawasan internal yang kuat lebih dihargai oleh investor dalam 
+menentukan nilai perusahaan dibandingkan dengan struktur ke pemilikan atau 
+keberadaan komisaris independen.  
+Kata kunci :  Environmental Social Governance, Good Corporate Governance, 
+Nilai  Perusahaan
+
+ 
+xiii 
+ ABSTRACT  
+ 
+DHIZA PUTRIANI. 2025. The Influence of Environmental Social Governance 
+and Good Corporate Governance on Company Value (Empirical Study on 
+Food and Beverage Companies Listed on the Indonesia Stock Exchange in 
+2021 -2023). Thesis. Accounting Department, Facul ty of Economics and 
+Business, Muhammadiyah University of Makassar. Supervised by: 
+Muchriana Muchran and Ramly.  
+The purpose of this study is to analyze the effect of Environmental Social 
+Governance (ESG) and Good Corporate Governance (GCG) on company value in 
+food and beverage sub -sector manufacturing companies listed on the Indonesia 
+Stock Exchange in 2021 –2023. Th e ESG variable is measured based on the 
+disclosure of environmental, social, and governance aspects using the Global 
+Reporting Initiative (GRI) standard, while the GCG variable is measured through 
+institutional ownership, independent commissioners, and aud it committees. This 
+study uses a quantitative approach with a panel data regression analysis method 
+through EViews 12 software. The research sample was determined using a 
+purposive sampling technique, resulting in 23 companies over three years of 
+observati on with a total of 69 observations. The results of the study indicate that 
+environmental, social, and audit committee variables have a significant effect on 
+company value. Meanwhile, governance variables, institutional ownership, and 
+independent commission ers do not have a significant effect on company value. 
+This finding indicates that environmental and social sustainability aspects and 
+strong internal oversight functions are more valued by investors in determining 
+company value compared to ownership struc ture or the presence of independent 
+commissioners.  
+Keywords: Environmental Social Governance, Good Corporate Governance, 
+Company Valu e
+

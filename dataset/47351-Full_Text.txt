@@ -1,0 +1,771 @@
+2019 UNIVERSITAS MUHAMMADIYAH MAKASSAR FAKULTAS TEKNIK JURUSAN TEKNIK ELEKTRO PROGRAM STUD I TEKNIK LISTRIK ISHAK 
+105 82 1115 12 AHMADAZHAR 
+105 82 1062 12 Oleh: MATAHARI PANEL SURYA DENGAN PENGGERAK MENGIK UTI ARAH SKRIP SI 
+
+--- ------ -- -- -- - - -· 2019 f'-f OZ1( cLT/ t 'k~ 
+A-ZH 
+~ ---+-- -- I , ~,rl,=l- UNIVE RSITAS MUHAMMADIY AH MA KASS AR FAK ULTAS TEKNIK ' 1 PADA n°uN~~·;~~;{TAS- M;!,,\it' : .r ' 
+!~ .. ~\~~~/-· P~.f)~ ~ 'I 
+! ! r i• I i • ,.' 13/ 61 i;j k,18 
+,1 • PROGRAMSTUDITEKNIKEL EKTRO 
+' l ISHAK 
+105 82 1115 12 AHMADAZHAR 
+105 82 1062 12 Disusun dan Diajukan Oleh : Universitas Muhammadiyah Makas sar Fakulta s Teknik Jurusan Teknik Elektro Program Studi Teknik Elektro Untuk menyeleaikan Strasa Satu (Sl) Diajukan sebagai salah satu syarat SKRIP SI MATAHARI PANEL SUR YA DENGAN PENGGERAK MENGIK UTI ARAH 
+
+Mengeta hui, 
+Ketua Jurusan Elektra Adriani, S.T.,M.T Dr. I . Zahir Zainuddin, M.Sc Pembimbing II Pemb imbing I T elah Diperiksa dan Disetujui 
+O,eh Dosen Peff1bimbin9, Makassa r, 23 Februari 2019 2. 10582 1062 12 : 1. 10582 1115 12 Stamb uk Nama : 1. Ishak 
+2. Ahmad Azhar Judul Skripsi : PANEL SURYA DENGAN PENGGERAK MEN GIKUTI ARAH 
+MATAHARI Universitas Muhammadiyah Makassar. Tekni k (ST) Program Studi T eknik Elektro Jurusan Tekn ik Elektra Faku ltas Tekni k Tugas Akh ir ini diajukan untuk memenuhi syarat ujian guna mempero leh gelar Sarjana HALAMANPENGESAHAN UNIVERSITAS MUHAMMADIYAH MAKASSAR 
+PROGRAM STUDI TEKNIK ELEKTRO 
+JURUSAN TEKNIK ELEKTRO FAKUL TAS TEKNIK 
+GEDUNG MENARA IQRA LT. 3 
+JI. Sultan Alauddin No. 259 Telp. (0411) 866 972 Fax (0411) 865 588 Makassar 90221 
+Website: www.unismuh .ac.1d. e_mail: urnsmuh@gma 1l.com 
+Website: http://teknik .unismuh .makassar .ac.id 
+
+Dekan Adriani, S.T.,M.T Pemb imbing II Pembimbing I 
+Dr. Ir. : .. ~ . 3. Dr. Ir. Hj. Hafsah Nirwana , M.T. 
+Mengetahui : ~.Eng ,¥ . 
+: ~!. .. b. Sekertaris 18 Jumad il Akhir 1440 H 
+23fe ~ 2019M 
+~ ''"'' . Makassa r, Panit ia Ujian : 
+1. Pengawas Umum 
+a. Rektor Universita s Muh~mmad1y M as ar 
+Prof. Dr. H. Abdul Rahman fV irn, SE., MM. 
+b. Deka n Fakultas TeknikUniver a Sk.-ipsi alas nama Ishak dengan nomor indul\ iviahasiswa 10582 111 G 12 dan Ahmad Azha r 
+dengan nomor induk Mahasiswa 10582 1062 12, dinyatakan diter ima dan disah kan oleh Panitia 
+Ujian Tugas Akhir /Skripsi sesua i dengan Surat Keputusan Dekan Faku ltas Teknik Universitas 
+Muhammadiyah Makassar Nomo r : 0002/SK-Y/20201/091004/2019 , sebaga i salah satu syara t 
+guna mempe roleh gelar Sarjana Te knik pada l'Qgram Studi Teknik Elektra Jurusan Teknik Elektra 
+Fakultas Teknik Univers itas Muhamma ·yah Makas ser pada hari Kamis tanggal 21 Februa ri 2019. GEDUNG ME NARA IQRA LT . 3 
+JI. Sultan Alauddin No. 259 Telp. (0411) 866 972 Fax (0411) 865 588 Makassar 90221 
+Website : www.unismuh .ac.id, e_mail: unismuh @gmail. com 
+Website : http://teknik .unismuh .makassar .ac.id UNIVERSI AS MUHAMMADI AH MAKASSAR 
+FAKULTAS TEKNIK 
+
+iii Keywords : Solar Cell, Light Intensity , Electric Pow er. ABSTRACT 
+Solar panels with movers follow the direction of the sun. Guided by Zahir Zainuddin and 
+I 
+Adriani . Solar cells are devices that are comp osed of semicondu ctor 'materials that can 
+convert sunlight into electricity directl y. Often used the term photov oltaic or phot ovoltaic. 
+In design ing this Solar Panel with Driv e Following the Direction of the Sun requir es lux 
+meter, BCU equipment , light sensors, batteries I inverters and inverte rs. The purpo se of 
+this design is to determin e the performance of the Solar Panel with a Drive Follow ing the 
+Sun- as a voltage source and to determin e the m aximum level of energywroduc ed by solar 
+panels to the maximum, so that later it can be applied to the next design and society. The ,; . 
+test results of Solar Panels with Driv es Following the Sun on April 10, 2018 solar cell 
+boards in 900 perp endicular position produ ce Voltag e 11-12 (V}, Flow 1.5 (.4), Power 
+16.5 (W) and Measurem ent Data voltag e and current with panel drive , intensi ty (/ux) 
+I 105, voltage 13 (VJ, current 1.5 (.4), power 19,5 (W) 
+' ABS.TRAK 
+Panel Surya dengan Penggerak Mengikuti Arah Matahari . Dibimbing ol eh Zahir 
+Zainuddin clan Adriani. Sel Surya adalah sebuah alat yang tersusnn dari material 
+semikonduktor yang dapat mengubah sinar matahari menjadi tenaga Iistrik secara 
+langsung . Sering juga dipakai istilah photovolt aic atau fotovoltaik . Dalam perancangan 
+ini Panel Surya dengan Peng gerak Mengikuti Arah Matahari dibutuh'kan peralatan lux 
+meter , bcu, sensor cahaya, aki/baterai dan inverter . tujuan dalam perancangan ini adalah 
+untuk mengetahui kinerja Panel Sury a dengan Penggerak Mensiku'.ti Arah Matahari 
+sebagai sumber tegangan dan untuk mengetahui tingkat maksimal ener~ yang dihasilkan 
+panel surya secara maksimal, agar kelak bisa diaplikasikan pada peran ~angan selanjutnya 
+dan masyarakat . Hasil penguj ian Panel Surya dengan Penggerak : Mengikuti Arab 
+Matahari pada tanggal 10 April 2018 papan sel surya berada di posisi tegak lurus 90° 
+' menghasilkan Tegangan 11-12 (V), Arus 1,5 (A), Daya 16,5 (W) dan Data pengukuran 
+tegangan dan arus deng an peng gerakan panel.int ensitas (lux) 105, tegangan 13 (V), Arus 
+1.5 (A), Daya 19,5 (W) 
+Kata Kunci : Solar Cell, Intensitas Cahaya, Tenaga Listrlk. PANEL SURYA DEN GAN PENGGERAK MENGIKUTI ARAB 
+MATAHARI I 
+lshak< 1 dan Ahmad Azhar< 2 
+"Mahastswa Program Studi Teknik Elektr a Unismuh Makassar, azhar .rockeimail @gma il.com 
+2JMahasiswa Program Studi Teknik Elektra Unismuh Makassar. ,Misiel00193 @gma il.com 
+JI. Sultan Alauddin No.259 Telp.(0411)866 972 Fax (0411) 865 588 Mak~sar 90221 
+
+iv pengorbanan. 1. Ibunda clan saudara-saudara yang tercinta , penulis mengucapkan terima kasih 
+I 
+yang sebesar-besamya atas segala limpahan kasih fayang, doa dan mengucapkan terima kasih dan penghargaan yang setinggi-tingginya kepada : berbagai pihak. Oleh karena itu dengan segala ketulusan dan kerendahan hati , kami Skripsi ini dapat terwujud atas berkat bantuan , arahan, dan bimbingan dari kelak dapat bermanfaat buat kita semua. dada atas segala koreksi serta perbaikan guna menyempurnakan tulisan ini agar dari segi perhitungan. Oleh karena itu penulis menerima dengan ikhlas dan lapang tidak lupuk dari kesalahan dan kekurangan baik dari segi teknik penulisan maupun banyak terdapat kekurangan-kekurangan, sebab itu penulis sebagai manusia biasa Penulis menyadari sepenuhnya bahwa dalam penulisan skripsi ini masih ini adalah: "Panel Surya Dengan Penggerak Mengikuti Arah Mataha ri ". Fakultas Teknik Universitas Muhammadiyah Makassar . Adapuri judul tugas akhir akademik untuk menyelesaikan program studi pada Jurusan Teknik Elektro Penulisan tugas akhir ini diajukan untuk memenuhi salah satu persyaratan 
+I kami selesaikan dengan baik. Rahmat dan HidayahNyalah sehingga penulis dapat menyusun skripsi ini, dan dapat Puji Syukur Alhamdulillah penulis panjatkan ke hadirat Allah SWT , karena KATA PENGANTAR 
+
+v P,enulis 
+I Makassar , 1p April 2018 rekan-rekan, masyarakat serta bangsa clan Negara. Amin . sisi Allah SWf dan skripsi yang sederhana ini dapat bermanfaat bagi penulis, I Semoga semua pihak tersebut diatas mendapat pahala yang berlipat ganda di akhir ini. keakraban dan persaudaran banyak membantu dalam menyelesaikan tugas 
+I 6. Saudara-saudaraku serta rekan-rekan mahasiswa Fakultas Teknik Universitas 
+I 
+Muhammadiyah Makassar terkhusus angkatan 2012 (MISP3L) yang dengan Muhammadiyah Makassar. I 
+Muhammadiyah Makassar atas segala waktunya yang teiah mendidik dan 
+' melayani penulis selama mengikuti proses belajar mengajar di Universitas 
+• 5. Bapak dan Thu dosen serta staf pegawai pada Fakultas Teknik Universitas dalam bimbingan kami . ST.,MT. selaku Pembimbing II, yang telah banyak meluangkan waktunya 
+I Muhammadiyah Makassar . 
+4. Bapak Dr. Ir Zahir Zainuddin, M.Sc selaku Pembimbing Jr dan Ibu Adriani, sebagai Sekertaris Jurusan Teknik Elektro Fakultas Teknik Universitas 3. Bapak Umar Katu, ST.,MT . sebagai Ketua Jurusan dan Ibul Adriani, ST.,MT. Muhammadiyah Makassar. 2. Bapak Hamzah Al Imran, ST.,MT . sebagai Dekan Fakultas Teknik Univers itas 
+I 
+
+vi 2.4 Radiasi Harian Matahari pada Permukaan Bumi 15 
+2.5 Pengaruh Sudut Datang Terhad ap Radiasi yang ~terima 16 2.2 Semikonduktor dan Sel Sury a '!° 7 
+2.3 Proses Konversi Solar Cell 8 . 2.1 Sel Surya ..1 6 BAB II TINJAUAN PUSTAKA I 
+1.6 Sistem atika Penulis an i 4 1.3 BatasanMasalah ( 3 
+1.4 Tujuan Peneliti an 3 
+! 
+1.5 Manfaat Penelitian r 4 j 
+1.1 Latar Belakang :···· 1 
+I 1.2 Rumusan Masalah t 3 BAB I PENDAHULUAN f 
+DAFTAR TABEL .ix DAFTAR GAl\fBAR vii DAFTAR 181 v KATA PENGANTAR '. iii HALAMANPENGESAHAN '. ii SAMPlJL '. i DAFTARISI 
+
+vii 3.6 FlowChartProgram 41 
+I 3.4 Blok Diagram Rangkaian r 39 
+3.5 Flow Chart Perancangan ! 40 3.1 Waktu dan Tempat Penelitian .37 
+3.2 Tahap Penilitian 1·······························37 
+3.3 AlatdanBahan 38 BAB ID METODOLOGI PENELITIAN 2.11.1 Alat Ukur Intensitas Cahaya T 34 
+2.11.2 Alat Ukur Listrik ; 36 2.10 Baterai Control Regulat or (BCU) / .32 
+I 
+2.11 Alat Pengukur : 34 2.9.2 Proses Aki Mene rimaArus 31 I 
+2.9.1 Proses Aki Meng eluarkanArus ; 31 2.9 Accumulat or (aki) : 30 I 
+2.8 Motor DC (Dirr ect Current) 1... 25 
+t 2.7.3 Softw are Arduino 24 2.7.1 Peng ertian Arduino 19 
+l 
+2.7.2 Bagian-ba gian Papan Ardu ino L 22 2.6 Mikrokontroler , 17 
+i 
+2.7 Arduino Uno 1 19 
+
+viii LAMP IRAN DAFTAR PUSTAKA 5.2 Saran 52 
+I 
+I 5.1 Kesimpulan 52 BAB V PENUTUP 4.3.2 Hasil Pengujian Tegangan clan Arus .47 4.3 Hasil Pengujian dan Analisa ; .45 
+j 
+4.3.1 Hasil Pengujian Intensitas Cahaya 45 4.2 Prinsip Kerja Mekanisme Penggerak Sel Surya ~ .43 4 .1 Perancangan Alat. 42 BAB IV BASIL DAN PEMBAHASAN 
+
+Ix blok diagram rangkaian penggerak panel surya t 39 
+Flow Chart t 40 
+t 
+Blok diagram sistem kendali otomatis sel surya : .41 
+! 
+I Gambar3.1 
+Gambar3 .1 
+; Gambar4 .1 Gambar 2.19 Jenis-jenis alat ukur Listrik 36 I 
+I 
+I I 
+I 
+I 
+l Arah sinar datang membentuk sudut terhadap normal 
+bidang panel sel surya 16 
+l 
+Papan arduino tipe USB ~ 22 
+Motor DC menggunakan Gearbox 26 
+Pulsa dengan duty cycle 50% , 20 
+I 
+Pulsa PWM i.. 28 
+Aki I Accu 30 DAFTAR GAMBAR 
+Gambar2 .12 
+Gambar2 .13 
+Gambar2.14 
+Gambar2.15 
+Gambar2.16 Gambar2.11 
+Gambar2 .17 Baterai Control Unit 32 
+Gambar 2.18 Alat Ukur Intensitas Cahaya LX1330B L 35 
+I Gambar 2.1 Modul Sel Surya 7 
+Gambar 2.2 Semikonduktor jenis p dan n Sebelwn Disambung 9 
+Gambar 2.3 Perpindaban Elektrol dan Hole pada Semikondukt dr 10 
+I 
+Gambar 2.4 Hasil Muatan Positif dan Negatif pada Semikonduktor 10 
+Gambar 2.5 Timbulnya Medan Listrik Internal E 11 
+Gambar 2.6 Sambungan Semikonduktor Terkena Cahaya 
+Matahari 12 
+Gambar 2. 7 Sambungan Semikonduktor Ditembus Cahaya 
+Matahari .................................................................•........... 13 
+Gambar 2.8 Kabel Dari Sambungan Semikonduktor Dihungkan 
+KeLampu ; 14 
+Gambar 2.9 Radiasi sorotan dan radiasi sebaran yang mengenai ! 
+permukaan bumi , 15 
+Gambar 2.10 Grafik besar radiasi harian matahari yang mengenai 
+I 
+pemukaan bumi : 16 
+
+x Gambar 4.2 Matahari berada pada sudut 20 ° !. .42 
+l 
+Gambar 4.3 Matahari berada pada sudut 140° .43 
+' Gambar 4.4 Matahari berada pada sudut 90° 1 .44 
+Gambar 4.5 Grafik perbandingan intensitas cahaya tiap waktu ., .46 
+I Gambar 4.6 Grafik perbandingan tegangan dan arus ; .49 
+
+\ x I 
+Tabel 3.1 Alat yang digunakan 38 
+l 
+Tabel 3.2 Bahan yang digunakan .' 39 
+Tabel 4 .1 Data pengukuran intensitas cahaya posisi sel surya teJak 
+I lurus 44 
+Tabel 4.2 Data pengukuran intensitas cahaya dengan penggerakan 
+i 
+panel surya : 45 
+Tabet 4.3 Data pengukuran tegangan dan arus pada panel tegak ! 
+lurus +············46 
+Tabel 4.4 Data pengukuran tegangan dan arus dengan pengg erakan 
+! 
+panel surya f 47 DAFTAR TABEL 
+
+1 I 
+merupakan suatu keharusan untuk mendukung aktifitas manusia .1 Indonesia berada 
+I dengan panjang gelombang dan frekuensi tertentu . Ketersediaan energi listrik Photon dapat dilihat sebagai sebuah partikel energi atau sebagai gelombang pada tahun 1905 . buah sifat yaitu dapat sebagai gelombang dan dapat sebagai partikel yang 
+disebut dengan photon . Penemuan ini pertama kali diungkapkan oleh Einstein 
+I ' bahwa cahaya baik yang tampak maupun yang tidak tampak memiliki dua dengan memanfaatkan teori cahaya sebagai partikel, Sebagaimana diketahui lingkungan sehingga lebih ramah lingkungan. Cara kerja sel surya adalah 
+I yang tersinari matahari tanpa menghasilkan polusi yang dapat merusak Sel surya mampu beroperasi dengan baik di hampir seluruh belahan bumi solar home sistem (SHS), kemudian untuk TV umum , komunikasi , dan pompa air. 
+' untuk penerangan rumah tangga dengan sistem desentralisasi yang dikenal dengan 
+I Energi baru dan terbarukan mulai mulai dapat perhatian sejak terjadina 
+i 
+kri_sis eneri dunia yaitu pada tahun 70-an dan salah satu energi jitu adalah energi 
+surya . Energi listrik yang berasal dari energi surya untuk pertama kali digunakan masyarakat untuk mewujutkannya, salah satu dari sektor penyediaan energi . bidang dan sektor yang sekaligus menjadi tantangan bagi perner intah maupun 
+I Pembangunan nasional di indonesia dirancang untuk pemerataan diberbagai 
+I 1.1 Latar Belakang PENDAHULUAN BABI 
+
+2 di garis katulistiwa yang membuat kepulauan kita disinari oleh cahaya 
+matahari selama 10 sampai 12 jam perharinya. 
+Pemanfaatan sumber energi matahari sangat memdukung di kepulauan 
+tropis ini, hanya saja dalam IO atau 12 jam tidak semuanya dalam keadaan 
+cerah, terkadang cuaca sering kali tidak stabil dalam arti kondisi mendung, 
+berawan, dan hujan. 
+Energi yang besifat terbarukan mempunyai peran yang sangat penting dalam 
+memenuhi kebutuhan energi mengingat surnber tersbut sangat melimpah . Hal ini 
+disebabkan penggunaan bahan bakar untuk pembangkit-pembangkit listrik 
+konvesional dalam jangka waktu panjang akan menguras sumber minyak bumi, 
+gas dan batu hara yang semakin menipis dan juga dapat mengakibatkan 
+pencemaran lingkungan. 
+Salah satu upaya yang telah dikembangkan adalah pembangkit listrik tenaga 
+surya (PLTS) . Saat tengah hari radiasi sinar matahari mampu mencapai 1000 watt 
+permeter persegi. Jika sebuah piranti semikonduk:tor seluas satu meter persegi 
+memiliki efesiensi 10% maka modul sel surya mampu memberikan tenaga listrik 
+sebesar 100 watt. Modul sel surya komersial memiliki efesiensi berkisar 5% 
+hingga 15% tergantung material penyyusunannya pada panel surya. Masalah 
+terpenting untuk merealisasikan sel surya sebagai sumber energi adalah efesiensi 
+piranti sel surya dan harga pembuatannya . 
+Pemasangan panel surya yang kita lihat dilakukan dengan satu arah saja 
+sehingga efesiensi piranti sel surya tidak maksimal. Berdasarkan permasalahan 
+
+3 Manfaat yang dapat diperoleh dari perancangan ini adalah: 1.5 Manfaat Penelitian 1.4 Tujuan Penelitian 
+Tujuan dari perancangan ini yaitu : 
+1. Untuk menganalisa dan mengetahui kinerja panel surya yang bergerak 
+mengikuti arah matahari . 
+2. Untuk mengetahui tingkat maksimal energi yang dihasilkan panel 
+surya . 1.3 Batasan Masalah 
+Pembatasan masalah pada penelitian ini meliputi. 
+1. Menganalisa energi yang dihasilkan panel surya . 
+2. Penggerak panel surya menggunakan mikrokontroler. 1.2 Rumusan Masalah 
+1. Bagaimana kinerja panel surya dalam mengikuti arah matahari ? . 
+2. Bagaimana penggunaan penggerak panel surya yg cukup efesien dalam 
+penerimaan radiasi matahari ? . tersebut, terbesit ide untuk membuat tugas akhir yang berjudul "Panel surya 
+dengan Penggerak Mengikuti Arah Matahari ". 
+
+4 Dalam bagian ini akan dibahas penjelasan atau kesimpulan dan BAB V. PENUTUP BAB IV. BASIL DAN PEMBAHASAN 
+Dalam bab ini akan dibahas tentang perancangan dan basil 
+perancangan dari alat tersebut, serta basil pengujian yang telah 
+penulis lalcukan. Berisikan tentang pokok pembahasan teori atau materi yang 
+mendasari dalam pelaksanaan penelitian ini. 
+BAB Ill. METODOLOGI PENELITIAN 
+Berisikan tentang tempat pelaksanaan penelitian serta metode yang 
+diterapkan dalam tugas akhir ini. BAB II. TINJAUAN PUSTAKA 1.6 Sistematika Penulisan 
+Sistematika pembahasan yang akan diuraikan dalam buku laporan proyek 
+akhir ini terbagi dalam bab-bab yang akan dibahas sebagai berikut. 
+BABI. PENDAHULUAN 
+Dalam bab ini berisikan mengenai latar belakang , rumusan 
+masalah, tujuan penulisan, batasan masalah, manfaat penelitian 
+serta sistematika. 1. Meningkatkan kualitas dalam penerimaan radiasi matahari pada panel 
+surya. 
+2. Meningkatkan energi listrik yang dihasilkan pada solar cell. 
+
+5 saran akhir dari basil perakitan dan pengujian alat yang telah 
+dilakukan . 
+
+6 2.1 Sel Surya 
+Konversi energi dari cahaya matahari menjadi energi listrik dilak:ukan oleh 
+komponen yang disebut sel photovoltaic (sel PV). Sel PV pada dasarnya 
+semikonduktor dioda yang memiliki sambungan P-N. Dalam semikonduktor 
+ini terbentuk tiga daerah berbeda, yaitu daerah tipe P, N dan pengosongan 
+(deplesi). Pada daerah tipe P mayoritas pembawa muatannya adalah hole, 
+sedangkan pada daerah tipe N mayoritas pembawa muatan adalah elektron. 
+Daerah deplesi memiliki medan listrik internal dengan arah dari N ke P. Saat 
+radiasi matahari mengenai sel surya maka akan terbentuk elektron dan hole. 
+Karena pengaruh medan listrik internal pada daerah deplesi maka 
+menyebabkan hole bergerak menuju daerah P dan elektron bergerak menuju 
+daerah N. Perpindahan hole dan elektron ini menghasilkan arus yang disebut arus 
+fotodifusi. Selain itu pada daerah deplesi dapat pula terjadi pasangan hole dan 
+elektron karena pengaruh medan yang sama yang akan bergerak menuju ke 
+arah mayoritasnya, sehingga menghasilkan arus generasi. 
+Pada aplikasinya, tenaga listrik yang dihasilkan oleh satu modul sel 
+surya masih cukup kecil, maka dalam pemanfaatannya beberapa modul 
+digabungkan dengan cara hubungan seri maupun paralel yang disebut array. 
+Bentuk array ini yang banyak diaplikasikan untuk pembangkit listrik 
+tenaga surya (PLTS). Modul sel surya ditunjukkan pada Gambar 2.1 berikut: BABB 
+TINJAUAN PUSTAKA 
+
+7 dengan celah pita. Celah pita ini besarnya berbeda-b eda untuk setiap material adalah pita valensi dan pita konduk si, sedangkan keadaan tanpa elektron disebut Kedua pita energi tersebut berturu t-turut dari yang berenergi lebih rendah pita energi tertentu yang disebut pita kondu ksi dan pita valensi. menengah dikarenakan sifat elektron di dalam material yang terpisah dalam pita- timbul terut ama pada semikonduktor listrik yang memiliki konduktivitas ditemukan oleh Alexandre Edmond Ba cquerel (Belgia) pada 1894. Efek ini dapat mengeksitasi sebagian elektron pada suatu material ke pita energi yang energi dari cahaya (foton) pada panjang gelomb ang tertentu akan matah ari menjadi energi listrik dengan mengikuti prinsip photovoltaic, adanya adalah suatu perangkat yang rnern iliki kemampuan mengubah energi cahaya antara sebuah kondukt or dan isolator . (Albert Paul Malvino, 2003 : 35). Sel surya Sebuah semikonduktor adalah sebuah elemen dengan kemampuan listrik di 2.2 Semikonduktor dan Sel Surya Gambar 2. l Modul Sel Surya 
+
+8 dengan p ( p = posit if) karena kelebihan muatan positif Sedangkan semikonduktor jenis p memiliki kelebihan hole, sehingga disebut memiliki kelebihan elektron, sehingga kelebihan rnuatan negatif, (n = negatif). jenis n dan jenis p. Semikonduktor jenis n merupak:an semikonduktor yang semikonduktor. Lebih tepatnya tersusun atas dua jenis semikonduktor, yakni dimungkinkan karena bahan material yang rnenyusun sel surya berupa Proses pengubahan atau konversi cahaya matahari menjadi listrik: ini 2.3 Proses Konversi Solar Cell (Marcelo Alonso, 1992: 309) = 1 9863 x 10-26 Jm > h.c = (6,6256 x 10-34 Js) (2,9979 x 108 mis) E = h.c (2.1) y dirumuskan dengan persamaan : atau quanta energi. Dualitas cahaya sebagai partikel dan gelombang bahwa efek photovoltaic mengindikasikan cahaya merupakan partikel diskrit gelombang yang berbeda. Pendekatan yang berbeda dijabarkan oleh Einstein dianggap sebagai spektrum gelombang elektromagnetik dengan panjang Berdasarkan teori Maxwell tenteng radiasi electromagnet, cahaya dapat J). semikonduktor,tapi disyaratkan tidak melebihi 3 atau 4 eV (I eV = 1,60 x 10-19 
+
+9 semikonduktor n. semik onduktor p, dan perpindahan hole dari semikonduktor p rnenuju perpind ahan elektron-elektron dari semikonduktor n menuju b. Sesaat setelah dua jerus sernikonduktor uu disambun g, terjadi Gambar 2.2 Semikonduktor jenis p dan n Sebelum Disambun g O Hole • • • • • • • • • •••• ••• ••••• • • • • • • • ••• • • •• p e Eektron ••••••••• • • • • • • • • • • • • • ••••• • • • • • • • • • • • • N a. Semikondu ktor jenis p dan n sebelum disambun g. (meta llurgical Junction) yang dapat digambar kan sebagai berikut. p-n atau dioda p-n. Istilah lain menyebutn ya dengan sambun gan metalurgi Dua jenis semikonduktor n dan p ini jika disatukan akan membentuk sambun gan dapat meningkatkan daya hantar listrik maupun pana s dari sebuah semikoduktor . elektron maupun hole memiliki jumlah yang sama. Kelebihan elektron atau hole listrik dan panas semikonduktor alami . Di dalam semikonduktor alami mt, menin gkatkan tingkat konduktifitas atau tingkat kemampuan daya hantar Pada awalnya , pembuatan dua jenis semikonduktor ini dimaksudkan untuk 
+
+10 jems berbeda. yang semikondu ktor di keberadaann ya dengan pembawa muatan min oritas (minority charg e carriers) karena e. Baik elektron maupun hole yang ada pada daerah deplesi disebut (depl etion region) ditandai dengan huruf W. d. Daerah negatif dan pos itif uu disebut dengan daerah deplesi Gambar 2.4 Hasil Muat an Positif dan Negatif pada Semikondu ktor w . , 
+• • • • • • II • • • • • • • • • • ••••• • • • • • • • a •• • • • • • . . . . ••11 • • • • •• • • • • •• •• • • • p N daerah ini berkurang. Daerah ini akhirnya lebih bermuat an positif yang ada pada semikonduktor n yang mengakibatkan jumlah elektron di saat yang sama. hole dari semikonduktor p bersatu dengan elektron Daerah ini akhirnya berubah menjadi lebih bermuatan negatif Pada p yang mengakibatkan juml ah hole pada semikonduktor p akan berkurang. c. Elektron dari semikonduktor n bersatu dengan hole pada serniko nduktor w 
+Garn bar 2.3 Perpindahan Elektr on dan Hole pada Semikondukt or ........ __. . . . . . . . . . . . . -· ..... . . ... ~· - -· . . .. • • • • • • . . . . . ~· . . . .. . . . . ......... . .. . . . p N 
+
+11 dibuat jauh lebih tipis dari semikonduktor p, sehingga cahaya matahari yang atas sambungan p yang menghadap kearah datangn ya cahaya matahari , dan terjadi. Untuk keperluan sel surya, semikonduktor n berada pada lapisan Pada sambun gan p-n inilah pro ses konversi caha ya matahari menjadi listrik akibat tarikan medan listrik E. dikomp ensasi dengan mengalir nya kembali elektron ke semikondukto r n dengan juml ah elektron yang berpindah dari semik onduktor n ke p, kembali kearah semikonduktor p akibat medan listrik E. Begitu pula sernikonduktor p ke n dikompen sasi dengan juml ah hole yang tertarik titik setimbang, yakni saat di mana jumlah h ole yang berpind ah dari g. Adanya medan listrik mengakibatkan sambun gan pn berada pada Gambar 2.5 Timbuln ya Medan Listrik Intern al E w , 
+• • • • • ••••• • ••••• • • • • •• •• • • • • • • • • • ij • • • • • • • • • • • • • • ••• • • • • N -·-·-· E -·-·-. p awal terjadin ya daerah depl esi. cenderun g berlawanan dengan perpindahan hole maupun elektron pada semikonduktor p dan elektron ke semikonduktor n. Medan listrik 101 positif ke sisi negatif, yang mencoba menarik kembali hole ke depJe si, maka timbul dengan sendirin ya medan listrik internal E dari sisi f Dikar enakan adanya perbedaan muatan positif dan negatif di daerah 
+
+12 elektron dan hole akibat cahaya matahari . yang disebut dengan fotogenerasi electron hole yakni, terbentukn ya pasangan elektron ini menin ggalkan hole pada daerah yang diting galkan ol eh elektron dari semikonduktor n, daerah deple si maupun semikonduktor . Terlepasnya maka elektron mendapat energi dari cabaya matahari untuk melepaskan dirin ya Ketika sambungan semikonduktor ini terkena cahaya matahari , Gambar 2.6 Sarnbun gan Sernikonduktor Terkena Cahaya Matahari p E >. '"" lll > '- H.jJU > '- B.ru t N Cahaya Mataharl dan semikonduktor p. jatuh ke permukaan sel surya dapat terus terserap dan masuk k e daerah deplesi 
+
+13 elektron akan men galir melalui kabel. Jika sebuah lampu kecil dihubun gkan ke Apabila rangkaian kabel dihubun gkan ke dua bagian semikondu ktor, maka hole yang tertar ik ke arah semikonduktor p. elektron hasil fotogenerasi tertarik ke arah semikonduktor n, begitu pula dengan Selanjutn ya, dikar enakan pada sambun gan pn terdapat medan listri.k E, terserap di daerah semikonduktor n. Spektrum biru dengan panjang gelombang yang jauh lebih pendek hanya semikondu ktor p yan g akhirn ya menghasilkan prose s fotogenerasi di sana. lebih panj ang, mampu menembu s daerah deple si hingga terserap di Spektrum merah dari caha ya matahar i yang memiliki panjan g gelomban g pada sambungan pn berada pada bagian sambungan pn yang berbeda pula. simbol "lamda " sebagian di gambar atas) yang berbeda , membuat fotogenera si Cahaya matahari deng an panjan g gelombang ( dilamban gkan dengan Garn bar 2. 7 Sambun gan Semikonduktor Ditembu s Cahaya Matahari p Callaya ~ Ele~1ro11 • Hole E N Cshaya Mataharl 
+
+14 Ipanel = arus panel ( dalam Amp ere, A) V panel = ggl panel ( dalam vo It, V) Ppanel = daya panel (dalam watt ,W) Keterangan : P panel = V panel X Ipanel · · · · · · · (2. 2) rumu s: yang dihasilkan dari solar cell pada saat pengi sian baterai langsung digunakan menghid upkan portal parkir otornati s. Dan untuk mengetahui daya untuk mengisi ulang baterai sekunder ( charger) yang digunakan untuk Pada alat ini solar cell digunakan sebagai sumb er energi pengganti listrik Gambar 2. 8 Kabel Dari Sambungan Semikondukto r Dihun gkan Ke Lampu p I e N C8haya Matah ari I istrik ini timbul akibat pergerakan elektron . kabel , Jampu tersebut menyala dikarenakan mendapat arus listrik, dimana arus 
+
+15 Gambar 2.9 Radiasi sorotan dan radiasi sebaran yang mengen ai permukaan bumi 
+Besarnya radiasi harian yang diterima permukaan bumi di tunjukkan pada 
+grafik gambar 2.10. Pada waktu pagi dan sore radiasi yang sampai pennukaan 
+bumi intensitasnya kecil . Hal ini disebabkan arah sinar matahari tidak tegak lurus 
+dengan permukaan bumi (membentuk sudut tertentu) sehingga sinar 
+matahari mengalami peristiwa difusi o leh atmosfer bumi. 2.4 Radiasi Harian Matahari pada Permukaan Bumi 
+Konstanta radiasi matahari sebesar 1353 W/m2 dikurangi intesitasnya 
+oleh penyerapan dan pemantulan oleh atmosfer sebelum mencapai permukaan 
+bumi. Ozon di atmosfer menyerap radiasi dengan panjang-gelombang pendek 
+(ultraviolet) sedangkan karbon dioksida dan uap air menyerap sebagian radiasi 
+dengan panjang gelombang yang leb ih panjang (inframerah). Selain pengurangan 
+radiasi bumi yang langsung atau sorotan oleh penyerapan tersebut, masih ada 
+radiasi yang dipencarkan oleh molekul-molekul gas, debu , dan uap air dalam 
+atmosfer sebelum mencapai bumi yang disebut sebagai radiasi sebaran. 
+
+16 sel surya Gambar 2.1 t Arab sinar datang membentu.k sudut terhadap normal bi dang panel P:wtl sel 
+surva komponen tegak lurus bidang panel. sudut datang (angl e of incidence) yaitu sudut antara arah sinar datang dengan Besamya radiasi yang diterima panel sel surya dipengaruhi oleh 2.5 Pengaruh Sudut Datang terhadap Radiasi yang diterima Gambar 2. IO Grafik besar radiasi harian matahari yang mengenai pemukaan bumi 0+-~~~-.-~.---.---.~--.---.-~~~~~-.-~.--~ 
+5 6 7 8 9 10 11 12 13 14 15 16 17 16 19 
+Pukul 35 
+- 3+-~~~~~~~-..c...._~~....::....:....-~~~~~ __; 1 ~25+-~~~~~~.c-~~~~~~--~~~~----1 
+e 
+• ?-1--~~~~--.__~~~~~~~~----a....-~~--, c. - .. j 1.5 
+i 1-1--~~--~~~~~~~~~~~ ~~~....-~ ~ 
+'6 e 05+-~-+-~~~~~~~~~~~~~~~~ -- 
+
+- ---- •-......--...... , ri? !K. llER~~sr1\IZ t:Wl l 1 , ,1U.!. (..f·t. 17 cJ" 1Yfl dN.! -'\. h T fl; , ~-....... I download ke dalam memori chip. Dengan demikian disampi ng kompetensi antar memfun gsikan mikro kontroJer diperluk an program-program yang dapat di komunik asi serial. Fungsinya menjadi sangat kompak dan murah harganya. Untuk Mikr okontroler telah dilengkapi dengan CPU , Memory, VO, Counter /Timer dan Mikr okontroler sering disebut juga dengan one chip microcomput er. seben amya membaca dan menulis data. yang bisa dituli s dan dihapu s dengan cara khusus. Cara kerja mikrokon troler digital yang mempun yai masukan dan keluaran serta kendali denga n pro gram danoutput. Selain itu definisi lain dari mikrokontrol er adalah suatu alat elektro nika chip. Di dalamn ya terdapa t sebuah inti prosesor, memori, dan perl engkapan input Mikrokontrol er adalah sebuah sistem komput er fungs ional dalam sebuah 2.6 MikrokontroJer e = Sudut antara sinar datan g dengan normal bidang panel IrO = Radiasi yang mengenai panel Dimana : lr = Radias i yang diserap panel Ir !rO cos e (2.3) akan menerima radiasi lebih kecil dengan faktor cos e. dengan bidan g panel atau membentuk sudut e seperti gambar 2. 7 maka panel lurus dengan bidang panel. Pada saat arah matahari tidak tegak lurus Panel akan mendapat radiasi matahari maksimum pada saat matahari tegak 
+
+18 muka secara hardware diperlukan kompetensi pengembangan program atau sering 
+disebut kompetensi pemrograman . 
+Mikrokontroller digunakan dalam produk: dan alat yang dikendalikan secara 
+otomatis, seperti sistem kontrol mesin, remote kontrol, peralatan rumah tangga , 
+alat berat, clan mainan . Dengan mengurangi ukuran, biaya, dan konsumsi tenaga 
+dibandingkan dengan mendesain menggunakan mikroprosesor memori, dan alat 
+inputoutput yang terpisah, kehadiran mikrokontroler membuat kontrol elektrik 
+untuk berbagai proses menjadi lebih ekonomis . 
+Agar sebuah mikrokontroler dapat berfungsi, maka mikrokontroler tersebut 
+memerluk:an komponen ekstemal yang kemudian disebut dengan system 
+minimum. Untuk: membuat sistem minimal paling tidak membutuhkan sistem 
+clock dan reset, walaupun pada beberapa mikrokontroler sudah menyediakan 
+sistem clock internal, sehingga tanpa rangkaian ekstemal pun mikrokontroler 
+sudah beroperasi. Untuk merancang sebuah sistem berbasis mikrokontroler, kita 
+memerluk:an perangkat keras dan perangkat lunak, yaitu: 
+a. Sistem minimal mikrokontroler. 
+b. Software pemrograman dan kompiler, serta downloader. 
+Yang dimaksud dengan sistem minimal adalah sebuah rangkaian 
+mikrokontroler yang sudah dapat digunakan untuk menjalankan sebuah aplikasi. 
+Sebuah IC mikrokontroler tidak akan berarti bila hanya berdiri sendiri. Pada 
+dasamya sebuah sistem minimal mikrokontroler A VR memiliki prieset agar 
+mikrokontroler dapat menjalankan program mulai dari awal. 
+1. Rangkaian clock, yang digunakan untuk memberi detak pada CPU. 
+
+19 2.7 Arduino Uno 
+2.7.1 Pengertian Arduino 
+Arduino dikatakan sebagai sebuah platform dari physi cal computi ng yang 
+bersifat open source. Pertama-tama perlu dipahami bahwa kata "platform" di sini 
+adalah sebuah pilihan kata yang tepat. Arduino tidak hanya sekedar sebuah alat 
+pengembangan, tetapi ia adalah kombinasi dari hardware, bahasa pemrograman 
+dan Integrated Development Environment (IDE) yang canggih . IDE adalah sebuah 
+software yang sangat berperan untuk menulis program, meng-compile menjadi 
+kode biner dan meng-upload kedalam memory microcontroll er. Ada banya k 
+projek dan alat-alat dikembangkan oleh akademisi dan praktisi/professional 
+dengan menggunakan Arduino. Selain itu, juga ada banyak modul-modul 
+pendukung (sensor, tampilan, penggerak dan sebagainya) yang dibuat oleh pihak 
+lain untuk bisa disambungkan dengan Arduino. Arduino berevolusi menjadi 
+sebuah platform karena ia menjadi pilihan dan acuan bagi banyak praktisi. 
+Salah satu yang membuat Arduino memikat hati banyak orang adalah 
+karena sifatnya yang open source, baik untuk: hardware maupun software-nya. 
+Diagram rangkaian elektronik Arduino digratiskan kepada semua orang . Anda 
+bisa bebas men-download gambarnya, membeli komponen-komponenn ya, 
+membuat PCB-nya dan merangkainya sendiri tanpa harus membayar kepada para 
+pembuat Arduino. Sama halnya dengan IDE Arduino yang bisa didownload dan 
+diinstal pada komputer secara gratis. Kita patut berterima kasih kepada tim 
+Arduino yang sangat dermawanmembagi-bagikan kemewahan basil kerja keras 2. Rangkaian catu daya, yang digunakan untuk memberi sumber daya. 
+
+20 mereka kepada semua orang. Saya pribadi betul-betul kagum dengan desain 
+hardware, bahasa pemrograman dan IDE Arduino yang berkualitas tinggi dan 
+sangat berkelas. 
+Kelebihan Arduino: 
+a. Tidak perlu perangkat chip programmer karena di dalamnya sudah 
+ada bootloader yang akan menangani upload program dari komputer. 
+b. Sudah memiliki sarana komunikasi USB, sehingga pengguna Laptop 
+yang tidalanemiliki port serial/RS323 bisa menggunakannya. 
+c. Bahasa pemrograman relatif mudah karena software Arduino 
+dilengkapi dengankumpulan library yang cukup lengkap. 
+d. Memiliki modul siap pakai (shield) yang bisa ditancapkan pada 
+board Arduino.Misalnya shield GPS, Ethernet, SD Card, dll. 
+Komponen utama dalam papan Arduino adalah sebuah microcontroller 16 
+bit dengan merk UNO yang dibuat oleh perusahaan Atmel Corporation. Berbagai 
+papan Arduino menggunakan tipe UNO yang berbeda-beda tergantung dari 
+spesifikasinya, sebagai contoh Arduino Uno menggunakan ATmega8535L 
+sedangkan Arduino Mega 2560 yang lebih canggih menggunakan 
+ATrnega2560.Untuk memberikan gambaran mengenai apa saja yang terdapat di 
+dalam sebuahmicrocontroller. Diagram blok sederhana dari rnicrocontroller 
+ATmega8535L (dipakai pada Arduino Uno). 
+
+21 Blok-blok pada dibawah dijelaskan sebagai berikut: 
+a. Univ ersal Asynchronous Receiver /Transmitt er (UART) adalah antar muka 
+yang digunakan untuk komunikasi serial seperti pada RS-232, RS-422 dan RS- 
+485. 
+b. 2KB RAM pada memory kerja bersifat volatile (hilang saat daya dimatikan), 
+digunakan oleh variable- variabel di dalam program . 
+c. 32KB RAM flash memory bersifat non-volatile , digunakan untuk menyimpan 
+program yang dimuat dari komputer. Selain program , flash memory juga 
+menyimpan bootloader. Bootload er adalah program inisiasi yang ukurannya 
+kecil, dijalankan oleh CPU saat daya dihidupkan . Setelah bootloader selesai 
+dijalankan, berikutnya program di dalam RAM akan dieksekusi. 
+d. IKB EEPROM bersifat non-volatile , digunakan untuk menyimpan data yang 
+tidak boleh hilang saat daya dimatikan , Tidak digunakan pada papan Arduino. 
+e. Central Processing Unit (CPU), bagian dari microcontroller untuk menj alankan 
+setiap instruksi dari program . 
+f. Port input/output , pin-pin untuk menerima data (input) digital atau analog , dan 
+mengeluarkan data ( output ) digital atau analog. 
+
+22 c. Memberi daya listrik kepada papan b. Komuni kasi serial antara papan dan comput er a. Memu at program dari komput er ke dalam papan Berfungsi untuk: b. USB dipro gram antara 0-255, dimana ha] itu mewakili nilai tegangan 0-5V. dimana tegangan output-nya dapat diatur. NiJai sebuah pin output analog dapat buah pin 3, 5, 6, 9, 10 dan 11 dapat juga berfungsi sebagai pin analog output Berfun gsi sebagai input atau output, dapat diatur oleh program . Khusus untuk 6 a. 14 pin input/outpu t digital (0-13) Gambar 2.12 Papan Arduino tipe USB POWfR AMl og in 
+i"'GndW Ol1l 4~ "" 01 
+I~ I [ IC 1 USB 
+uuuu ..... 
+~ ht1p '/,,1rdu,no bethos dt.• 
+-"'""" 01 c:::::~~~3 •••••• • •" 
+;i,Q J11098 76S4l110 :c.!i• ••1 ~n~ 
+O,g,taf 
+~i~ i..: f Arduino i: bagiannya dapat dijelaskan sebagai berikut: Dengan mengambil contoh sebuah papan Arduino tipe USB , bagian- 2.7.2 Bagian-bagian Papan Arduino 
+
+23 danRAM. Komponen utama dari papan Arduino, di dalamnya terdapat CPU, ROM g. IC I - Microcontroller Atmega melakukan ini sehingga ICSP tidak: terlalu dipakai walaupun disediakan . secara langsung, tanpa melalui bootloader. Umumnya pengguna Arduino tidak Port ICSP memungkinkan pengguna untuk memprogram microcontroller f In-Circuit Serial Programming (!CSP) rnengosongkan microcontroller. Perhatikan bahwa tombol reset ini bukan untuk menghapus program atau Untuk me-reset papan sehingga program akan mulai lagi dari awal. e. TombolReset SI Kristal ini dipilih yang berdetak 16 juta kali/detik (16 MHz) . kepada microcontroller agar melakukan sebuah operasi untuk setiap detaknya. jantung-nya karena komponen ini menghasilkan detak -detak yang dikirim Jika microcontroller dianggap sebagai sebuah otak, maka kristal adalah d. QI -Kristal (quartz crystal oscillator) atau USB dilakukan secara otomatis. pada papan Arduino versi terakhir karena pemilihan sumber daya ekstemal sumber ekstemal atau menggunakan USB.Sambungan ini tidak: diperlukan lagi Sambungan atau jumper untuk memilih sumber daya papan, apakah dari c. Sambungan SVI 
+
+24 memory di dalam papan Arduino. c. Uploader, sebuah modul yang memuat kode biner dari komputer ke dalam kode biner. Itulah sebabnya compiler diperlukan dalam hal ini. memahami bahasa Processing. Yang bisa dipahami oleh microcontroler adalah menjadi kode biner. Bagaimanapun sebuah microcontroler tidak akan bisa b. Compiler, sebuah modul yang mengubah kode program (bahasa Processing) mengedit program dalam bahasa Processing. a. Editor program, sebuah window yang memungkinkan pengguna menulis dan Java. IDE Arduino terdiri dari: IDE Arduino adalah software yang sangat canggih clitulis dengan menggunakan ada beberapa software lain yang sangat berguna selarna pengembangan Arduino. Software Arduino yang digunakan adalah driver dan IDE, walaupun masih 2.7.3 Software Arduino input antara 0-1023, dimana hal itu mewakili nilai tegangan 0-SV. sensor analog, seperti sensor suhu. Program dapat membaca nilai sebuah pin Pin ini sangat berguna untuk membaca tegangan yang dihasilkan oleh i. 6 pin input analog (0-5) diberikan tegangan DC antara 9-12V . J ika hendak disuplai dengan sumber daya eksternal, papan Arduino dapat h. Xl - sumber daya ekstemal 
+
+25 pada gaya elektromagnetik. Motor DC bekerja bila mendapatkan tegangan searah merubah besaran listrik menjadi besaran mekanik . Prinsip kerja motor didasarkan Menurut (Hendrik, 2013) Motor DC merupakan perangkat yang berfungsi berperan sebagai saklar kutub ganda (double pole, double throw switch). (komutator). Dengan adanya insulator antara komutator, cincin belah dapat atau lebih kumparan terpisah. Tiap kumparan berujung pada cincin belah energi mekanik berupa gerak rotasi. Pada motor DC terdapat jangkar dengan satu Motor DC adalah piranti elektronik yang mengubah energi listrik menjadi 2.8 Motor DC (Dirrect Current) papan Arduino karena driver hams diinstal terlebih dahulu . program namun untuk saat ini belum bisa dipakai untuk berkomunikasi dengan telah terinstall Java runtime. IDE ini bisa langsung digunakan untuk membuat software pada umumnya tapi dapat langsung dijalankan selama komputer Anda pemrograman Java termasuk IDE-nya , sehingga ia tidak perlu diinstal seperti dalam sebuah direktori. Beberapa software Arduino ditulis menggunakan bahasa menjalankan software-software Arduino maka file tersebut hams diekstrak ke httpr //ardutno.cc /en/Main/Software. File instalasi ini berbentuk kompresi. Untuk bawah ini yang tersedia untuk sistem operasi Windows , Mac dan Linux File instalasi softwar e Arduino dapat diperoleh pada alamat situs web di keduanya memiliki arti yang sama . Kata "sketch" digunak:an secara bergantian dengan "kode program" dimana Sebuah kode program Arduino umumnya disebut dengan istilah sketch . 
+
+26 Gambar 2. 13 Motor DC menggunakan Gearbox 
+Motor DC yang digunakan pada robot beroda umumn ya adalah motor DC 
+dengan magnet permanen . Motor DC jenis ini memiliki dua buah magnet 
+permanen sehingga timbul medan magnet diantara kedua magnet tersebut. Di 
+dalam medan magnet inilah jangkar /rotor berputar. Jangk ar yang terletak ditengah 
+motor mem iliki jumlah kutub yang ganjil dan pada setiap kutubn ya terdapat 
+lilitan . Lilitan ini terhubung ke area kontak yang disebut komutator. Sikat 
+(brushes ) yang terhubun g ke kutub positif dan negatif motor memb erikan daya ke 
+lilitan sedemik.ian rupa sehingga kutub yang satu akan ditolak oleh magnet 
+permanen yang berada didekatn ya, sedangkan lilitan lain akan ditarik ke magnet 
+permanen yang lain sehingga rnenyebabkan jangkar berputar . Ketika jangkar yang cukup pada kedua kutupnya .Tegangan ini akan menimbulkan induk si 
+elektromagnetik yang menyebabkan motor berputar. Pada umumn ya, motor 
+dikJasifikasikan menurutjenis power yang digunakan dan prinsip kerja motor. 
+Bagian utama motor DC terdiri dari dua bagian yaitu bagian bergerak yang 
+disebut rotor (jangkar ), dan bagian diam yang disebut stator . 
+
+27 berputar , komutator mengubah lilitan yang mendapat pengaruh polaritas medan 
+magnet sehingga jangkar akan terns berputar selama kutub positif dan negatif 
+motor diberi daya. 
+Kecepatan putar motor DC (N) adalah pembagian antara tegangan terminal 
+(VTM) dikurangi perkalian arus jangkar motor dan hambatan jangkar motor 
+dengan perkalian konstanta motor dan fluks magnet yang terbentuk pada motor 
+Perputaran motor DC secara umum berbanding lurus dengan tegangan 
+yang di inputkan pada terminalnya . Oleh karena itu, untuk mendapatkan putaran 
+rendah maka terminal input diberi tegangan rendah minimal 3 volt dan untuk 
+mendapatkan putaran tinggi maka terminal input diberi tegangan yang tinggi 
+maksimal 12 volt. Untuk dapat mengendalikan perputaran motor DC, maka kita 
+harus membuat tegangan output yang bervariasi ( dapat diatur mulai dari O volt 
+hingga tegangan maksimum secara linear). 
+Pengendalian kecepatan putar motor DC dapat dilakukan dengan mengatur 
+besar tegangan terminal motor VTM. Metode lain yang biasa digunakan untuk 
+mengendalikan kecepatan motor DC adalah dengan teknik modulasi lebar pulsa 
+atau Pulse Width Modulation (PWM) . 
+PWM (Pulse Width Modulation) adalah salah satu teknik untuk mengatur 
+kecepatan motor DC yang umum digunakan.Dengan menggunakan PWM kita 
+dapat mengatur kecepatan yang diinginkan dengan mudah. Teknik PWM untuk 
+pengaturan kecepatan motor adalah, pengaturan kecepatan motor dengan cara 
+merubah-rubah besamya duty cycle pulsa. Pulsa yang yang berubah ubah duty 
+cycle-nya inilah yang menentukan kecepatan motor. Besamya amplitudo dan 
+
+28 Gambar 2.15 Pulsa PWM logika high terns menerus. mendapat pulsa dengan duty cycle I 00%. Dengan kata lain motor mendapat kecepatan motor tersebut. Motor akan berputar dengan kecepatan maksimum jika Semakin lama motor berada pada kondisi "nyala" maka semakin cepat pula berada pada kondisi "nyala-mati-nyala-mati" sesuai dengan bentuk pulsa tersebut. high, maka jika memberi pulsa seperti pada gambar 2.5 diatas, maka motor akan lama pula posisi logika high. Jika motor diatur agar berjalan ketika diberi logika Pada gambar 2.5, semakin besar duty cycle pulsa kotak , maka semakin Gambar 2.14 Pulsa dengan duty cycle 50% 1112T 1 
+J I I I I l 
+T sebagai contoh bentuk pulsa PWM adalah seperti pada gambar 2.5 . seperti pada gambar 2.5, pulsa kotak dengan duty cycle pulsa 50%. Sedangkan pelan pula kecepatan motor . Sebagai contoh bentuk pulsa yang dikirimkan adalah pula kecepatan motor, dan sebaliknya semakin kecil duty cycle maka semakin dengan kecepatan yang diinginkan, semakin besar duty cylce maka semakin cepat frekuensi pulsa adalah tetap, sedangkan besarnya duty cycle berubah-ubah sesuai 
+
+29 kerja motor DC P (watt) dengan kecepatan perputarannya ro (rpm). dihasilkannya.Torsi T pada motor DC dapat diartikan dengan perbandingan daya menitnya. Kecepatan motor DC berbanding terbalik dengan torsi yang rotation per minute (rpm) atau dapat diartikan sebagai jumlah putaran dalam satu lebar high dan Iow-nya bervariasi kecepatan perputaran motor dinyatakan dalam secara konstan. Jika dikehendaki kecepatan bervariasi maka diberikan pulsa yang diketahui bahwa jika dikehendaki kecepatan penuh maka diberi lebar pulsa high Dengan demikian kecepatan motor dapat dikontrol. Dari penjelasan di atas dapat 100%, artinya kecepatan motor hanya akan berputar 100% dari kecepatan penuh. berputar 50% dari kecepatan penuh. Begitujuga pada gambar 2.6 duty cyle adalah gambar 2.5 diketahui duty cyle adalah 50%, artinya kecepatan motor hanya akan selama lebar pulsa high . Dan tidak akan berputar selama Iebar pulsa low. Pada Ilustrasi dari sinyal PWM (Pulse Width Modulation) , Motor akan berputar Lebar pulsa high Duty Cycle - Sikluspcrioda x 100 (2.4) perioda kemudian dikali dengan 100. Duty cycle adalah perbandingan antara lebar pulsa high dengan siklus motor untuk berputar dalarn satu periode pulsa . kecepatan putaran motor juga akan berubah , sesuai dengan duty cycle atau waktu lamanya waktu motor untuk berputar dalam satu periode pulsa ini berubah maka lain mengatur larnanya waktu motor untuk: berputar dalam satu periode pulsa . Jika dapat mengatur banyaknya logika high yang diberikan pada motor, dengan kata Dengan mengatur besarnya duty cycle pulsa kotak yang dikirimkan, kita 
+
+30 Gambar 2.16 Aki I Accu bekerja, energi kimia diubah menjadi energi listrik. sewaktu sel dimuati , energi listrik diubah menjadi energi kirnia, dan sewa ktu sel muatannya habis. Ini karena reaksi kirnia dalam sel dapat dibalikk:an arahnya. Jadi Aki termasuk dalam jenis sel sekund er, artin ya sel ini dapat dimuat i ulang ketika listrik) dalam bentuk energi kimia.Contoh- contoh aki adalah baterai dan kapasitor. Aki adalah sebuah alat yang dapat menyimpan energi (umumn ya energi 2.9 Accumulator (Aki) c. Star/stop motor b. Merubah arah putaran motar a. Megontrol kecepatan putar an motor , menjadi dua bagian yaiut : Pengontrolan motor DC atau motor Listrik secara umum dapat dibagi T=Fxr (2.6) motor F yang dapat mempengaruhi beban untuk ikut bergerak pada jarak tertentu. Torsi motor juga dapat didefini sikan sebagai aksi dari suatu gaya pada p 
+T=- (2.5) 
+0) 
+
+31 yang dimiliki baterai, artinya baterai 12 V dialiri tegangan 12 V DC, baterai 6 V I dialiri tegangan 6 V DC, dan dua baterai 12 V yang dihubungkan secara seri 
+l' arus listrik negatif. Tegangan yang dialiri biasanya sama dengan tegangan total dihubungkan dengan arus listrik positif dan kutub negatif dihubungkan dengan sedang diisi dengan cara dialirkan listrik DC, dimana kutub positif baterai Baterai yang menerima arus adalah baterai yang sedang disetrum/dicas alias 2.9.2 Proses aki menerima arus menjadi rusak. dari air (H20) dimana air ini bisa membeku , bak baterai pecah dan pelat-pelat itu pada saat baterai dalam keadaan discharge maka 85% cairan elektrolit terdiri wajib ada di bengkel aki (bengkel yang menyediakan jasa setnun/cas aki). Selain menggunakan alat hidrometer. Hidrometer ini merupakan salah satu alat yang bisa diketahui apakah masih penuh atau sudah berk:urang yaitu dengan sekitar 1,285 kgldm3 . Dengan perbedaan berat jenis inilah kapasitas isi baterai 1 kg/dm3 . Sedangkan baterai yang masih berkapasitas penuh berat jenisnya cairan menurun menjadi sekitar 1, 1 kgldm3 dan ini mendekati berat jenis air yang rendah dan hampir melulu hanya terdiri dari air (H20), akibatnya berat jenis melekat pada pelat -pelat dalam sel sehingga cairan eletrolit konsentrasinya sangat Pada saat baterai dalam keadaan discharg e maka hampir semua asam 2.9.1 Proses aki mengeluarkan arus gambar 2.5. Adapun cara kerja aki basah sebagai berik:ut: Jenis aki yang digunakan adalah aki basah seperti yang terlihat pada 
+
+32 Gambar 2.17 merupakan BCU. BCU adalah peralatan elektronik yang 
+digunakan untuk mengatur arus searah yang diisi ke baterai dan diambil dari 
+baterai ke beban . Solar charge controller mengatur overcharging (kelebihan 
+pengisian karena baterai sudah 'penuh' ) dan kelebihan volta se dari panel surya. 
+Keleb ihan volta se dan pengisian akan meng urangi urnur baterai . 
+Solar charge controller menerapkan teknologi Pulse Width Modu lation 
+(PWM ) untuk mengatur fungsi pengisian baterai dan pembeba san arus dari baterai 
+ke beban . Solar panel 12 Volt umumn ya memiliki tegan gan output 16 - 21 Volt. Garn bar 2. I 7 Battery Control Unit 2.10 Baterai Control Unit (BCU) dialiri tegangan 24 V DC (baterai yang duhubun gkan sen total tegangann ya 
+adalahjum lah dari masing-rnasing tegangan baterai ). 
+Kebutuhan baterai minimum (baterai hanya digunakan 50% untuk 
+pemen uhan kebutuhan listrik ). Dengan demikia n kebutuhan daya dikalikan 2 kali 
+Ii pat. 
+
+33 1) Voltage 12 VoltDC/24 Volt DC 
+2) Kemampuan ( dalam arus searah) dari controll er. Misalnya 5 Ampere , 10 
+Ampere , dsb. 
+3) Full charge dan low voltage cut 
+Seperti yang telah disebutkan di atas solar charg e controller yang baik 
+biasanya mempunyai kemampuan mendeteksi kapasitas baterai. Bila baterai sudah 
+penuh terisi maka secara otomatis pengisian arus dari panel sel surya berhenti. 
+Cara deteksi adalah melalui monitor level tegangan baterai. Solar charg e 
+controller akan mengisi baterai sampai level tegangan tertentu , kemudian apabila 
+level tegangan drop, maka baterai akan diisi kembali. 
+Solar Charge Controller biasanya terdiri dari : 1 input ( 2 terminal ) yang 
+t terhubung dengan output panel sel surya, 1 output ( 2 terminal ) yang terhubung 1) Mengatur arus untuk pengisian ke baterai, menghindari overcharging, dan 
+overvoltage . 
+2) Mengatur arus yang dibebaskan/ diambil dari baterai agar baterai tidak 
+full discharge', dan overloading. 
+3) Monitoring temperatur baterai 
+Untuk membeli solar charge controller yang harus diperhati kan adalah: Beberapa fungsi detail dari solar charge co ntroll er adalah sebagai berikut: Jadi tanpa solar charge contr oller, batera i akan rusak oleh over-charging dan 
+ketidakstabilan tegangan . Baterai umumny a di-charg e pada tegangan 14 - 14.7 
+Volt. 
+
+34 menekan satu tombol. Lux meter digital ini hanya membutuhkan konsumsi daya mengganti satuan unit pengukuran antara Lux atau Footcandle hanya dengan Cahaya LX1330B ini memiliki fitur easy switch yang memudahkan anda untuk intensitas cahaya mulai dari O sampai dengan 200.000 Lux, Alat Ukur Intensitas alat ukur intens itas cahaya LXI330B ini dapat melakukan pengukuran memiliki tingkat akurasi tinggi dan respon yang sangat cepat dan sensitif mengukur intensitas cahaya hingga 200.000 lux, pengukur intensitas cahaya ini cahaya atau biasa disebut digital lux mete r model genggam yang mampu Alat Ukur Intensitas Cahaya LX1330B merupakan alat pengukur intensitas 2.11.1 Alat Ukur lntensitas Cahaya 2.11 Alat Pengukur daya listrik per bulannya bisa jauh lebih besar dari energi matahari. dapat disupport oleh tenaga angin . Bila kecepatan rata-rata angin terpenuhi maka sehingga keterbatasan waktu yang tidak bisa disuplai energ i matahari secara full, yang dihasilkan menjadi berlipat ganda karena angin bisa bertiup kapan saja, yaitu mempunyai 2 input yang berasal dari matahari dan angin . Untuk ini energi ataupun mik:ro hidro. Di pasaran sudah banyak ditemui charg e controll er 'tandem' yaitu bukan hanya berasal dari matahari, tapi juga bisa berasal dari tenaga angin Charge Controll er bahkan ada yang mempunyai lebih dari 1 sumber daya, dari panel sel surya ke baterai, bukan sebaliknya. karena biasanya ada 'diode protection' yang hanya melewatkan arus listrik DC Arus listrik DC yang berasal dari baterai tidak mungk in masuk ke panel sel surya dengan baterai I aki dan 1 output ( 2 terminal ) yang terhubung dengan beban . 
+
+35 Gambar 2.18 Alat Ukur Intensitas Cahaya LXl 3308 dari baterai berkapasitas 9V untuk melakukan tugasnya, yang bisa bertahan 
+hingga 200 jam atau bahkan lebih lama. Fitur canggih lainya yang sudah 
+disematkan pada lux meter digital ini adalah fitur Data Hold , Auto Zero dan masih 
+banyak Iagi. A/at Ukur Intensitas Cahaya LXl 3308 ini akan membantu mengatur 
+kondisi lingkungan anda seperti yang anda inginkan , khususnya pada masalah 
+pencah ayaa n. 
+Alat ukur intensitas caha ya ini banyak digunakan pada bidang 
+sinemato grafi dan desainer tata caha ya, untuk menentukan tingkat cahaya yang 
+optimal untuk sebuah adegan. alat alat pengukur intensitas cahaya juga banyak 
+digunakan pada bidang-bidang pencahayaan urnurn lainya , untuk membantu 
+mengurangi jurnlah intensitas cahaya yang terbuan g di rumah , polusi caha ya di 
+luar,dan untuk mema stikan tingkat intensita s c ahaya yang tepat untuk 
+pertumbuhan tanaman . 
+Adapun contoh alat ukur intensitas cahaya dilihat pada gambar 2.14. 
+
+1. Ampermeter Multimeter 
+Analog Skema Internal 
+Alat Ukur Listrik N ,\- ·, ' . (·) ~ , I. 
+I I. • _!·-~ - Voltmeter 
+Ano log Am~rmder 
+Analog . - . . - . 
+36 bertuju an untuk meningkatkan batas ukur galvanome ter agar dapat sebuah hambatan shunt Rsh. Peasang an hambatan shunt ini tidak lain pemasangannya, ampenneter ini harus dihub ungka n paralel dengan meng ukur kuat arus listrik dalarn suatu rangkaian tertutup. Dalam A.mperme ter adalah alat ukur listrik yang digunakan untuk Gam bar 2.19 Jenis-jenis Alat Ukur Listrik Multimder 
+Digital Golvanomde r 
+Ano log 0 • 
+• • 
+• ukur listrik yang dibedakan berdasarkan fungsi nya analog dan ada juga yang berupa alat ukur digita l. Berik ut adala h gambar alat-alat listrik (R), daya listrik (P), di!. Alat ukur listrik ini ada yang beru pa alat ukur besara n listrik seperti kuat arus listrik (I), beda potensial listrik (V), hambatan Alat ukur listrik adalah alat yang digunakan untuk mengukur besaran - 2.11.2 Alat Ukur Listrik 
+
+37 mengukur kuat arus listrik yang lebih besar dari nilai standamya . Berikut 
+adalah ilustrasi pengukuran kuat arus listrik menggunakan ampermeter . 
+2. Voltmeter 
+Voltmeter adalah alat ukur listrik yang digunakan untuk mengukur 
+beda potensial atau tegangan pada ujung-ujung komponen elektronika 
+yang sedang aktif, seperti kapasitor aktif, resistor aktif , dll. Selain itu, 
+alat ini juga bisa digunakan untuk mengukur beda potensial suatu sumber 
+tegangan, seperti batere, catu daya, aki, dll. Voltmeter dapat dibuat dari 
+sebuah galvanometer dan sebuah hambatan eksternal Rx yang dipasang 
+seri. Adapun tujuan pemasangan hambatan Rx ini tidak lain adalah untuk 
+meningkatkan batas ukur galvanometer , sehingga dapat digunakan untuk 
+mengukur tegangan yang lebih besar dari nilai standamya . 
+3. Ohmm eter 
+Ohmmeter adalah alat ukur listrik yang digunakan untuk mengukur 
+hambatan suatu komponen, seperti resistor, dan hambatan kawat 
+penghantar. Tidak seperti ampermeter dan voltmeter, ohmmeter dapat 
+bekerja sesuai dengan fungsinya jika pada alat tersebut terdapat sumber 
+tegangan, misalnya batere. 
+
+I- 111l1K PEnPusrAKAANl 
+J~.c ~:UH MAi<XSSAR . ' tugas akhir ini. yang berkait an dengan materi yang menjadi pembahasan dalam penulisan diperoleh selama mengikuti perku liahan guna menperol eh landasan teori berbagai literatur-literatur , tulisan- tulisan, dan bahan - bahan kuliah yang Pengu mpulan data-d ata dengan jalan membaca dan mempelajari 2. Data kepustakaan mengikuti arah matahari . dan topik pembahasan yang diarahkan untuk panel surya dengan penggerak Mengadakan bimbin gan dengan dosen pembimbing mengenai judul 1. Studi pendabuluan mengikuti arah matahari, yaitu : Tahapan yang dilakukan dalam penelitian panel surya dengan penggerak 3.2 Tabapan Penelitian 2018. Di lantai 10 gedung AI-Manar Universitas Muhamrn adiyah Makassar. Waktu yang dibutuhkan dalam perancangan dan penelitian pada bulan April 3.1 Waktu dan tempat penelitian BAB III 
+METODEPERANCANGAN 
+
+I 38 I 
+1\ \, 
+1\ Penelitian ini diperlukan sejumlah alat dan bahan untuk merakit alat. Adapun alat 
+dan bahan yang digunakan dapat dilihat pada tabel 3.1 dan tabel 3.2. 
+Tabel 3 .1 alat yang digunakan 
+~o Alat Spesifikasi Jumlah Satuan Keterangan 
+i Tang Lancip,kombinasi,dankupas . I Buah - I 
+2 Palu - I Buah - I 
+j Obeng Plus clan Minus I Buah - 
+' 4\ Kunci Pas 12 1 Buah - 
+5\ Bor Listrik - 1 Buah - 
+6\ MataBor 10 1 Buah - 3.3 Alat dan Bahan rangkaian. pengukuran intensitas cahaya matahari pengukuran dilakukan diluar pengukuran keluaran panel surya untuk mendapatkan tegangan. Untuk Penelitian yang dilakukan secara lansung dengan cara melakukan 4. Penelitian Lapangan (field research} merancang panel surya dan perancang sistem penggeraknya. Dalam perancangan alat tugas akhir ini memiliki dua tahap yaitu 3. Tahap Perancangan 
+
+I 
+II 39 Gambar 3.3 blok diagram rangkaiann penggerak panel surya MOTOR DC I PANEL SURYA -' BCU I I - 1 ~ 
+•r 
+DRIVER MOTOR SENSOR CAHAYA AKI/BATERAI 
+DC 
+·~ 
+·~ 
+ARDUINOUNO ,- ,~ 3.4 Blok diagram rangkaian No. Dahan Spesifikasi Jumlah Satuan Keterangan 
+1 Pane l Sel Surya lOOWP 1 Buah - 
+2 Aki/Baterai lOOAh I Buah - 
+3 BCU - I buah - 
+4 Arduin o Uno 1 Buah - 
+5 Motor DC Gearb ox 2 Buah - 
+6 LCD2x l6 - 1 Buah - 
+7 Driver Moto r DC - 1 Buah - 
+Kabel Fimale to 
+8 - 1 Buah - 
+Male Tabel 3.2 Bahan yang cligunakan 
+
+Gambar 3.4 flowchart Perancangan 
+40 Selesai Hasil Uji Analisa Tidak Program Alat Tidak Perakitan dan Pengujian 
+Komponen Alat dan bahan Penzumnulan Data Start 3.4. Flow Chart 
+
+42 tindakan manual utuk mengatur posisi sel surya agar tetap mengikuti arah matahari cahaya matahari redup dan tidak bisa dideteksi oleh sensor LDR maka dilakuk:an timur dan menjadi input pada arduino , sedangkan tombil switch berfungsi ketika Pada gambar 4.1 Sensor LDR dibuat menjadi dua arah yaitu arah barat dan Gambar 4.1 Blok Diagram Sistem Kendali Otomatis Sel Surya ~'--R-ELA_Y_M_O_~_O_R___. Sensor LDR Arah f-------. Ba rat 
+Sensor LOR Arah 
+Timur 1-----. ARDUINOUNO 
+Tombol Switch 
+Ba rat l----1 
+Tombol Switch 
+Timur ---l .. mengikuti arah matahari. pengontrolan otomatis dan relay sebagai penggerak motor agar panel surya sensor LDC sebagai pembacaan arah matahari ke arduino sebagai sistem Langkah pertama dalam perancangan adalah membuat blok diagram alur 4.1 Perancangan Alat BAB IV 
+BASIL DAN PEMBAHASAN 
+
+43 Gambar 4.2 Matahari berada pada sudut 20° 4.2 Prinsip Kerja Mekanisme Penggerak Sel Surya 
+Pada mekanisme sel surya terdapat dudukan sel surya yang dapat perputar 
+kekanan clan kekiri. Perputaran dudukan sel surya tersebut digerakkan oleh motor 
+dan mendapat perintah dari arduino clan tombol switch yang berada dipanel 
+surya .arduino memberi perintah jika mendapat sinyal dari sensor LDR yang peka 
+dari cahaya yang berada pada mekanisme solar sel. 
+Pada rangka sel surya juga terdapat tombol switch untuk membatasi gerakan 
+papan sel surya. Tombol bekerja dengan memeberi sinyal ke arduino untuk memberi 
+perintah kepada motor berhenti bila sel surya berada pada sudut 20° dan sudut 140°. clan kembali keposisi awal. Arduino yang digunakan bertipe arduino uno dengan IC 
+mikrokontroler 128P. 
+Dalam sistem kontrol otomatis peggerak panel surya mengikuti ara matahari 
+mt, output tegangan VDC dari panel surya dimanafaatkan utuk mengisi Accu, 
+mengidupkan sistem kontrol arduino, menyuplay tegangan bago koil relay , clan 
+penyupali tegangan untuk sensor LDR. 
+j 
+
+44 siang hari sampai sore hari. Proses akan terns berlangsung selama matahari mengalami perpindahan posisi meberhentikan pergerakan sel surya. keberadaan matahari ditekan tombol switch timur agar kembali keposisi atas dan Ketika matahari sudah berada dibarat dan semua sensor sudah tidak membaca motor ke arah timur dan begitupun seterusnya sampai matahari berada dibarat. sehingga memberikan sinyal ke arduino untuk memerintahkan relay menggerakkan Pada saat matahari terbit, sensor timur pertama membaca keberadaan matahari tegangan dari baterai dan motor DC kesudut tersebut berhenti. saat itu arduino memberikan perintah kepada relay. Sehingga relay terputus dan tersebut. Dikarenakan sensor LDR sudah tidak menemukan sumber matahari. Pada Perputaran motor kearah timur ke barat akan berhenti pada kedua derajat Gambar 4.3 Matahari berada pada sudut 140° 
+
+45 Waktu Pengukuran intensitas (Iux) Sudut (derajat) 
+10.00 90 90 
+10.30 89 90 
+11.00 70 90 
+11.30 105 90 Tabel 4.1 Data pengukuran intensitas cahaya posisi sel surya tegak lurus 4.3 Basil Pengujian dan Analisa 
+Pada pengujian ini akan dilakukan meliputi efesiensi cahay a matahari pelacak 
+surya dibanding dengan panel surya pada posisi tetap, dan tegan gan keluaran panel 
+adapun hasilnya sebagai berikut: 
+4.3.1 Basil Pengujian Intensitas cabaya Matahari 
+Untuk menganalisa berbandingan intensitas penerimaan cahaya matahari 
+digunakan alat ukur lux meter menggunakan dua tahap yaitu papan sel surya berada 
+posisis tegak lurus 90° dan papan sel surya mengikuti arah matahari. Gambar 4. 4 Matahari berada pada sudut 90° 
+
+46 Waktu Pengukuran intensitas (lux) Sudut ( derajat) 
+10.00 150 60 
+10.30 201 65 
+11.00 228 70 
+11.30 258 80 
+12.00 258 90 
+12.30 230 95 
+13.00 240 105 
+13.30 120 117 
+14.00 100 125 
+14.30 236 130 
+15.00 172 135 Tabel 4.2 Data pengukuran intensitas cahaya dengan penggerakan panel surya Selanjutnya melakukan pengukuran intensitas cahaya dengan panel surya 
+yang bergerak mengikuti arah matahari. 12.00 180 90 
+12.30 190 90 
+13.00 153 90 
+13.30 168 90 
+14.00 140 90 
+14.30 102 90 
+15.00 98 90 
+
+47 matahari dilakukan pula pengukuran tegangan yang dihasilkan pada panel surya. Pada saat dilakukan menganali sa berband ingan intensitas penerimaan cahaya 4.3.2 Basil Pengujian Tegangan dan Arus difaktorkan oleh cua ca yang mendun g. signifikan . Penum nan intensitas cahaya matahari yang diterima panel surya Pada grafi k perbandin gan intensita s caha ya matahari, panel surya yang tegak 
+lurus 90° dengan panel surya yang mengikuti matahari mem iliki perbandin gan yang Gambar 4.5 Grafik perbandingan inten sitas caha ya tiap waktu - intensitas cahaya 
+matahari tegak lurus 
+- intens itas mengikuti 
+cahaya 300 
+250 
+200 
+150 
+100 r- 
+50 L 0 -- lntens itas Cahay a yang bergerak mengikuti arah matahari . yang sangat signifi kan pada data tabel yang sel surya tegak lurus sengan sel surya Ketika melakukan analisa intenitas caha ya matahari dapat dilih at perbadin gan 
+
+48 Selanjutnya melakukan pengukuran tegangan clan arus dengan panel surya 
+yang bergerak mengikuti arah matahari. intensitas (lux) Tegangan (V) Arus (A) Daya (W) Sudut (derajat) 
+90 11 1,5 16,5 90 
+89 12 1,4 16,8 90 
+70 12 1,4 16,8 90 
+105 12 1 12 90 
+180 11 1,5 16,5 90 
+190 11 0,9 9,9 90 
+153 12 1,5 18 90 
+168 12 1,5 18 90 
+140 11 1 11 90 
+102 12 1,1 13,5 90 
+98 11 1 11 90 Tabel 4.3 Data pengukuran tegangan dan arus pada panel tegak lurus 
+
+49 Ketika melakukan analis a tegangan dan ams dapat dilihat perba dingan yang 
+sangat signifikan juga pada data tabel yang sel surya tegak lurus dengan sel surya 
+yang bergerak mengiku ti arah matahari. Tegangan, ams, dan daya yang dihasilkan 
+oleh sel surya tidak stabil. Hal ini diseb abkan karena kondisi cuaca pada saat 
+engu kuran berubah-nb ah sehingga sinar yang diterima oleh sel surya juga berubah- intensitas (Jux) Tegangan (V) Arus(A) Daya(W) Sudut ( derajat) 
+150 13 1,5 19,5 60 
+201 14 1,6 22,4 65 
+228 15 • 1,5 22,5 70 
+I 
+258 13 1,3 16,9 80 
+258 12 1,5 18 90 
+230 14 1,5 21 95 
+240 12 1,2 14,4 105 
+120 11 1,1 12,1 117 
+100 13 1,4 18,2 125 
+236 11 1,1 12,1 130 
+172 12 1 12 135 Tabel 4.4 Data pengukuran tegangan clan ams dengan penggerakan panel surya 
+~- 
+
+so bergerak mengikuti arah matah ari tengangan yang dihasilkan maksimal 15 volt surya yang tegak lurus dan bergerak mengikuti arah matah ari. Pada panel surya yang Pada garnbar diata s dapat dilihat perbandin gan tegangan dan arus pada panel Gambar 4.6.2 Grafi k perbandin gan tegangan dan arus tiap waktu 1 2 3 4 5 6 7 8 9 10 11 1~:, 1,6 1 Ii 1.3 1.5 2 5 1.2 LT' 2 4 1 i 1 . 4 - Arus panel mengikuti 
+mataha ri 6 - Tegangan pane l mengikuti 
+matah ari 8 12 12 
+10 16 
+14 Pengukuran tegangan dan arus Gambar 4.6.1 Grafik perbandin gan tegangan dan arus tiap waktu - arus panel tegak lurus -tega nagan pane l tegak 
+lurus 11 
+U, 1 14 --- 
+12 I 
+11 
+10 t :r=- 
+.r. 
+Hi 1.4 Pengukuran tegangan dan arus 
+
+51 sedangkan pada panel yang tegak lurus rnaksirnal tegangan yang dihasilkan sampai 
+12 volt. 
+
+.... _ .52 banyak atau skala besar secara lingkup kecil, kedepannya dibuat dalam lingkup panel yang 2. Kami juga menyarankan, jika pada saat ini kami hanya bisa membuat diharapkan kedepan dapat dibuat panel yang bergerak segalah arah. 1. Jika pada saat kami hanya menggunakan arah gerak panel kanan ke kiri Pada kesempatan ini juga kami ingin menyampaikan beberapa saran, yaitu : 5.2 Saran 
+I besar dan bisa dimanfaat oleh masyarakat. 3. Alat panel surya yang mengikuti arah matahari dapat dibuat dalam skala maksimal tegangan yang dihasilkan cuman samp ai 12 volt. I 
+I 
+I 
+I 
+I 
+I 
+I dihasilkan maksimal 15 volt sedangkan pada panel yang tegak lurus 2. Panel surya yang bergerak rnengikut i arah matahari tegangan yang sel. sensor LDR yang peka dari cahaya yang berada pada mekanisme solar berada dipanel surya .ar-duino memberi perintah jika mendapat sinyal -dari oleh motor clan mendapat perintah dari arduino clan tombol switch yang kekanan clan kekiri. Perputaran dudukan sel surya tersebut digerakkan 1. Mekanisme sel surya terdapat dudukan sel surya yang dapat perputar matahari, maka dapat disimpulkan bahwa : Berdasarkan hasil rancang bangun alat penggerak panel mengikuti arah 5.1 Kesimpulan BAB.V 
+PENUTUP 
+\ 
+
+53 j 3. Pada panel surya yang dibuat memeiJiki 50- W diharapkan kedepan 
+menggunakan panel surya diatas SO W. 
+
+Pahlevi, Reza (2014) . Pengujian karateristik panel surya berdasarkan intensitas 
+tenaga surya. Skripsi. Universitas muhamm adiyah Surakarta. 
+Stevenson, William Jr. 1984 AnalisisSistem. Tenaga Listrik, Edisi . Keempat . Jakarta: 
+Erlangga. 
+Wikipedia.org. Solarb Cell. http://en .wikipedia.org/wik:i/Solar_cell. Disunting 
+tanggal 22 November 2007. Muslim, H. Soepari. 2008. Teknik Pembangkit Listrik, Ji/id 1,2 dan 3. Departemen 
+Pendidikan Nasional. Keogh, M. William and Blackers, W. Andrew, 2001. Accurat e Measur ement, 
+Using Natural Sunlight, of Silicon Solar Cells , Research and Aplications 
+2001; 12;1-19, Centre for Sustainable Energy Systems, The Australian 
+National University, Canberra, Australia Green MA., Emery K, King DL, Hisik:awa Y, Warta W, 2006. Solar Cell Effici ency 
+Tables (Version 27), Progress Photovoltaics : Research and Applications, 
+2006; 14:45-51 Endra P, Desain, Kontrol,dan Kecerdasan Buatan. - Yogyakarta : Andi, 2006. Budiarto Widodo, Finnansya Sigit. 2010. Elektronika Digital+ Mikroprosessor. 
+Yogyakarta : CV Andi. Ardianto Heri. 2015. Pemprograman mikrocontroller AVRAtmega 16 Menggunakan 
+Bahasa C.Bandung : Informatika DAFTARPUSTAKA 
+
+
+
+
+
+
+
+

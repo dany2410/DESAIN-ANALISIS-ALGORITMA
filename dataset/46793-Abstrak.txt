@@ -1,0 +1,86 @@
+ 
+iv 
+ ABSTRAK  
+MULTAZAM MUSTADJAB. Pengembangan Jalur Pejalan Kaki Berbasis 
+Urban Network Analysis di Jalan Sultan Alauddin, Kecamatan Rappocini  
+(dibimbing oleh Nini Apriani Rumata dan M. Nurhidayat).  
+ 
+Meningkatnya pertumbuhan penduduk meni mbulkan tantangan dalam 
+mobilitas serta penyediaan fasilitas transportasi berkelanjutan. Berjalan 
+kaki merupakan moda transportasi ramah lingkungan yang mendukung 
+mobilitas perkotaan. Namun, rendahnya kualitas jalur pejalan kaki di 
+kawasan perkotaan berdam pak pada menurunnya kenyamanan, 
+keamanan, dan aksesibilitas bagi pejalan kaki. Penelitian ini bertujuan untuk 
+menganalisis kondisi eksisting jalur pejalan kaki, mengukur tingkat 
+keterhubungan jaringan jalan terhadap populasi penduduk melalui metrik 
+Between ness Centrality,  menilai persepsi masyarakat terhadap tingkat 
+walkability, serta merumuskan arahan pengembangan jalur pejalan kaki 
+sesuai standar teknis. Metode penelitian menggunakan pendekatan Mix 
+Method,  yaitu analisis kuantitatif melalui Urban Network Analysis  (UNA) 
+berbasis ArcGIS serta survei kualitatif dengan kuesioner Walkability Index  
+kepada pengguna jalur pejalan kaki. Hasil penelitian menunjukkan bahwa 
+Segmen 3 (Jl. Tallasalapang –Jl. Syech Yusuf) memiliki nilai Betweenness 
+Centrality tertinggi, m enandakan beban pergerakan paling dominan dan 
+menjadikannya prioritas pengembangan. Sementara itu, hasil perhitungan 
+Walkability Index  sebesar 25,5 berada pada kategori Not Walkable,  dengan 
+skor terendah pada infrastruktur disabilitas, ketersediaan jalur, dan fasilitas 
+pendukung. Kondisi ini menunjukkan masih tingginya potensi konflik antara 
+pejalan kaki dengan kendaraan. Penelitian menyimpulkan perlunya 
+pembangunan trotoar dengan lebar minimal 2 meter, penyediaan 
+penyeberangan yang aman, penertiban aktivit as pengganggu, 
+penambahan fasilitas pendukung, serta integrasi halte dengan jalur pejalan 
+kaki. Implementasi strategi ini diharapkan mampu meningkatkan 
+kenyamanan, keselamatan, dan keberlanjutan jalur pejalan kaki di Jalan 
+Sultan Alauddin, Kecamatan Rappoc ini. 
+ 
+Kata kunci:  Urban Network Analysis, Betweenness Centrality, Walkability,  
+Jalur Pejalan Kaki, Jalan Sultan Alauddin  Kecamatan Rappocini.  
+ 
+ 
+ 
+ 
+ 
+
+ 
+v 
+ ABSTRACT  
+MULTAZAM MUSTADJAB. Development of Pedestrian Pathways Based 
+on Urban Network Analysis on Sultan Alauddin Street, Rappocini District  
+(supervised  by Nini Apriani Rumata and M. Nurhidayat).  
+ 
+The rapid growth of urban population has created challenges in mobility and 
+the provision of sustainable transportation facilitie s. Walking is considered 
+the most environmentally friendly mode of sustainable transportation that 
+supports urban mobility. However, the poor quality of pedestrian pathways 
+in urban areas reduces comfort, safety, and accessibility for pedestrians. 
+This stu dy aims to analyze the existing condition of pedestrian pathways, 
+measure the connectivity of the street network to the population using the 
+Betweenness Centrality metric, assess public perceptions of walkability, 
+and formulate development strategies accor ding to technical standards. 
+The research employed a mixed -method approach, combining quantitative 
+spatial analysis using Urban Network Analysis (UNA) with ArcGIS software 
+and qualitative surveys through the Walkability Index questionnaire 
+distributed to p edestrian users. The results show that Segment 3 ( Jl. 
+Tallasalapang –Jl. Syech Yusuf) has the highest Betweenness Centrality 
+value, indicating the most dominant pedestrian movement load and making 
+it the main priority for development. Meanwhile, the Walkability Index score 
+of 25.5 falls into the Not Walkable category, with the lowest scores in 
+disability infrastructure, pathway availability, and supporting facilities. These 
+conditions highlight the high potential for conflicts between pedestrians and 
+motorized vehicles. The study concludes that improvements should include 
+the construction of standard sidewalks with a minimum width of 2 meters, 
+the provision of safe crossings, regulation of disruptive activities, the 
+addition of supporting facilities, a nd the integration of bus stops with 
+pedestrian pathways. The implementation of these strategies is expected to 
+improve comfort, safety, and the sustainability of pedestrian pathways along 
+Sultan Alauddin Street, Rappocini District.  
+ 
+Keywords:  Urban Networ k Analysis, Betweenness Centrality, Walkability, 
+Pedestrian Pathways, Sultan Alauddin Street Rappocini District.  
+ 
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,22 @@
+link  ;https://journal.unismuh.ac.id/index.php/jumptech/article/view/10249  
+Analisis Angkutan Sedimen Dasar 
+Mengggunakan Metode Duboys dan 
+Einstein Akibat Krib Permeabel Pada 
+Saluran Terbuka (Uji Eksperimental)  
+• Adellina Sahnaz Susanto Putri Universitas Muhammadiyah Makassar  
+• Dwi Juniati Tungga Dewi Universitas Muhammadiyah Makassar  
+• Farouk Maricar Universitas Hasanuddin  
+• Amrullah Mansida Universitas Muhammadiyah Makassar  
+ 
+Abstract  
+Sedimentasi merupakan proses pengendapan material yang terjadi di sungai. Krib merupakan 
+bangunan yang dibuat melintang sungai guna mengatur arus sungai dan mengurangi gerusan. 
+Tujuan penelitian ini yaitu mengetahui pengaruh krib permeable terhadap karakteristik aliran 
+dan mengetahui berapa besar laju angkutan  sedimen dasar akibat krib permeable menggunakan 
+metode Duboys dan Einstein. Penelitian ini dilakukan di Laboratorium Teknik Unhas 
+menggunakan flume akrilik sepanjang 900 cm dengan krib permeable dari kayu bulat dan 
+bahan uji tanah pasir lolos ayakan 20. H asil penelitian ini diketahui bahwa terjadi penurunan 
+bilangan Froude sekitar 18 % dan kenaikan bilangan Reynolds sekitar 14,56 % pada pengaliran 
+menggunakan krib kerapatan (ak 1) 0,9 cm. Laju angkutan sedimen dasar tertinggi ada pada 
+Q3S3ak1 dan yang teren dah pada Q 1S1. Menurut Einstein didapatkan qb sebesar 7,564 m3/hari 
+dan 0,358 m3/hari sedangkan menurut Duboys sebesar 0,4096 m3/hari dan 0,0058 m3/hari. 

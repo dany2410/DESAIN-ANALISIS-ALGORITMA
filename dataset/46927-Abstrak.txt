@@ -1,0 +1,37 @@
+Dipindai dengan CamScanner Keywo.rds: Epatiet 2.10 Pip 1ing. e · o.rk,, ,Cl1ean Water Bente ng is a nllage located in Benteng Distru t, Sela iar J, lands Regency. With an area of 1.94 
+km2 the populati on is 716,89 people. Kelurahan Benteng already has a pipelin e network managed 
+bv PDAM Sel,a ar. B,ut i.n rea'lity .. ater c,onsi1m pti.on .by c,u.sto.mers is often re.d1i·c1ed or does .not 
+.flow at all. The pro.b.l.em arises hen the distri:b 1,ution network reann,o.t ·,ork p 1roperly. Th:e method 
+of anal Jsis iised ,in this st,,·d is a quantitati 1e descriptiv1e method. From the .riesults of the 
+c,alcu,lation o_f thie p,op,ulation in 204.2 0:1· 12 781 p 1eopl1e. the estimate d numb1er o.f· c,ustom ers i,s 
+.3 0010 SR .. and basied on the r;esi.ilts of the calci, 1,ation t:?f the a ·erage . ater deman d in 2042 .23 l ]10 
+ltzsec'. . the maximum da'il requ.irement is 25 241 lt/sec then the . ater nieeds arie obtained ,up to In 
+204'2. the to,tal demand at pe,a·k hours is 34 ·665 l'ite rs/sec. Results B'a.sed ,on cal_ ·ulations using 
+Epanet 2.0, it w,as found that in 2022 4 ju:n,e·tions are negati · e and 6 pip 1es h,av1e a ,lar,ge decent 
+headloss. In 21042, the number o_f"inte.rsiections ith 11egati e .alues will inc.re,ase to 9 intersections 
+and 9 pip1es \i ith a decen t headloss. The solution to the p.rob 1lem ,in this condition i1.ntil 21042 is to 
+replace the p 1ipe dia.meter , .· ith .a la~ge r di,ameter. Thi, i '. done b 1ec,ai1se the small pip 1e ,di,a·meter 
+causes head lo ·s in larg1e pipes. The.re.fore the .rep1laceme nt qf thie p,ipe is expected t,o red,uce the 
+head loss and · eloci · .· in the p,ip1e. Kata kunci .~ Epanet 2.0. Jaringan Perp ipaan Air Bersik Benteng adalah. · uatu kelurahan ang berada di Kecamata n Benteng Kabupaten Kepulauan 
+Sela· ar. Dengan luas ila ·ah 1 94 km/. jumlak penduduk sebanyak 7.689 ji a. Kelu rahan 
+Benteng s dah memiliki jarin gan pipa .·ang dikelola olek PDAM Sela· ar. Nam un pada 
+kenyat aannya, konsumsi air oleb pela nggan seringkali berkurang atau tidak mengali r sama 
+sekali. Masa lah tersebut muncul ketika jaringan distribusi tidak dapat berfungsi dengan baik. 
+M d l. d · k ; J 1 · ·· ·· · d 1 ,,. d d k · ·;.,. k · · ··1· n· · etoae ana tsa ang _ tguna ·.an paaa peneuuan int aaa an metoae des ·.ript.~1 uanu tau .. art 
+hasil perhi tunga ,- pro ieksi jumlah penduduk pada tahun .2042 sebes ar 12.7 81 j.i a pro ieksi 
+jumlah. pelanggan sebesar 3.000 SR- dan berdasa rkan hasil perhit ungan kebu tuhan air rata-rata 
+pada tahun 2042 sebesar 2.3 110 lt!dt- kebutuhan haria maksimum sebesar 25. 2,41 lt!dt maka 
+dipero lelt kebi tuhan air samp ai tahun 2042 diperoleh total kebutuhan pada jam puncak sebesar 
+34.1665 lt!dt. Berdasarka n hasil perhitu ngan menggu nakan Epane t 2.10 didapa tkan pada tahun 
+2022 seban ak 4 juncti on bemilai negatif don 16 pipa mem iliki headlo ss yang bernilai besar. 
+Pada tahun 2042 jumlah junction bernilai negatif bertambah · aitu teban iak 9 juncti on dan 9 
+pipa denga n head less yang bem ilai besar. Untuk solusi dari permasalahan pada kondisi ini 
+hingga tahun 2042 adalak penggantian diameter pipa dengan diamet er tang lebih besar. Hal 
+ini dilakuka n kare na diamete r pipa · ang kecil men ebabka n headless dalam pipa besar. Oleh 
+karena itu dengan adany a penggan tian pipa diharap kan dapat mengurangi besarn a headle ss 
+dan kecepatan dalam pipa. Abstrak 12Teknik Pengairan Fakultas Teknik Uni ersit as Muhamm adi ah Mak assar. Indo nesia 
+Email : a1zditama.ra5@ gn1ail. co1n A.Hardiyanti Pntra amara1, M·utmai nna Bin udin2, Sukmasari Antaria.3., · 1 uh, Amir 
+Zainuddi n · ANA LIS.IS JAR.INGAN PERPIP .AAN AIR BERSIH DI 
+KEL U. RA'. n 'A' 'N' B'E·N' T'E·N' G' . M' EN· G' ·.·G···. UN' 'AK' 'AN.' so· .·.FT' w ,' 'A' RE . ' .. ·. . ·. ' ' . . ... · I .. ·· .· . . .. · . . : . . ·. . . . . l · . . '' I ' . ·. . . . . . I . . 
+EPAN ET 2.0· 
+

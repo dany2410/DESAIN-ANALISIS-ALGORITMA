@@ -1,0 +1,25 @@
+ABSTRAK 
+ 
+ 
+Tugas akhir ini membahas tentang penggunaan transformasi wavelet untuk 
+menentukan jenis dan letak gangguan hubung singkat yang terjadi pada jaringan 
+transmisi tegangan tinggi. Metode ini menerapkan teori gelombang berjalan untuk 
+menentukan waktu tempuh gelombang transien di sepanjang saluran transmisi antara 
+titik gangguan dan sisi pengiriman (sending end). Pengukuran gelombang dilakukan di 
+satu titik yaitu di sisi pengiriman (sending end). Sinyal gangguan yang berupa tegangan 
+dikonversikan menjadi dua mode, yaitu mode ground dan mode aerial, dengan 
+menggunakan transformasi Clarke, Mode ground digunakan untuk mengidentifikasi 
+jenis gangguan hubung singkat yang terjadi (ungrounded/symmetrical fault atau 
+grounded fault), sedangkan mode aerial digunakan untuk menentukan lokasi gangguan. 
+Transformasi wavelet digunakan untuk menentukan perbedaan waktu (time differential) 
+antara waktu datangnya puncak gelombang pertama dan puncak gelombang kedua 
+akibat refleksi pada mode aerial, Sedangkan pada mode ground, transfomasi wavelet 
+digunakan untuk mendapatkan koefisien transformasi wavelet (WTC) yang nantinya 
+dipakai untuk mengidentifikasi jenis gangguan. Simulasi gangguan dilakukan dengan 
+menggunakan software ATP, sedangkan pemoresan sinyal dilakukan dengan 
+menggunakan sofware MATLAB versi 7,3. Simulasi dilakukan untuk berbagai frekuensi 
+sampling, jenis gangguan, sudut fasa tegangan, dan lokasi gangguan. Hasil simulasi 
+menunjukan bahwa metode ini mampu menentukan jenis dan lokasi gangguan dengan 
+tingkat keakurasian yang cukup tinggi. 
+ 
+Kata kunci : frekuensi, transformasi wevelet, jenis gangguan 
